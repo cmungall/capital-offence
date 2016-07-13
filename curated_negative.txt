@@ -22,3 +22,5 @@ Syndrome
 High
 Low
 Multimer
+Thyroid ## https://github.com/geneontology/go-ontology/issues/12541
+

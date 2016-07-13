@@ -555,7 +555,6 @@ Heschl	85
 Heschl	99
 Hha	99
 Higashi	90
-High	90
 Hippel	90
 Hirschhorn	90
 Hirschsprung	90
@@ -916,7 +915,6 @@ NarGHI	99
 NatA	99
 NatB	99
 NatC	99
-Native	90
 Nbp35	99
 Ndc80	99
 Nebenkern	99
@@ -1066,7 +1064,6 @@ PriB	99
 PriC	99
 Price	85
 Price	99
-Pro	99
 ProVWX	99
 Proteinuria	90
 Proteus	90

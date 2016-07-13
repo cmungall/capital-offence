@@ -4,59 +4,9 @@ BAD (group): CHEBI	CHEBI:33579	group	molecular entity	label	false	false	3	false
 BAD (group): CHEBI	CHEBI:33579	main	group molecular entity	label	false	true	1	false
 BAD (group): CHEBI	CHEBI:33582	carbon	group molecular entity	label	false	true	1	false
 BAD (group): CHEBI	CHEBI:33582	group	molecular entity	label	false	false	3	false
-BAD (native): CL	CL:0000003	native	cell	label	false	true	1	false
-BAD (native): CL	CL:0000003	native	cell	narrow	false	true	1	false
 BAD (brown): CL	CL:0000449	brown	fat cell	exact	false	true	1	false
 BAD (brown): CL	CL:0000449	brown	fat cell	label	false	true	1	false
 BAD (thyroid): CL	CL:0000452	thyroid	hormone secreting cell	label	false	true	1	false
-BAD (pro): CL	CL:0000825	pro	NK cell	exact	false	true	1	false
-BAD (pro): CL	CL:0000825	pro	NK cell	label	false	true	1	false
-BAD (pro): CL	CL:0000825	pro	NK cell	related	false	true	1	false
-BAD (pro): CL	CL:0000826	pro	B cell	broad	false	true	1	false
-BAD (pro): CL	CL:0000826	pro	B cell	exact	false	true	1	false
-BAD (pro): CL	CL:0000826	pro	B cell	label	false	true	1	false
-BAD (pro): CL	CL:0000826	pro	B cell	related	false	true	1	false
-BAD (pro): CL	CL:0000827	pro	T cell	exact	false	true	1	false
-BAD (pro): CL	CL:0000827	pro	T cell	label	false	true	1	false
-BAD (pro): CL	CL:0000827	pro	T cell	narrow	false	true	1	false
-BAD (pro): CL	CL:0000894	pro	T cell	exact	false	false	5	false
-BAD (pro): CL	CL:0000894	pro	T cell	label	false	false	5	false
-BAD (high): CL	CL:0002014	Kit	negative, Ly-76 high basophilic erythroblast	label	true	true	1	false
-BAD (high): CL	CL:0002014	Ly	76 high basophilic erythroblast	label	true	false	5	false
-BAD (high): CL	CL:0002014	high	basophilic erythroblast	label	false	false	8	false
-BAD (high): CL	CL:0002014	negative	Ly-76 high basophilic erythroblast	label	false	false	3	false
-BAD (high): CL	CL:0002015	Kit	negative, Ly-76 high polychromatophilic erythroblast	broad	true	true	1	false
-BAD (high): CL	CL:0002015	Kit	negative, Ly-76 high polychromatophilic erythroblast	label	true	true	1	false
-BAD (high): CL	CL:0002015	Ly	76 high polychromatophilic erythroblast	broad	true	false	5	false
-BAD (high): CL	CL:0002015	Ly	76 high polychromatophilic erythroblast	label	true	false	5	false
-BAD (high): CL	CL:0002015	high	polychromatophilic erythroblast	broad	false	false	8	false
-BAD (high): CL	CL:0002015	high	polychromatophilic erythroblast	label	false	false	8	false
-BAD (high): CL	CL:0002015	negative	Ly-76 high polychromatophilic erythroblast	broad	false	false	3	false
-BAD (high): CL	CL:0002015	negative	Ly-76 high polychromatophilic erythroblast	label	false	false	3	false
-BAD (high): CL	CL:0002017	Kit	negative, Ly-76 high orthochromatophilic erythroblasts	label	true	true	1	false
-BAD (high): CL	CL:0002017	Ly	76 high orthochromatophilic erythroblasts	label	true	false	5	false
-BAD (high): CL	CL:0002017	high	orthochromatophilic erythroblasts	label	false	false	8	false
-BAD (high): CL	CL:0002017	negative	Ly-76 high orthochromatophilic erythroblasts	label	false	false	3	false
-BAD (high): CL	CL:0002019	Ly	76 high reticulocyte	label	true	true	1	false
-BAD (high): CL	CL:0002019	high	reticulocyte	label	false	false	4	false
-BAD (high): CL	CL:0002022	Ly	76 high positive erythrocyte	label	true	true	1	false
-BAD (high): CL	CL:0002022	high	positive erythrocyte	label	false	false	4	false
-BAD (high): CL	CL:0002030	RIalpha	high basophil progenitor cell	label	false	false	5	false
-BAD (high): CL	CL:0002030	high	basophil progenitor cell	label	false	false	7	false
-BAD (high): CL	CL:0002044	beta7	high basophil mast progenitor cell	label	false	false	7	false
-BAD (high): CL	CL:0002044	high	basophil mast progenitor cell	label	false	false	9	false
-BAD (pro): CL	CL:0002045	pre	pro B cell	exact	false	false	5	false
-BAD (pro): CL	CL:0002045	pre	pro B cell	label	false	false	5	false
-BAD (pro): CL	CL:0002045	pre	pro B cell	related	false	false	5	false
-BAD (pro): CL	CL:0002045	pro	B cell	exact	false	false	7	false
-BAD (pro): CL	CL:0002045	pro	B cell	label	false	false	7	false
-BAD (pro): CL	CL:0002045	pro	B cell	related	false	false	7	false
-BAD (pro): CL	CL:0002046	pro	B cell	label	false	false	3	false
-BAD (pro): CL	CL:0002048	pro	B cell	label	false	false	3	false
-BAD (high): CL	CL:0002051	CD38	high pre-BCR positive cell	label	false	true	1	false
-BAD (high): CL	CL:0002051	CD38	high pre-BCR positive cell	related	false	true	1	false
-BAD (high): CL	CL:0002051	high	pre-BCR positive cell	label	false	false	3	false
-BAD (high): CL	CL:0002051	high	pre-BCR positive cell	related	false	false	3	false
 BAD (thyroid): CL	CL:0002200	cell	of thyroid	exact	false	false	3	false
 BAD (thyroid): CL	CL:0002200	cell	of thyroid	label	false	false	3	false
 BAD (thyroid): CL	CL:0002200	of	thyroid	exact	false	false	5	false
@@ -76,40 +26,15 @@ BAD (thyroid): CL	CL:0002257	thyroid	gland	label	false	false	7	false
 BAD (thyroid): CL	CL:0002258	thyroid	follicular cell	exact	false	true	1	false
 BAD (thyroid): CL	CL:0002258	thyroid	follicular cell	label	false	true	1	false
 BAD (brown): CL	CL:0002335	brown	preadipocyte	label	false	true	1	false
-BAD (high): CL	CL:0002347	CD11b	high natural killer cell	label	false	false	5	false
-BAD (high): CL	CL:0002347	high	CD11b-high natural killer cell	label	false	false	3	false
-BAD (high): CL	CL:0002347	high	natural killer cell	label	false	false	7	false
-BAD (high): CL	CL:0002348	CD11b	high natural killer cell	label	false	false	5	false
-BAD (high): CL	CL:0002348	high	natural killer cell	label	false	false	7	false
-BAD (high): CL	CL:0002349	high	CD11b-low natural killer cell	label	false	false	3	false
 BAD (intermediate): CL	CL:0002393	intermediate	monocyte	label	false	true	1	false
-BAD (high): CL	CL:0002395	Gr1	high classical monocyte	label	true	true	1	false
-BAD (high): CL	CL:0002395	high	classical monocyte	label	false	false	3	false
 BAD (intermediate): CL	CL:0002430	intermediate	CD8-positive double-positive thymocyte	exact	false	false	3	false
 BAD (intermediate): CL	CL:0002430	intermediate	CD8-positive double-positive thymocyte	label	false	false	3	false
 BAD (intermediate): CL	CL:0002431	CD8	intermediate double-positive thymocyte	exact	false	false	5	false
 BAD (intermediate): CL	CL:0002431	CD8	intermediate double-positive thymocyte	label	false	false	5	false
 BAD (intermediate): CL	CL:0002431	intermediate	double-positive thymocyte	exact	false	false	7	false
 BAD (intermediate): CL	CL:0002431	intermediate	double-positive thymocyte	label	false	false	7	false
-BAD (high): CL	CL:0002467	Gr1	high myeloid suppressor cell	exact	true	true	1	false
-BAD (high): CL	CL:0002467	Gr1	high myeloid suppressor cell	label	true	true	1	false
-BAD (high): CL	CL:0002467	high	myeloid suppressor cell	exact	false	false	3	false
-BAD (high): CL	CL:0002467	high	myeloid suppressor cell	label	false	false	3	false
-BAD (high): CL	CL:0002473	II	high non-classical monocyte	exact	false	false	3	false
-BAD (high): CL	CL:0002473	II	high non-classical monocyte	label	false	false	3	false
-BAD (high): CL	CL:0002473	high	non-classical monocyte	exact	false	false	5	false
-BAD (high): CL	CL:0002473	high	non-classical monocyte	label	false	false	5	false
 BAD (intermediate): CL	CL:0002486	intermediate	cell	label	false	false	3	false
 BAD (intermediate): CL	CL:0002486	strial	intermediate cell	label	false	true	1	false
-BAD (high): CL	CL:0002512	high	CD103-negative, langerin-negative lymph node dendritic cell	label	false	false	3	false
-BAD (high): CL	CL:0002652	cell	of high endothelial venule	exact	false	false	3	false
-BAD (high): CL	CL:0002652	cell	of high endothelial venule	label	false	false	3	false
-BAD (high): CL	CL:0002652	endothelial	cell of high endothelial venule	exact	false	true	1	false
-BAD (high): CL	CL:0002652	endothelial	cell of high endothelial venule	label	false	true	1	false
-BAD (high): CL	CL:0002652	high	endothelial venule	exact	false	false	7	false
-BAD (high): CL	CL:0002652	high	endothelial venule	label	false	false	7	false
-BAD (high): CL	CL:0002652	of	high endothelial venule	exact	false	false	5	false
-BAD (high): CL	CL:0002652	of	high endothelial venule	label	false	false	5	false
 BAD (lugaro): CL	CL:0011006	lugaro	cell	exact	false	true	1	false
 BAD (lugaro): CL	CL:0011006	lugaro	cell	label	false	true	1	false
 BAD (intermediate): CL	CL:0011011	intermediate	mesodermal cell	label	false	true	1	false
@@ -229,18 +154,6 @@ BAD (henle): CL	CL:1001111	of	henle thin descending limb epithelial cell	label	f
 BAD (henle): CL	CL:1001111	of	henle thin descending limb epithelial cell	label	false	false	5	false
 BAD (down): CL	CL:1001437	down	neuron	label	false	false	3	false
 BAD (down): CL	CL:1001437	hair	down neuron	label	false	true	1	false
-BAD (native): CL	CL:2000020	cell	mass native cell	label	false	false	3	false
-BAD (native): CL	CL:2000020	inner	cell mass native cell	label	false	true	1	false
-BAD (native): CL	CL:2000020	mass	native cell	label	false	false	5	false
-BAD (native): CL	CL:2000020	native	cell	label	false	false	7	false
-BAD (native): CL	CL:2000021	gland	native cell	label	false	false	3	false
-BAD (native): CL	CL:2000021	native	cell	label	false	false	5	false
-BAD (native): CL	CL:2000021	sebaceous	gland native cell	label	false	true	1	false
-BAD (native): CL	CL:2000022	cardiac	septum native cell	label	false	true	1	false
-BAD (native): CL	CL:2000022	native	cell	label	false	false	5	false
-BAD (native): CL	CL:2000022	septum	native cell	label	false	false	3	false
-BAD (native): CL	CL:2000030	hypothalamus	native cell	label	false	true	1	false
-BAD (native): CL	CL:2000030	native	cell	label	false	false	3	false
 BAD (refsum): DOID	DOID:0050444	infantile	refsum disease	exact	false	true	1	false
 BAD (refsum): DOID	DOID:0050444	infantile	refsum disease	label	false	true	1	false
 BAD (refsum): DOID	DOID:0050444	refsum	disease	exact	false	false	3	false
@@ -591,7 +504,6 @@ BAD (schwannoma): DOID	DOID:3206	plexiform	schwannoma	exact	false	true	1	false
 BAD (schwannoma): DOID	DOID:3206	plexiform	schwannoma	label	false	true	1	false
 BAD (schwannoma): DOID	DOID:3206	schwannoma		exact	false	false	3	false
 BAD (schwannoma): DOID	DOID:3206	schwannoma		label	false	false	3	false
-BAD (high): DOID	DOID:3230	high	pressure neurological syndrome	label	false	true	1	false
 BAD (liposarcoma): DOID	DOID:3381	liposarcoma	of bone	exact	false	true	1	false
 BAD (liposarcoma): DOID	DOID:3381	liposarcoma	of bone	label	false	true	1	false
 BAD (liposarcoma): DOID	DOID:3382	liposarcoma		label	false	true	1	false
@@ -928,8 +840,6 @@ BAD (cataract): DOID	DOID:9669	cataract		label	false	false	3	false
 BAD (cataract): DOID	DOID:9669	senile	cataract	label	false	true	1	false
 BAD (senile): DOID	DOID:9669	senile	cataract	label	false	true	1	false
 BAD (eustachian): DOID	DOID:9739	eustachian	tube disease	label	false	true	1	false
-BAD (high): GO	GO:0000006	high	affinity zinc uptake transmembrane transporter activity	exact	false	true	1	false
-BAD (high): GO	GO:0000006	high	affinity zinc uptake transmembrane transporter activity	label	false	true	1	false
 BAD (re): GO	GO:0000320	re	entry into mitotic cell cycle	label	false	true	1	false
 BAD (re): GO	GO:0000321	re	entry into mitotic cell cycle after pheromone arrest	label	false	true	1	false
 BAD (recognition): GO	GO:0000348	branch	site recognition	exact	false	false	3	false
@@ -1542,37 +1452,12 @@ BAD (thyroid): GO	GO:0002157	thyroid	hormone mediated signaling pathway	exact	fa
 BAD (thyroid): GO	GO:0002157	thyroid	hormone mediated signaling pathway	label	false	false	7	false
 BAD (methylcrotonyl): GO	GO:0002169	methylcrotonyl	CoA carboxylase complex, mitochondrial	exact	false	false	2	false
 BAD (methylcrotonyl): GO	GO:0002169	methylcrotonyl	CoA carboxylase complex, mitochondrial	label	false	false	2	false
-BAD (high): GO	GO:0002170	high	affinity IgA receptor activity	exact	false	true	1	false
-BAD (high): GO	GO:0002170	high	affinity IgA receptor activity	label	false	true	1	false
-BAD (high): GO	GO:0002172	high	affinity IgM receptor activity	exact	false	true	1	false
-BAD (high): GO	GO:0002172	high	affinity IgM receptor activity	label	false	true	1	false
 BAD (recognition): GO	GO:0002221	pattern	recognition receptor signaling pathway	exact	false	true	1	false
 BAD (recognition): GO	GO:0002221	pattern	recognition receptor signaling pathway	label	false	true	1	false
 BAD (recognition): GO	GO:0002221	recognition	receptor signaling pathway	exact	false	false	3	false
 BAD (recognition): GO	GO:0002221	recognition	receptor signaling pathway	label	false	false	3	false
 BAD (toll): GO	GO:0002224	toll	like receptor signaling pathway	exact	false	true	1	false
 BAD (toll): GO	GO:0002224	toll	like receptor signaling pathway	label	false	true	1	false
-BAD (high): GO	GO:0002259	activation	within high endothelial venule involved in immune response	label	false	false	5	false
-BAD (high): GO	GO:0002259	activation	within high endothelial venule involved in immune response	related	false	false	5	false
-BAD (high): GO	GO:0002259	cell	activation within high endothelial venule involved in immune response	label	false	false	3	false
-BAD (high): GO	GO:0002259	cell	activation within high endothelial venule involved in immune response	related	false	false	3	false
-BAD (high): GO	GO:0002259	endothelial	cell activation within high endothelial venule involved in immune response	label	false	true	1	false
-BAD (high): GO	GO:0002259	endothelial	cell activation within high endothelial venule involved in immune response	related	false	true	1	false
-BAD (high): GO	GO:0002259	high	endothelial venule involved in immune response	label	false	false	9	false
-BAD (high): GO	GO:0002259	high	endothelial venule involved in immune response	related	false	false	9	false
-BAD (high): GO	GO:0002259	within	high endothelial venule involved in immune response	label	false	false	7	false
-BAD (high): GO	GO:0002259	within	high endothelial venule involved in immune response	related	false	false	7	false
-BAD (pro): GO	GO:0002328	pro	B cell differentiation	exact	false	true	1	false
-BAD (pro): GO	GO:0002328	pro	B cell differentiation	label	false	true	1	false
-BAD (pro): GO	GO:0002328	pro	B cell differentiation	related	false	true	1	false
-BAD (high): GO	GO:0002518	across	high endothelial venule	label	false	false	5	false
-BAD (high): GO	GO:0002518	chemotaxis	across high endothelial venule	label	false	false	3	false
-BAD (high): GO	GO:0002518	high	endothelial venule	label	false	false	7	false
-BAD (high): GO	GO:0002518	lymphocyte	chemotaxis across high endothelial venule	label	false	true	1	false
-BAD (pro): GO	GO:0002572	pro	T cell differentiation	exact	false	true	1	false
-BAD (pro): GO	GO:0002572	pro	T cell differentiation	label	false	true	1	false
-BAD (pro): GO	GO:0002680	pro	T cell lineage commitment	exact	false	true	1	false
-BAD (pro): GO	GO:0002680	pro	T cell lineage commitment	label	false	true	1	false
 BAD (recognition): GO	GO:0002748	and	presentation initiated by pattern recognition receptor mediated uptake of antigen	exact	false	false	5	false
 BAD (recognition): GO	GO:0002748	and	presentation initiated by pattern recognition receptor mediated uptake of antigen	label	false	false	5	false
 BAD (recognition): GO	GO:0002748	antigen	processing and presentation initiated by pattern recognition receptor mediated uptake of antigen	exact	false	true	1	false
@@ -1660,27 +1545,6 @@ BAD (frizzled): GO	GO:0005110	frizzled	2 binding	label	false	true	1	false
 BAD (frizzled): GO	GO:0005110	frizzled	2 binding	narrow	false	true	1	false
 BAD (oncostatin): GO	GO:0005147	oncostatin	M receptor binding	label	false	true	1	false
 BAD (oncostatin): GO	GO:0005147	oncostatin	M receptor binding	narrow	false	true	1	false
-BAD (high): GO	GO:0005287	high	affinity basic amino acid transmembrane transporter activity	broad	false	true	1	false
-BAD (high): GO	GO:0005287	high	affinity basic amino acid transmembrane transporter activity	exact	false	true	1	false
-BAD (high): GO	GO:0005287	high	affinity basic amino acid transmembrane transporter activity	label	false	true	1	false
-BAD (high): GO	GO:0005289	high	affinity arginine transmembrane transporter activity	broad	false	true	1	false
-BAD (high): GO	GO:0005289	high	affinity arginine transmembrane transporter activity	exact	false	true	1	false
-BAD (high): GO	GO:0005289	high	affinity arginine transmembrane transporter activity	label	false	true	1	false
-BAD (high): GO	GO:0005291	high	affinity L-histidine transmembrane transporter activity	exact	false	true	1	false
-BAD (high): GO	GO:0005291	high	affinity L-histidine transmembrane transporter activity	label	false	true	1	false
-BAD (high): GO	GO:0005291	high	affinity L-histidine transmembrane transporter activity	related	false	true	1	false
-BAD (high): GO	GO:0005292	high	affinity lysine transmembrane transporter activity	broad	false	true	1	false
-BAD (high): GO	GO:0005292	high	affinity lysine transmembrane transporter activity	exact	false	true	1	false
-BAD (high): GO	GO:0005292	high	affinity lysine transmembrane transporter activity	label	false	true	1	false
-BAD (high): GO	GO:0005300	high	affinity tryptophan transmembrane transporter activity	broad	false	true	1	false
-BAD (high): GO	GO:0005300	high	affinity tryptophan transmembrane transporter activity	label	false	true	1	false
-BAD (high): GO	GO:0005314	high	affinity glutamate transmembrane transporter activity	broad	false	true	1	false
-BAD (high): GO	GO:0005314	high	affinity glutamate transmembrane transporter activity	label	false	true	1	false
-BAD (high): GO	GO:0005316	high	affinity inorganic phosphate:sodium symporter activity	broad	false	true	1	false
-BAD (high): GO	GO:0005316	high	affinity inorganic phosphate:sodium symporter activity	exact	false	true	1	false
-BAD (high): GO	GO:0005316	high	affinity inorganic phosphate:sodium symporter activity	label	false	true	1	false
-BAD (high): GO	GO:0005358	high	affinity hydrogen:glucose symporter activity	broad	false	true	1	false
-BAD (high): GO	GO:0005358	high	affinity hydrogen:glucose symporter activity	label	false	true	1	false
 BAD (vitamin): GO	GO:0005499	vitamin	D binding	label	false	true	1	false
 BAD (vitamin): GO	GO:0005499	vitamin	D binding	narrow	false	true	1	false
 BAD (recognition): GO	GO:0005664	nuclear	origin of replication recognition complex	exact	false	true	1	false
@@ -1808,9 +1672,6 @@ BAD (vitamin): GO	GO:0006775	vitamin	metabolic process	exact	false	false	5	false
 BAD (vitamin): GO	GO:0006775	vitamin	metabolic process	label	false	false	5	false
 BAD (vitamin): GO	GO:0006776	vitamin	A metabolic process	exact	false	true	1	false
 BAD (vitamin): GO	GO:0006776	vitamin	A metabolic process	label	false	true	1	false
-BAD (high): GO	GO:0006827	high	affinity iron ion transmembrane transport	broad	false	true	1	false
-BAD (high): GO	GO:0006827	high	affinity iron ion transmembrane transport	label	false	true	1	false
-BAD (high): GO	GO:0006830	high	affinity zinc II ion transport	label	false	true	1	false
 BAD (recognition): GO	GO:0006910	phagocytosis	recognition	exact	false	true	1	false
 BAD (recognition): GO	GO:0006910	phagocytosis	recognition	label	false	true	1	false
 BAD (recognition): GO	GO:0006910	recognition		exact	false	false	3	false
@@ -1843,8 +1704,6 @@ BAD (aging): GO	GO:0007580	in	cell aging	label	false	false	11	false
 BAD (aging): GO	GO:0007580	in	cell aging	related	false	false	11	false
 BAD (aging): GO	GO:0007580	involved	in cell aging	label	false	false	9	false
 BAD (aging): GO	GO:0007580	involved	in cell aging	related	false	false	9	false
-BAD (high): GO	GO:0008035	high	density lipoprotein particle binding	exact	false	true	1	false
-BAD (high): GO	GO:0008035	high	density lipoprotein particle binding	label	false	true	1	false
 BAD (recognition): GO	GO:0008037	cell	recognition	exact	false	true	1	false
 BAD (recognition): GO	GO:0008037	cell	recognition	label	false	true	1	false
 BAD (recognition): GO	GO:0008037	recognition		exact	false	false	3	false
@@ -1870,9 +1729,6 @@ BAD (recognition): GO	GO:0008329	recognition	receptor activity	related	false	fal
 BAD (recognition): GO	GO:0008329	signaling	pattern recognition receptor activity	exact	false	true	1	false
 BAD (recognition): GO	GO:0008329	signaling	pattern recognition receptor activity	label	false	true	1	false
 BAD (recognition): GO	GO:0008329	signaling	pattern recognition receptor activity	related	false	true	1	false
-BAD (high): GO	GO:0008331	high	voltage-gated calcium channel activity	exact	false	true	1	false
-BAD (high): GO	GO:0008331	high	voltage-gated calcium channel activity	label	false	true	1	false
-BAD (high): GO	GO:0008331	high	voltage-gated calcium channel activity	related	false	true	1	false
 BAD (vitamin): GO	GO:0008431	vitamin	E binding	exact	false	true	1	false
 BAD (vitamin): GO	GO:0008431	vitamin	E binding	label	false	true	1	false
 BAD (vitamin): GO	GO:0008431	vitamin	E binding	narrow	false	true	1	false
@@ -1892,14 +1748,7 @@ BAD (lesion): GO	GO:0008534	purine	nucleobase lesion DNA N-glycosylase activity	
 BAD (lesion): GO	GO:0008534	purine	nucleobase lesion DNA N-glycosylase activity	exact	false	false	3	false
 BAD (lesion): GO	GO:0008534	purine	nucleobase lesion DNA N-glycosylase activity	label	false	false	3	false
 BAD (lesion): GO	GO:0008534	purine	nucleobase lesion DNA N-glycosylase activity	related	false	false	3	false
-BAD (high): GO	GO:0008646	high	affinity hexose transport	label	false	true	1	false
 BAD (dihydroxy): GO	GO:0008686	dihydroxy	2-butanone-4-phosphate synthase activity	label	false	false	3	false
-BAD (pro): GO	GO:0008771	pro	3S)-lyase] ligase activity	broad	false	false	3	false
-BAD (pro): GO	GO:0008771	pro	3S)-lyase] ligase activity	exact	false	false	3	false
-BAD (pro): GO	GO:0008771	pro	3S)-lyase] ligase activity	label	false	false	3	false
-BAD (pro): GO	GO:0008815	pro	3S)-lyase activity	exact	false	false	3	false
-BAD (pro): GO	GO:0008815	pro	3S)-lyase activity	label	false	false	3	false
-BAD (pro): GO	GO:0008815	pro	3S)-lyase activity	related	false	false	3	false
 BAD (cob): GO	GO:0008817	cob	I)yrinic acid a,c-diamide adenosyltransferase activity	exact	false	true	1	false
 BAD (cob): GO	GO:0008817	cob	I)yrinic acid a,c-diamide adenosyltransferase activity	label	false	true	1	false
 BAD (cob): GO	GO:0008817	cob	I)yrinic acid a,c-diamide adenosyltransferase activity	related	false	true	1	false
@@ -1918,11 +1767,6 @@ BAD (far): GO	GO:0009639	or	far red light	label	false	false	7	false
 BAD (far): GO	GO:0009639	red	or far red light	label	false	false	5	false
 BAD (far): GO	GO:0009639	response	to red or far red light	label	false	true	1	false
 BAD (far): GO	GO:0009639	to	red or far red light	label	false	false	3	false
-BAD (high): GO	GO:0009644	high	light intensity	label	false	false	5	false
-BAD (high): GO	GO:0009644	response	to high light intensity	label	false	true	1	false
-BAD (high): GO	GO:0009644	to	high light intensity	label	false	false	3	false
-BAD (high): GO	GO:0009675	high	affinity sulfate:proton symporter activity	exact	false	true	1	false
-BAD (high): GO	GO:0009675	high	affinity sulfate:proton symporter activity	label	false	true	1	false
 BAD (de): GO	GO:0009704	de	etiolation	label	false	true	1	false
 BAD (nodule): GO	GO:0009878	nodule	morphogenesis	label	false	true	1	false
 BAD (far): GO	GO:0009883	far	red light photoreceptor activity	exact	false	false	5	false
@@ -1941,14 +1785,11 @@ BAD (far): GO	GO:0010017	far	red light signaling pathway	exact	false	false	5	fal
 BAD (far): GO	GO:0010017	far	red light signaling pathway	label	false	false	5	false
 BAD (far): GO	GO:0010018	far	red light signaling pathway	exact	false	true	1	false
 BAD (far): GO	GO:0010018	far	red light signaling pathway	label	false	true	1	false
-BAD (high): GO	GO:0010163	high	affinity potassium ion import	exact	false	true	1	false
-BAD (high): GO	GO:0010163	high	affinity potassium ion import	label	false	true	1	false
 BAD (vitamin): GO	GO:0010189	vitamin	E biosynthetic process	exact	false	true	1	false
 BAD (vitamin): GO	GO:0010189	vitamin	E biosynthetic process	label	false	true	1	false
 BAD (vitamin): GO	GO:0010189	vitamin	E biosynthetic process	narrow	false	true	1	false
 BAD (far): GO	GO:0010201	continuous	far red light stimulus by the high-irradiance response system	label	false	false	5	false
 BAD (far): GO	GO:0010201	far	red light stimulus by the high-irradiance response system	label	false	false	7	false
-BAD (high): GO	GO:0010201	high	irradiance response system	label	false	false	19	false
 BAD (far): GO	GO:0010201	response	to continuous far red light stimulus by the high-irradiance response system	label	false	true	1	false
 BAD (far): GO	GO:0010201	to	continuous far red light stimulus by the high-irradiance response system	label	false	false	3	false
 BAD (far): GO	GO:0010218	far	red light	exact	false	false	5	false
@@ -1988,15 +1829,8 @@ BAD (vitamin): GO	GO:0010980	of	vitamin D 24-hydroxylase activity	label	false	fa
 BAD (vitamin): GO	GO:0010980	positive	regulation of vitamin D 24-hydroxylase activity	label	false	true	1	false
 BAD (vitamin): GO	GO:0010980	regulation	of vitamin D 24-hydroxylase activity	label	false	false	3	false
 BAD (vitamin): GO	GO:0010980	vitamin	D 24-hydroxylase activity	label	false	false	7	false
-BAD (high): GO	GO:0010982	high	density lipoprotein particle clearance	label	false	false	5	false
-BAD (high): GO	GO:0010983	high	density lipoprotein particle clearance	label	false	false	7	false
-BAD (high): GO	GO:0010987	high	density lipoprotein particle clearance	label	false	false	7	false
 BAD (silver): GO	GO:0015080	silver	ion transmembrane transporter activity	exact	false	true	1	false
 BAD (silver): GO	GO:0015080	silver	ion transmembrane transporter activity	label	false	true	1	false
-BAD (high): GO	GO:0015089	high	affinity copper ion transmembrane transporter activity	exact	false	true	1	false
-BAD (high): GO	GO:0015089	high	affinity copper ion transmembrane transporter activity	label	false	true	1	false
-BAD (high): GO	GO:0015092	high	affinity ferric uptake transmembrane transporter activity	exact	false	true	1	false
-BAD (high): GO	GO:0015092	high	affinity ferric uptake transmembrane transporter activity	label	false	true	1	false
 BAD (group): GO	GO:0015246	acyl	group transporter activity	exact	false	false	3	false
 BAD (group): GO	GO:0015246	acyl	group transporter activity	label	false	false	3	false
 BAD (group): GO	GO:0015246	acyl	group transporter activity	narrow	false	false	3	false
@@ -2006,18 +1840,7 @@ BAD (group): GO	GO:0015246	fatty	acyl group transporter activity	narrow	false	tr
 BAD (group): GO	GO:0015246	group	transporter activity	exact	false	false	5	false
 BAD (group): GO	GO:0015246	group	transporter activity	label	false	false	5	false
 BAD (group): GO	GO:0015246	group	transporter activity	narrow	false	false	5	false
-BAD (high): GO	GO:0015330	high	affinity glutamine transmembrane transporter activity	exact	false	true	1	false
-BAD (high): GO	GO:0015330	high	affinity glutamine transmembrane transporter activity	label	false	true	1	false
-BAD (high): GO	GO:0015330	high	affinity glutamine transmembrane transporter activity	related	false	true	1	false
-BAD (high): GO	GO:0015334	high	affinity oligopeptide transporter activity	exact	false	true	1	false
-BAD (high): GO	GO:0015334	high	affinity oligopeptide transporter activity	label	false	true	1	false
 BAD (thyroid): GO	GO:0015349	thyroid	hormone transmembrane transporter activity	label	false	true	1	false
-BAD (high): GO	GO:0015362	high	affinity sodium:dicarboxylate symporter activity	broad	false	true	1	false
-BAD (high): GO	GO:0015362	high	affinity sodium:dicarboxylate symporter activity	exact	false	true	1	false
-BAD (high): GO	GO:0015362	high	affinity sodium:dicarboxylate symporter activity	label	false	true	1	false
-BAD (high): GO	GO:0015381	high	affinity sulfate transmembrane transporter activity	exact	false	true	1	false
-BAD (high): GO	GO:0015381	high	affinity sulfate transmembrane transporter activity	label	false	true	1	false
-BAD (high): GO	GO:0015381	high	affinity sulfate transmembrane transporter activity	related	false	true	1	false
 BAD (down): GO	GO:0015395	activity	down a concentration gradient	exact	false	false	7	false
 BAD (down): GO	GO:0015395	activity	down a concentration gradient	label	false	false	7	false
 BAD (down): GO	GO:0015395	activity	down a concentration gradient	narrow	false	false	7	false
@@ -2033,8 +1856,6 @@ BAD (down): GO	GO:0015395	transmembrane	transporter activity, down a concentrati
 BAD (down): GO	GO:0015395	transporter	activity, down a concentration gradient	exact	false	false	5	false
 BAD (down): GO	GO:0015395	transporter	activity, down a concentration gradient	label	false	false	5	false
 BAD (down): GO	GO:0015395	transporter	activity, down a concentration gradient	narrow	false	false	5	false
-BAD (high): GO	GO:0015398	high	affinity secondary active ammonium transmembrane transporter activity	exact	false	true	1	false
-BAD (high): GO	GO:0015398	high	affinity secondary active ammonium transmembrane transporter activity	label	false	true	1	false
 BAD (silver): GO	GO:0015445	silver	exporting ATPase activity	exact	false	true	1	false
 BAD (silver): GO	GO:0015445	silver	exporting ATPase activity	label	false	true	1	false
 BAD (usher): GO	GO:0015473	fimbrial	usher porin activity	label	false	true	1	false
@@ -2049,10 +1870,6 @@ BAD (group): GO	GO:0015652	group	proton symporter activity	exact	false	false	5	f
 BAD (group): GO	GO:0015652	group	proton symporter activity	label	false	false	5	false
 BAD (silver): GO	GO:0015673	silver	ion transport	exact	false	true	1	false
 BAD (silver): GO	GO:0015673	silver	ion transport	label	false	true	1	false
-BAD (high): GO	GO:0015678	high	affinity copper ion transport	exact	false	true	1	false
-BAD (high): GO	GO:0015678	high	affinity copper ion transport	label	false	true	1	false
-BAD (high): GO	GO:0015683	high	affinity ferric iron transport	exact	false	true	1	false
-BAD (high): GO	GO:0015683	high	affinity ferric iron transport	label	false	true	1	false
 BAD (group): GO	GO:0015697	ammonium	group transport	exact	false	false	3	false
 BAD (group): GO	GO:0015697	ammonium	group transport	label	false	false	3	false
 BAD (group): GO	GO:0015697	group	transport	exact	false	false	5	false
@@ -2646,12 +2463,6 @@ BAD (intermediate): GO	GO:0019037	viral	assembly intermediate	label	false	true	1
 BAD (intermediate): GO	GO:0019215	intermediate	filament binding	label	false	true	1	false
 BAD (hydroxyphenylpyruvate): GO	GO:0019292	hydroxyphenylpyruvate		exact	false	false	14	false
 BAD (hydroxyphenylpyruvate): GO	GO:0019292	hydroxyphenylpyruvate		label	false	false	14	false
-BAD (high): GO	GO:0019768	high	affinity IgE receptor activity	exact	false	true	1	false
-BAD (high): GO	GO:0019768	high	affinity IgE receptor activity	label	false	true	1	false
-BAD (high): GO	GO:0019768	high	affinity IgE receptor activity	related	false	true	1	false
-BAD (high): GO	GO:0019771	high	affinity IgG receptor activity	exact	false	true	1	false
-BAD (high): GO	GO:0019771	high	affinity IgG receptor activity	label	false	true	1	false
-BAD (high): GO	GO:0019771	high	affinity IgG receptor activity	related	false	true	1	false
 BAD (vitamin): GO	GO:0019842	vitamin	binding	label	false	true	1	false
 BAD (ammon): GO	GO:0021541	ammon	gyrus development	label	false	true	1	false
 BAD (ammon): GO	GO:0021541	ammon	gyrus development	label	false	true	1	false
@@ -2683,11 +2494,6 @@ BAD (tooth): GO	GO:0030345	constituent	of tooth enamel	label	false	false	3	false
 BAD (tooth): GO	GO:0030345	of	tooth enamel	label	false	false	5	false
 BAD (tooth): GO	GO:0030345	structural	constituent of tooth enamel	label	false	true	1	false
 BAD (tooth): GO	GO:0030345	tooth	enamel	label	false	false	7	false
-BAD (high): GO	GO:0030372	high	molecular weight B cell growth factor receptor binding	exact	false	true	1	false
-BAD (high): GO	GO:0030372	high	molecular weight B cell growth factor receptor binding	label	false	true	1	false
-BAD (high): GO	GO:0030372	high	molecular weight B cell growth factor receptor binding	narrow	false	true	1	false
-BAD (high): GO	GO:0030373	high	molecular weight B cell growth factor receptor activity	exact	false	true	1	false
-BAD (high): GO	GO:0030373	high	molecular weight B cell growth factor receptor activity	label	false	true	1	false
 BAD (thyroid): GO	GO:0030375	thyroid	hormone receptor coactivator activity	exact	false	true	1	false
 BAD (thyroid): GO	GO:0030375	thyroid	hormone receptor coactivator activity	label	false	true	1	false
 BAD (vitamin): GO	GO:0030656	of	vitamin metabolic process	exact	false	false	3	false
@@ -2779,10 +2585,6 @@ BAD (intermediate): GO	GO:0030945	tyrosine	phosphatase activity, via thiol-phosp
 BAD (intermediate): GO	GO:0030945	via	thiol-phosphate intermediate	label	false	false	9	false
 BAD (dihydroxy): GO	GO:0030962	dihydroxy	L-arginine	label	false	false	13	false
 BAD (dihydroxy): GO	GO:0030963	dihydroxy	L-lysine	label	false	false	11	false
-BAD (high): GO	GO:0030985	high	molecular weight kininogen binding	exact	false	true	1	false
-BAD (high): GO	GO:0030985	high	molecular weight kininogen binding	label	false	true	1	false
-BAD (high): GO	GO:0030987	high	molecular weight kininogen receptor binding	label	false	true	1	false
-BAD (high): GO	GO:0030988	high	molecular weight kininogen receptor complex	label	false	true	1	false
 BAD (troponin): GO	GO:0031013	troponin	I binding	label	false	true	1	false
 BAD (troponin): GO	GO:0031014	troponin	T binding	label	false	true	1	false
 BAD (dihydroxy): GO	GO:0031147	dihydroxy	4-methoxyphenyl)hexan-1-one metabolic process	exact	false	false	8	false
@@ -2841,8 +2643,6 @@ BAD (vitamin): GO	GO:0033552	vitamin	B3	narrow	false	false	5	false
 BAD (co): GO	GO:0033562	co	transcriptional gene silencing by RNA interference machinery	exact	false	true	1	false
 BAD (co): GO	GO:0033562	co	transcriptional gene silencing by RNA interference machinery	label	false	true	1	false
 BAD (co): GO	GO:0033562	co	transcriptional gene silencing by RNA interference machinery	related	false	true	1	false
-BAD (high): GO	GO:0033573	high	affinity iron permease complex	exact	false	true	1	false
-BAD (high): GO	GO:0033573	high	affinity iron permease complex	label	false	true	1	false
 BAD (group): GO	GO:0033694	CH	NH group of donors, iron-sulfur protein as acceptor	label	false	false	11	false
 BAD (group): GO	GO:0033694	NH	group of donors, iron-sulfur protein as acceptor	label	false	false	13	false
 BAD (group): GO	GO:0033694	acting	on the CH-NH group of donors, iron-sulfur protein as acceptor	label	false	false	5	false
@@ -2869,8 +2669,6 @@ BAD (group): GO	GO:0033765	group	of donors	label	false	false	17	false
 BAD (group): GO	GO:0033765	on	the CH-CH group of donors	label	false	false	9	false
 BAD (group): GO	GO:0033765	steroid	dehydrogenase activity, acting on the CH-CH group of donors	label	false	true	1	false
 BAD (group): GO	GO:0033765	the	CH-CH group of donors	label	false	false	11	false
-BAD (high): GO	GO:0033827	high	mannose-oligosaccharide beta-1,4-N-acetylglucosaminyltransferase activity	exact	false	true	1	false
-BAD (high): GO	GO:0033827	high	mannose-oligosaccharide beta-1,4-N-acetylglucosaminyltransferase activity	label	false	true	1	false
 BAD (thyroid): GO	GO:0033852	thyroid	hormone transaminase activity	exact	false	true	1	false
 BAD (thyroid): GO	GO:0033852	thyroid	hormone transaminase activity	label	false	true	1	false
 BAD (group): GO	GO:0033929	group	substance endo-1,4-beta-galactosidase activity	broad	false	false	3	false
@@ -2998,34 +2796,13 @@ BAD (toll): GO	GO:0034180	toll	like receptor 13 signaling pathway	exact	false	fa
 BAD (toll): GO	GO:0034180	toll	like receptor 13 signaling pathway	label	false	false	7	false
 BAD (toll): GO	GO:0034181	toll	like receptor 13 signaling pathway	exact	false	false	7	false
 BAD (toll): GO	GO:0034181	toll	like receptor 13 signaling pathway	label	false	false	7	false
-BAD (high): GO	GO:0034216	high	affinity thiamine:proton symporter activity	exact	false	true	1	false
-BAD (high): GO	GO:0034216	high	affinity thiamine:proton symporter activity	label	false	true	1	false
 BAD (de): GO	GO:0034354	de	novo' NAD biosynthetic process from tryptophan	label	false	true	1	false
 BAD (de): GO	GO:0034354	de	novo' NAD biosynthetic process from tryptophan	related	false	true	1	false
 BAD (intermediate): GO	GO:0034363	intermediate	density lipoprotein particle	exact	false	true	1	false
 BAD (intermediate): GO	GO:0034363	intermediate	density lipoprotein particle	label	false	true	1	false
-BAD (high): GO	GO:0034364	high	density lipoprotein particle	exact	false	true	1	false
-BAD (high): GO	GO:0034364	high	density lipoprotein particle	label	false	true	1	false
-BAD (high): GO	GO:0034364	high	density lipoprotein particle	related	false	true	1	false
-BAD (high): GO	GO:0034365	high	density lipoprotein particle	exact	false	false	3	false
-BAD (high): GO	GO:0034365	high	density lipoprotein particle	label	false	false	3	false
-BAD (high): GO	GO:0034366	high	density lipoprotein particle	exact	false	false	3	false
-BAD (high): GO	GO:0034366	high	density lipoprotein particle	label	false	false	3	false
 BAD (intermediate): GO	GO:0034373	intermediate	density lipoprotein particle remodeling	exact	false	true	1	false
 BAD (intermediate): GO	GO:0034373	intermediate	density lipoprotein particle remodeling	label	false	true	1	false
 BAD (intermediate): GO	GO:0034373	intermediate	density lipoprotein particle remodeling	related	false	true	1	false
-BAD (high): GO	GO:0034375	high	density lipoprotein particle remodeling	exact	false	true	1	false
-BAD (high): GO	GO:0034375	high	density lipoprotein particle remodeling	label	false	true	1	false
-BAD (high): GO	GO:0034376	high	density lipoprotein particle	exact	false	false	19	false
-BAD (high): GO	GO:0034376	high	density lipoprotein particle	label	false	false	19	false
-BAD (high): GO	GO:0034376	high	density lipoprotein particle	related	false	false	19	false
-BAD (high): GO	GO:0034376	high	density lipoprotein particle to spherical high-density lipoprotein particle	exact	false	false	7	false
-BAD (high): GO	GO:0034376	high	density lipoprotein particle to spherical high-density lipoprotein particle	label	false	false	7	false
-BAD (high): GO	GO:0034376	high	density lipoprotein particle to spherical high-density lipoprotein particle	related	false	false	7	false
-BAD (high): GO	GO:0034380	high	density lipoprotein particle assembly	exact	false	true	1	false
-BAD (high): GO	GO:0034380	high	density lipoprotein particle assembly	label	false	true	1	false
-BAD (high): GO	GO:0034384	high	density lipoprotein particle clearance	exact	false	true	1	false
-BAD (high): GO	GO:0034384	high	density lipoprotein particle clearance	label	false	true	1	false
 BAD (co): GO	GO:0034420	co	translational protein acetylation	exact	false	true	1	false
 BAD (co): GO	GO:0034420	co	translational protein acetylation	label	false	true	1	false
 BAD (tooth): GO	GO:0034505	tooth	mineralization	exact	false	true	1	false
@@ -3136,28 +2913,6 @@ BAD (vagus): GO	GO:0035765	nucleus	of vagus nerve formation	label	false	false	17
 BAD (vagus): GO	GO:0035765	of	vagus nerve formation	label	false	false	19	false
 BAD (vagus): GO	GO:0035765	precursor	migration involved in dorsal motor nucleus of vagus nerve formation	label	false	false	5	false
 BAD (vagus): GO	GO:0035765	vagus	nerve formation	label	false	false	21	false
-BAD (high): GO	GO:0035769	B	cell chemotaxis across high endothelial venule	exact	false	true	1	false
-BAD (high): GO	GO:0035769	B	cell chemotaxis across high endothelial venule	label	false	true	1	false
-BAD (high): GO	GO:0035769	across	high endothelial venule	exact	false	false	7	false
-BAD (high): GO	GO:0035769	across	high endothelial venule	label	false	false	7	false
-BAD (high): GO	GO:0035769	cell	chemotaxis across high endothelial venule	exact	false	false	3	false
-BAD (high): GO	GO:0035769	cell	chemotaxis across high endothelial venule	label	false	false	3	false
-BAD (high): GO	GO:0035769	chemotaxis	across high endothelial venule	exact	false	false	5	false
-BAD (high): GO	GO:0035769	chemotaxis	across high endothelial venule	label	false	false	5	false
-BAD (high): GO	GO:0035769	high	endothelial venule	exact	false	false	9	false
-BAD (high): GO	GO:0035769	high	endothelial venule	label	false	false	9	false
-BAD (high): GO	GO:0035920	high	voltage-gated calcium channel activity in other organism	exact	false	false	7	false
-BAD (high): GO	GO:0035920	high	voltage-gated calcium channel activity in other organism	label	false	false	7	false
-BAD (high): GO	GO:0035920	high	voltage-gated calcium channel activity in other organism	narrow	false	false	7	false
-BAD (high): GO	GO:0035920	negative	regulation of high voltage-gated calcium channel activity in other organism	exact	false	true	1	false
-BAD (high): GO	GO:0035920	negative	regulation of high voltage-gated calcium channel activity in other organism	label	false	true	1	false
-BAD (high): GO	GO:0035920	negative	regulation of high voltage-gated calcium channel activity in other organism	narrow	false	true	1	false
-BAD (high): GO	GO:0035920	of	high voltage-gated calcium channel activity in other organism	exact	false	false	5	false
-BAD (high): GO	GO:0035920	of	high voltage-gated calcium channel activity in other organism	label	false	false	5	false
-BAD (high): GO	GO:0035920	of	high voltage-gated calcium channel activity in other organism	narrow	false	false	5	false
-BAD (high): GO	GO:0035920	regulation	of high voltage-gated calcium channel activity in other organism	exact	false	false	3	false
-BAD (high): GO	GO:0035920	regulation	of high voltage-gated calcium channel activity in other organism	label	false	false	3	false
-BAD (high): GO	GO:0035920	regulation	of high voltage-gated calcium channel activity in other organism	narrow	false	false	3	false
 BAD (de): GO	GO:0036001	de	novo' pyridoxal 5'-phosphate biosynthetic process	broad	false	true	1	false
 BAD (de): GO	GO:0036001	de	novo' pyridoxal 5'-phosphate biosynthetic process	exact	false	true	1	false
 BAD (de): GO	GO:0036001	de	novo' pyridoxal 5'-phosphate biosynthetic process	label	false	true	1	false
@@ -3177,20 +2932,6 @@ BAD (vitamin): GO	GO:0036225	to	vitamin B1 starvation	exact	false	false	5	false
 BAD (vitamin): GO	GO:0036225	to	vitamin B1 starvation	label	false	false	5	false
 BAD (vitamin): GO	GO:0036225	vitamin	B1 starvation	exact	false	false	7	false
 BAD (vitamin): GO	GO:0036225	vitamin	B1 starvation	label	false	false	7	false
-BAD (high): GO	GO:0036339	adhesion	to endothelial cell of high endothelial venule	exact	false	false	3	false
-BAD (high): GO	GO:0036339	adhesion	to endothelial cell of high endothelial venule	label	false	false	3	false
-BAD (high): GO	GO:0036339	cell	of high endothelial venule	exact	false	false	9	false
-BAD (high): GO	GO:0036339	cell	of high endothelial venule	label	false	false	9	false
-BAD (high): GO	GO:0036339	endothelial	cell of high endothelial venule	exact	false	false	7	false
-BAD (high): GO	GO:0036339	endothelial	cell of high endothelial venule	label	false	false	7	false
-BAD (high): GO	GO:0036339	high	endothelial venule	exact	false	false	13	false
-BAD (high): GO	GO:0036339	high	endothelial venule	label	false	false	13	false
-BAD (high): GO	GO:0036339	lymphocyte	adhesion to endothelial cell of high endothelial venule	exact	false	true	1	false
-BAD (high): GO	GO:0036339	lymphocyte	adhesion to endothelial cell of high endothelial venule	label	false	true	1	false
-BAD (high): GO	GO:0036339	of	high endothelial venule	exact	false	false	11	false
-BAD (high): GO	GO:0036339	of	high endothelial venule	label	false	false	11	false
-BAD (high): GO	GO:0036339	to	endothelial cell of high endothelial venule	exact	false	false	5	false
-BAD (high): GO	GO:0036339	to	endothelial cell of high endothelial venule	label	false	false	5	false
 BAD (toll): GO	GO:0038123	toll	like receptor TLR1:TLR2 signaling pathway	exact	false	true	1	false
 BAD (toll): GO	GO:0038123	toll	like receptor TLR1:TLR2 signaling pathway	label	false	true	1	false
 BAD (toll): GO	GO:0038124	toll	like receptor TLR6:TLR2 signaling pathway	exact	false	true	1	false
@@ -3565,16 +3306,7 @@ BAD (de): GO	GO:0044210	de	novo' CTP biosynthetic process	exact	false	true	1	fal
 BAD (de): GO	GO:0044210	de	novo' CTP biosynthetic process	label	false	true	1	false
 BAD (recognition): GO	GO:0044405	recognition	of host	exact	false	true	1	false
 BAD (recognition): GO	GO:0044405	recognition	of host	label	false	true	1	false
-BAD (high): GO	GO:0044475	envenomation	resulting in negative regulation of high voltage-gated calcium channel activity in other organism	label	false	true	1	false
-BAD (high): GO	GO:0044475	high	voltage-gated calcium channel activity in other organism	label	false	false	13	false
-BAD (high): GO	GO:0044475	in	negative regulation of high voltage-gated calcium channel activity in other organism	label	false	false	5	false
-BAD (high): GO	GO:0044475	negative	regulation of high voltage-gated calcium channel activity in other organism	label	false	false	7	false
-BAD (high): GO	GO:0044475	of	high voltage-gated calcium channel activity in other organism	label	false	false	11	false
-BAD (high): GO	GO:0044475	regulation	of high voltage-gated calcium channel activity in other organism	label	false	false	9	false
-BAD (high): GO	GO:0044475	resulting	in negative regulation of high voltage-gated calcium channel activity in other organism	label	false	false	3	false
 BAD (tooth): GO	GO:0044691	tooth	eruption	label	false	true	1	false
-BAD (high): GO	GO:0044749	high	affinity zinc II ion transmembrane import	label	false	true	1	false
-BAD (high): GO	GO:0044750	high	affinity nickel cation transmembrane transporter activity	label	false	true	1	false
 BAD (intermediate): GO	GO:0045091	DNA	intermediate	exact	false	false	21	false
 BAD (intermediate): GO	GO:0045091	DNA	intermediate	label	false	false	21	false
 BAD (intermediate): GO	GO:0045091	RNA	replication via double stranded DNA intermediate	exact	false	false	11	false
@@ -3762,21 +3494,15 @@ BAD (dihydroxy): GO	GO:0047071	dihydroxy	9,10-secoandrosta-1,3,5(10)-triene-9,17
 BAD (dihydroxy): GO	GO:0047071	dihydroxy	9,10-secoandrosta-1,3,5(10)-triene-9,17-dione 4,5-dioxygenase activity	label	false	false	3	false
 BAD (delta1): GO	GO:0047125	delta1	piperideine-2-carboxylate reductase activity	exact	false	true	1	false
 BAD (delta1): GO	GO:0047125	delta1	piperideine-2-carboxylate reductase activity	label	false	true	1	false
-BAD (pro): GO	GO:0047187	pro	3S)-lyase] S-acetyltransferase activity	exact	false	false	5	false
-BAD (pro): GO	GO:0047187	pro	3S)-lyase] S-acetyltransferase activity	label	false	false	5	false
 BAD (dihydroxy): GO	GO:0047254	dihydroxy	7-methoxy-2H-1,4-benzoxazin-3(4H)-one 2-D-glucosyltransferase activity	exact	false	false	3	false
 BAD (dihydroxy): GO	GO:0047254	dihydroxy	7-methoxy-2H-1,4-benzoxazin-3(4H)-one 2-D-glucosyltransferase activity	label	false	false	3	false
 BAD (dihydroxy): GO	GO:0047476	dihydroxy	5-beta-cholestanate-CoA ligase activity	exact	false	false	7	false
 BAD (dihydroxy): GO	GO:0047476	dihydroxy	5-beta-cholestanate-CoA ligase activity	label	false	false	7	false
-BAD (pro): GO	GO:0047778	pro	3S)-lyase] thiolesterase activity	exact	false	false	3	false
-BAD (pro): GO	GO:0047778	pro	3S)-lyase] thiolesterase activity	label	false	false	3	false
 BAD (hydroxyphenylpyruvate): GO	GO:0047995	hydroxyphenylpyruvate	reductase activity	exact	false	true	1	false
 BAD (hydroxyphenylpyruvate): GO	GO:0047995	hydroxyphenylpyruvate	reductase activity	label	false	true	1	false
 BAD (hydroxyphenylpyruvate): GO	GO:0047995	hydroxyphenylpyruvate	reductase activity	related	false	true	1	false
 BAD (fused): GO	GO:0048165	fused	antrum stage	exact	false	true	1	false
 BAD (fused): GO	GO:0048165	fused	antrum stage	label	false	true	1	false
-BAD (high): GO	GO:0048249	high	affinity phosphate transmembrane transporter activity	exact	false	true	1	false
-BAD (high): GO	GO:0048249	high	affinity phosphate transmembrane transporter activity	label	false	true	1	false
 BAD (intermediate): GO	GO:0048389	intermediate	mesoderm development	label	false	true	1	false
 BAD (intermediate): GO	GO:0048390	intermediate	mesoderm morphogenesis	label	false	true	1	false
 BAD (intermediate): GO	GO:0048391	intermediate	mesoderm formation	label	false	true	1	false
@@ -4107,26 +3833,6 @@ BAD (dol): GO	GO:0052926	dol	P-Man:Man(6)GlcNAc(2)-PP-Dol alpha-1,2-mannosyltran
 BAD (degeneration): GO	GO:0055045	antipodal	cell degeneration	label	false	true	1	false
 BAD (degeneration): GO	GO:0055045	cell	degeneration	label	false	false	3	false
 BAD (degeneration): GO	GO:0055045	degeneration		label	false	false	5	false
-BAD (high): GO	GO:0055097	high	density lipoprotein particle mediated signaling	exact	false	true	1	false
-BAD (high): GO	GO:0055097	high	density lipoprotein particle mediated signaling	label	false	true	1	false
-BAD (high): GO	GO:0055099	high	density lipoprotein particle	exact	false	false	5	false
-BAD (high): GO	GO:0055099	high	density lipoprotein particle	label	false	false	5	false
-BAD (high): GO	GO:0055099	response	to high density lipoprotein particle	exact	false	true	1	false
-BAD (high): GO	GO:0055099	response	to high density lipoprotein particle	label	false	true	1	false
-BAD (high): GO	GO:0055099	to	high density lipoprotein particle	exact	false	false	3	false
-BAD (high): GO	GO:0055099	to	high density lipoprotein particle	label	false	false	3	false
-BAD (high): GO	GO:0055121	high	fluence blue light stimulus by blue high-fluence system	broad	false	false	5	false
-BAD (high): GO	GO:0055121	high	fluence blue light stimulus by blue high-fluence system	label	false	false	5	false
-BAD (high): GO	GO:0055121	high	fluence blue light stimulus by blue high-fluence system	related	false	false	5	false
-BAD (high): GO	GO:0055121	high	fluence system	broad	false	false	19	false
-BAD (high): GO	GO:0055121	high	fluence system	label	false	false	19	false
-BAD (high): GO	GO:0055121	high	fluence system	related	false	false	19	false
-BAD (high): GO	GO:0055121	response	to high fluence blue light stimulus by blue high-fluence system	broad	false	true	1	false
-BAD (high): GO	GO:0055121	response	to high fluence blue light stimulus by blue high-fluence system	label	false	true	1	false
-BAD (high): GO	GO:0055121	response	to high fluence blue light stimulus by blue high-fluence system	related	false	true	1	false
-BAD (high): GO	GO:0055121	to	high fluence blue light stimulus by blue high-fluence system	broad	false	false	3	false
-BAD (high): GO	GO:0055121	to	high fluence blue light stimulus by blue high-fluence system	label	false	false	3	false
-BAD (high): GO	GO:0055121	to	high fluence blue light stimulus by blue high-fluence system	related	false	false	3	false
 BAD (finger): GO	GO:0055131	C3HC4	type RING finger domain binding	label	false	true	1	false
 BAD (finger): GO	GO:0055131	C3HC4	type RING finger domain binding	label	false	true	1	false
 BAD (finger): GO	GO:0055131	RING	finger domain binding	label	false	false	5	false
@@ -4214,22 +3920,8 @@ BAD (aging): GO	GO:0061434	cell	aging by regulation of transcription from RNA po
 BAD (aging): GO	GO:0061434	of	replicative cell aging by regulation of transcription from RNA polymerase II promoter in response to caloric restriction	label	false	false	3	false
 BAD (aging): GO	GO:0061434	regulation	of replicative cell aging by regulation of transcription from RNA polymerase II promoter in response to caloric restriction	label	false	true	1	false
 BAD (aging): GO	GO:0061434	replicative	cell aging by regulation of transcription from RNA polymerase II promoter in response to caloric restriction	label	false	false	5	false
-BAD (high): GO	GO:0061486	high	affinity fructose transmembrane transporter activity	exact	false	true	1	false
-BAD (high): GO	GO:0061486	high	affinity fructose transmembrane transporter activity	label	false	true	1	false
 BAD (intermediate): GO	GO:0061498	intermediate	layer of mitotic spindle pole body	label	false	true	1	false
 BAD (dihydroxy): GO	GO:0061522	dihydroxy	2-naphthoyl-CoA thioesterase activity	label	false	false	3	false
-BAD (high): GO	GO:0061577	calcium	ion transmembrane transport via high voltage-gated calcium channel	label	false	true	1	false
-BAD (high): GO	GO:0061577	calcium	ion transmembrane transport via high voltage-gated calcium channel	related	false	true	1	false
-BAD (high): GO	GO:0061577	high	voltage-gated calcium channel	label	false	false	11	false
-BAD (high): GO	GO:0061577	high	voltage-gated calcium channel	related	false	false	11	false
-BAD (high): GO	GO:0061577	ion	transmembrane transport via high voltage-gated calcium channel	label	false	false	3	false
-BAD (high): GO	GO:0061577	ion	transmembrane transport via high voltage-gated calcium channel	related	false	false	3	false
-BAD (high): GO	GO:0061577	transmembrane	transport via high voltage-gated calcium channel	label	false	false	5	false
-BAD (high): GO	GO:0061577	transmembrane	transport via high voltage-gated calcium channel	related	false	false	5	false
-BAD (high): GO	GO:0061577	transport	via high voltage-gated calcium channel	label	false	false	7	false
-BAD (high): GO	GO:0061577	transport	via high voltage-gated calcium channel	related	false	false	7	false
-BAD (high): GO	GO:0061577	via	high voltage-gated calcium channel	label	false	false	9	false
-BAD (high): GO	GO:0061577	via	high voltage-gated calcium channel	related	false	false	9	false
 BAD (tooth): GO	GO:0061648	tooth	replacement	label	false	true	1	false
 BAD (parkin): GO	GO:0061734	parkin	mediated mitophagy in response to mitochondrial depolarization	label	false	true	1	false
 BAD (de): GO	GO:0070060	de	novo' actin filament nucleation	label	false	true	1	false
@@ -4286,17 +3978,13 @@ BAD (brown): GO	GO:0070349	regulation	of brown fat cell proliferation	narrow	fal
 BAD (group): GO	GO:0070379	group	box 1 binding	exact	false	false	5	false
 BAD (group): GO	GO:0070379	group	box 1 binding	label	false	false	5	false
 BAD (group): GO	GO:0070379	high	mobility group box 1 binding	exact	false	true	1	false
-BAD (high): GO	GO:0070379	high	mobility group box 1 binding	exact	false	true	1	false
 BAD (group): GO	GO:0070379	high	mobility group box 1 binding	label	false	true	1	false
-BAD (high): GO	GO:0070379	high	mobility group box 1 binding	label	false	true	1	false
 BAD (group): GO	GO:0070379	mobility	group box 1 binding	exact	false	false	3	false
 BAD (group): GO	GO:0070379	mobility	group box 1 binding	label	false	false	3	false
 BAD (group): GO	GO:0070380	group	box 1 receptor activity	exact	false	false	5	false
 BAD (group): GO	GO:0070380	group	box 1 receptor activity	label	false	false	5	false
 BAD (group): GO	GO:0070380	high	mobility group box 1 receptor activity	exact	false	true	1	false
-BAD (high): GO	GO:0070380	high	mobility group box 1 receptor activity	exact	false	true	1	false
 BAD (group): GO	GO:0070380	high	mobility group box 1 receptor activity	label	false	true	1	false
-BAD (high): GO	GO:0070380	high	mobility group box 1 receptor activity	label	false	true	1	false
 BAD (group): GO	GO:0070380	mobility	group box 1 receptor activity	exact	false	false	3	false
 BAD (group): GO	GO:0070380	mobility	group box 1 receptor activity	label	false	false	3	false
 BAD (co): GO	GO:0070410	co	SMAD binding	label	false	true	1	false
@@ -4318,8 +4006,6 @@ BAD (group): GO	GO:0070504	prosthetic	group biosynthetic process	exact	false	fal
 BAD (group): GO	GO:0070504	prosthetic	group biosynthetic process	label	false	false	5	false
 BAD (group): GO	GO:0070504	selenium	containing prosthetic group biosynthetic process	exact	false	true	1	false
 BAD (group): GO	GO:0070504	selenium	containing prosthetic group biosynthetic process	label	false	true	1	false
-BAD (high): GO	GO:0070506	high	density lipoprotein particle receptor activity	exact	false	true	1	false
-BAD (high): GO	GO:0070506	high	density lipoprotein particle receptor activity	label	false	true	1	false
 BAD (vitamin): GO	GO:0070561	vitamin	D receptor signaling pathway	exact	false	true	1	false
 BAD (vitamin): GO	GO:0070561	vitamin	D receptor signaling pathway	label	false	true	1	false
 BAD (vitamin): GO	GO:0070561	vitamin	D receptor signaling pathway	narrow	false	true	1	false
@@ -4367,8 +4053,6 @@ BAD (vitamin): GO	GO:0070643	vitamin	D 25-hydroxylase activity	label	false	true	
 BAD (vitamin): GO	GO:0070643	vitamin	D 25-hydroxylase activity	narrow	false	true	1	false
 BAD (vitamin): GO	GO:0070644	vitamin	D response element binding	exact	false	true	1	false
 BAD (vitamin): GO	GO:0070644	vitamin	D response element binding	label	false	true	1	false
-BAD (high): GO	GO:0070653	high	density lipoprotein particle receptor binding	exact	false	true	1	false
-BAD (high): GO	GO:0070653	high	density lipoprotein particle receptor binding	label	false	true	1	false
 BAD (finger): GO	GO:0070742	C2H2	zinc finger domain binding	label	false	true	1	false
 BAD (finger): GO	GO:0070742	C2H2	zinc finger domain binding	label	false	true	1	false
 BAD (finger): GO	GO:0070742	finger	domain binding	label	false	false	5	false
@@ -4465,14 +4149,6 @@ BAD (vitamin): GO	GO:0071307	cellular	response to vitamin K	label	false	true	1	f
 BAD (vitamin): GO	GO:0071307	response	to vitamin K	label	false	false	3	false
 BAD (vitamin): GO	GO:0071307	to	vitamin K	label	false	false	5	false
 BAD (vitamin): GO	GO:0071307	vitamin	K	label	false	false	7	false
-BAD (high): GO	GO:0071403	cellular	response to high density lipoprotein particle stimulus	label	false	true	1	false
-BAD (high): GO	GO:0071403	high	density lipoprotein particle stimulus	label	false	false	7	false
-BAD (high): GO	GO:0071403	response	to high density lipoprotein particle stimulus	label	false	false	3	false
-BAD (high): GO	GO:0071403	to	high density lipoprotein particle stimulus	label	false	false	5	false
-BAD (high): GO	GO:0071486	cellular	response to high light intensity	label	false	true	1	false
-BAD (high): GO	GO:0071486	high	light intensity	label	false	false	7	false
-BAD (high): GO	GO:0071486	response	to high light intensity	label	false	false	3	false
-BAD (high): GO	GO:0071486	to	high light intensity	label	false	false	5	false
 BAD (far): GO	GO:0071489	cellular	response to red or far red light	label	false	true	1	false
 BAD (far): GO	GO:0071489	far	red light	label	false	false	11	false
 BAD (far): GO	GO:0071489	or	far red light	label	false	false	9	false
@@ -4569,8 +4245,6 @@ BAD (recognition): GO	GO:0080173	male	female gamete recognition during double fe
 BAD (recognition): GO	GO:0080173	recognition	during double fertilization	broad	false	false	7	false
 BAD (recognition): GO	GO:0080173	recognition	during double fertilization	exact	false	false	7	false
 BAD (recognition): GO	GO:0080173	recognition	during double fertilization	label	false	false	7	false
-BAD (high): GO	GO:0090107	high	density lipoprotein particle assembly	label	false	false	5	false
-BAD (high): GO	GO:0090108	high	density lipoprotein particle assembly	label	false	false	7	false
 BAD (far): GO	GO:0090227	far	red light signaling pathway	exact	false	false	9	false
 BAD (far): GO	GO:0090227	far	red light signaling pathway	label	false	false	9	false
 BAD (far): GO	GO:0090228	far	red light signaling pathway	exact	false	false	11	false
@@ -4599,12 +4273,6 @@ BAD (aging): GO	GO:0090344	negative	regulation of cell aging	label	false	true	1	
 BAD (aging): GO	GO:0090344	of	cell aging	label	false	false	5	false
 BAD (aging): GO	GO:0090344	regulation	of cell aging	label	false	false	3	false
 BAD (vitamin): GO	GO:0090482	vitamin	transmembrane transporter activity	label	false	true	1	false
-BAD (high): GO	GO:0090664	high	population density	exact	false	false	5	false
-BAD (high): GO	GO:0090664	high	population density	label	false	false	5	false
-BAD (high): GO	GO:0090664	response	to high population density	exact	false	true	1	false
-BAD (high): GO	GO:0090664	response	to high population density	label	false	true	1	false
-BAD (high): GO	GO:0090664	to	high population density	exact	false	false	3	false
-BAD (high): GO	GO:0090664	to	high population density	label	false	false	3	false
 BAD (thyroid): GO	GO:0097066	response	to thyroid hormone	exact	false	true	1	false
 BAD (thyroid): GO	GO:0097066	response	to thyroid hormone	label	false	true	1	false
 BAD (thyroid): GO	GO:0097066	thyroid	hormone	exact	false	false	5	false
@@ -4658,8 +4326,6 @@ BAD (notch): GO	GO:0097618	notch		related	false	false	5	false
 BAD (notch): GO	GO:0097618	sulcal	notch	exact	false	false	3	false
 BAD (notch): GO	GO:0097618	sulcal	notch	label	false	false	3	false
 BAD (notch): GO	GO:0097618	sulcal	notch	related	false	false	3	false
-BAD (high): GO	GO:0097627	high	affinity L-ornithine transmembrane transporter activity	exact	false	true	1	false
-BAD (high): GO	GO:0097627	high	affinity L-ornithine transmembrane transporter activity	label	false	true	1	false
 BAD (recognition): GO	GO:0097656	cell	cell self recognition	broad	false	true	1	false
 BAD (recognition): GO	GO:0097656	cell	cell self recognition	label	false	true	1	false
 BAD (recognition): GO	GO:0097656	cell	cell self recognition	related	false	true	1	false
@@ -4681,16 +4347,6 @@ BAD (recognition): GO	GO:0098035	site	specific sequence recognition	label	false	
 BAD (recognition): GO	GO:0098035	specific	sequence recognition	label	false	false	13	false
 BAD (recognition): GO	GO:0098035	via	site-specific sequence recognition	label	false	false	9	false
 BAD (recognition): GO	GO:0098035	viral	DNA genome packaging via site-specific sequence recognition	label	false	true	1	false
-BAD (high): GO	GO:0098510	high	humidity	label	false	false	7	false
-BAD (high): GO	GO:0098510	of	high humidity	label	false	false	5	false
-BAD (high): GO	GO:0098510	perception	of high humidity	label	false	false	3	false
-BAD (high): GO	GO:0098510	sensory	perception of high humidity	label	false	true	1	false
-BAD (high): GO	GO:0098514	detection	of high humidity stimulus involved in sensory perception	label	false	true	1	false
-BAD (high): GO	GO:0098514	high	humidity stimulus involved in sensory perception	label	false	false	5	false
-BAD (high): GO	GO:0098514	of	high humidity stimulus involved in sensory perception	label	false	false	3	false
-BAD (high): GO	GO:0098516	detection	of high humidity	label	false	true	1	false
-BAD (high): GO	GO:0098516	high	humidity	label	false	false	5	false
-BAD (high): GO	GO:0098516	of	high humidity	label	false	false	3	false
 BAD (de): GO	GO:0098535	de	novo centriole assembly	label	false	true	1	false
 BAD (de): GO	GO:0098535	de	novo centriole assembly	related	false	true	1	false
 BAD (sheet): GO	GO:0098646	collagen	sheet	exact	false	true	1	false
@@ -4796,52 +4452,6 @@ BAD (vitamin): GO	GO:1901754	vitamin	D3 catabolic process	exact	false	true	1	fal
 BAD (vitamin): GO	GO:1901754	vitamin	D3 catabolic process	label	false	true	1	false
 BAD (vitamin): GO	GO:1901755	vitamin	D3 biosynthetic process	exact	false	true	1	false
 BAD (vitamin): GO	GO:1901755	vitamin	D3 biosynthetic process	label	false	true	1	false
-BAD (high): GO	GO:1901841	high	voltage-gated calcium channel activity	exact	false	false	5	false
-BAD (high): GO	GO:1901841	high	voltage-gated calcium channel activity	label	false	false	5	false
-BAD (high): GO	GO:1901841	of	high voltage-gated calcium channel activity	exact	false	false	3	false
-BAD (high): GO	GO:1901841	of	high voltage-gated calcium channel activity	label	false	false	3	false
-BAD (high): GO	GO:1901841	regulation	of high voltage-gated calcium channel activity	exact	false	true	1	false
-BAD (high): GO	GO:1901841	regulation	of high voltage-gated calcium channel activity	label	false	true	1	false
-BAD (high): GO	GO:1901842	high	voltage-gated calcium channel activity	exact	false	false	7	false
-BAD (high): GO	GO:1901842	high	voltage-gated calcium channel activity	label	false	false	7	false
-BAD (high): GO	GO:1901842	high	voltage-gated calcium channel activity	narrow	false	false	7	false
-BAD (high): GO	GO:1901842	negative	regulation of high voltage-gated calcium channel activity	exact	false	true	1	false
-BAD (high): GO	GO:1901842	negative	regulation of high voltage-gated calcium channel activity	label	false	true	1	false
-BAD (high): GO	GO:1901842	negative	regulation of high voltage-gated calcium channel activity	narrow	false	true	1	false
-BAD (high): GO	GO:1901842	of	high voltage-gated calcium channel activity	exact	false	false	5	false
-BAD (high): GO	GO:1901842	of	high voltage-gated calcium channel activity	label	false	false	5	false
-BAD (high): GO	GO:1901842	of	high voltage-gated calcium channel activity	narrow	false	false	5	false
-BAD (high): GO	GO:1901842	regulation	of high voltage-gated calcium channel activity	exact	false	false	3	false
-BAD (high): GO	GO:1901842	regulation	of high voltage-gated calcium channel activity	label	false	false	3	false
-BAD (high): GO	GO:1901842	regulation	of high voltage-gated calcium channel activity	narrow	false	false	3	false
-BAD (high): GO	GO:1901843	high	voltage-gated calcium channel activity	exact	false	false	7	false
-BAD (high): GO	GO:1901843	high	voltage-gated calcium channel activity	label	false	false	7	false
-BAD (high): GO	GO:1901843	high	voltage-gated calcium channel activity	narrow	false	false	7	false
-BAD (high): GO	GO:1901843	of	high voltage-gated calcium channel activity	exact	false	false	5	false
-BAD (high): GO	GO:1901843	of	high voltage-gated calcium channel activity	label	false	false	5	false
-BAD (high): GO	GO:1901843	of	high voltage-gated calcium channel activity	narrow	false	false	5	false
-BAD (high): GO	GO:1901843	positive	regulation of high voltage-gated calcium channel activity	exact	false	true	1	false
-BAD (high): GO	GO:1901843	positive	regulation of high voltage-gated calcium channel activity	label	false	true	1	false
-BAD (high): GO	GO:1901843	positive	regulation of high voltage-gated calcium channel activity	narrow	false	true	1	false
-BAD (high): GO	GO:1901843	regulation	of high voltage-gated calcium channel activity	exact	false	false	3	false
-BAD (high): GO	GO:1901843	regulation	of high voltage-gated calcium channel activity	label	false	false	3	false
-BAD (high): GO	GO:1901843	regulation	of high voltage-gated calcium channel activity	narrow	false	false	3	false
-BAD (high): GO	GO:1902514	calcium	ion transmembrane transport via high voltage-gated calcium channel	label	false	false	5	false
-BAD (high): GO	GO:1902514	calcium	ion transmembrane transport via high voltage-gated calcium channel	related	false	false	5	false
-BAD (high): GO	GO:1902514	high	voltage-gated calcium channel	label	false	false	15	false
-BAD (high): GO	GO:1902514	high	voltage-gated calcium channel	related	false	false	15	false
-BAD (high): GO	GO:1902514	ion	transmembrane transport via high voltage-gated calcium channel	label	false	false	7	false
-BAD (high): GO	GO:1902514	ion	transmembrane transport via high voltage-gated calcium channel	related	false	false	7	false
-BAD (high): GO	GO:1902514	of	calcium ion transmembrane transport via high voltage-gated calcium channel	label	false	false	3	false
-BAD (high): GO	GO:1902514	of	calcium ion transmembrane transport via high voltage-gated calcium channel	related	false	false	3	false
-BAD (high): GO	GO:1902514	regulation	of calcium ion transmembrane transport via high voltage-gated calcium channel	label	false	true	1	false
-BAD (high): GO	GO:1902514	regulation	of calcium ion transmembrane transport via high voltage-gated calcium channel	related	false	true	1	false
-BAD (high): GO	GO:1902514	transmembrane	transport via high voltage-gated calcium channel	label	false	false	9	false
-BAD (high): GO	GO:1902514	transmembrane	transport via high voltage-gated calcium channel	related	false	false	9	false
-BAD (high): GO	GO:1902514	transport	via high voltage-gated calcium channel	label	false	false	11	false
-BAD (high): GO	GO:1902514	transport	via high voltage-gated calcium channel	related	false	false	11	false
-BAD (high): GO	GO:1902514	via	high voltage-gated calcium channel	label	false	false	13	false
-BAD (high): GO	GO:1902514	via	high voltage-gated calcium channel	related	false	false	13	false
 BAD (recognition): GO	GO:1902561	origin	recognition complex assembly	exact	false	true	1	false
 BAD (recognition): GO	GO:1902561	origin	recognition complex assembly	label	false	true	1	false
 BAD (recognition): GO	GO:1902561	recognition	complex assembly	exact	false	false	3	false
@@ -4934,78 +4544,6 @@ BAD (thyroid): GO	GO:1904443	regulation	of thyroid gland epithelial cell prolife
 BAD (thyroid): GO	GO:1904443	thyroid	gland epithelial cell proliferation	exact	false	false	7	false
 BAD (thyroid): GO	GO:1904443	thyroid	gland epithelial cell proliferation	label	false	false	7	false
 BAD (thyroid): GO	GO:1904443	thyroid	gland epithelial cell proliferation	narrow	false	false	7	false
-BAD (high): GO	GO:1904878	calcium	ion transmembrane transport via high voltage-gated calcium channel	exact	false	false	7	false
-BAD (high): GO	GO:1904878	calcium	ion transmembrane transport via high voltage-gated calcium channel	label	false	false	7	false
-BAD (high): GO	GO:1904878	calcium	ion transmembrane transport via high voltage-gated calcium channel	narrow	false	false	7	false
-BAD (high): GO	GO:1904878	calcium	ion transmembrane transport via high voltage-gated calcium channel	related	false	false	7	false
-BAD (high): GO	GO:1904878	high	voltage-gated calcium channel	exact	false	false	17	false
-BAD (high): GO	GO:1904878	high	voltage-gated calcium channel	label	false	false	17	false
-BAD (high): GO	GO:1904878	high	voltage-gated calcium channel	narrow	false	false	17	false
-BAD (high): GO	GO:1904878	high	voltage-gated calcium channel	related	false	false	17	false
-BAD (high): GO	GO:1904878	ion	transmembrane transport via high voltage-gated calcium channel	exact	false	false	9	false
-BAD (high): GO	GO:1904878	ion	transmembrane transport via high voltage-gated calcium channel	label	false	false	9	false
-BAD (high): GO	GO:1904878	ion	transmembrane transport via high voltage-gated calcium channel	narrow	false	false	9	false
-BAD (high): GO	GO:1904878	ion	transmembrane transport via high voltage-gated calcium channel	related	false	false	9	false
-BAD (high): GO	GO:1904878	negative	regulation of calcium ion transmembrane transport via high voltage-gated calcium channel	exact	false	true	1	false
-BAD (high): GO	GO:1904878	negative	regulation of calcium ion transmembrane transport via high voltage-gated calcium channel	label	false	true	1	false
-BAD (high): GO	GO:1904878	negative	regulation of calcium ion transmembrane transport via high voltage-gated calcium channel	narrow	false	true	1	false
-BAD (high): GO	GO:1904878	negative	regulation of calcium ion transmembrane transport via high voltage-gated calcium channel	related	false	true	1	false
-BAD (high): GO	GO:1904878	of	calcium ion transmembrane transport via high voltage-gated calcium channel	exact	false	false	5	false
-BAD (high): GO	GO:1904878	of	calcium ion transmembrane transport via high voltage-gated calcium channel	label	false	false	5	false
-BAD (high): GO	GO:1904878	of	calcium ion transmembrane transport via high voltage-gated calcium channel	narrow	false	false	5	false
-BAD (high): GO	GO:1904878	of	calcium ion transmembrane transport via high voltage-gated calcium channel	related	false	false	5	false
-BAD (high): GO	GO:1904878	regulation	of calcium ion transmembrane transport via high voltage-gated calcium channel	exact	false	false	3	false
-BAD (high): GO	GO:1904878	regulation	of calcium ion transmembrane transport via high voltage-gated calcium channel	label	false	false	3	false
-BAD (high): GO	GO:1904878	regulation	of calcium ion transmembrane transport via high voltage-gated calcium channel	narrow	false	false	3	false
-BAD (high): GO	GO:1904878	regulation	of calcium ion transmembrane transport via high voltage-gated calcium channel	related	false	false	3	false
-BAD (high): GO	GO:1904878	transmembrane	transport via high voltage-gated calcium channel	exact	false	false	11	false
-BAD (high): GO	GO:1904878	transmembrane	transport via high voltage-gated calcium channel	label	false	false	11	false
-BAD (high): GO	GO:1904878	transmembrane	transport via high voltage-gated calcium channel	narrow	false	false	11	false
-BAD (high): GO	GO:1904878	transmembrane	transport via high voltage-gated calcium channel	related	false	false	11	false
-BAD (high): GO	GO:1904878	transport	via high voltage-gated calcium channel	exact	false	false	13	false
-BAD (high): GO	GO:1904878	transport	via high voltage-gated calcium channel	label	false	false	13	false
-BAD (high): GO	GO:1904878	transport	via high voltage-gated calcium channel	narrow	false	false	13	false
-BAD (high): GO	GO:1904878	transport	via high voltage-gated calcium channel	related	false	false	13	false
-BAD (high): GO	GO:1904878	via	high voltage-gated calcium channel	exact	false	false	15	false
-BAD (high): GO	GO:1904878	via	high voltage-gated calcium channel	label	false	false	15	false
-BAD (high): GO	GO:1904878	via	high voltage-gated calcium channel	narrow	false	false	15	false
-BAD (high): GO	GO:1904878	via	high voltage-gated calcium channel	related	false	false	15	false
-BAD (high): GO	GO:1904879	calcium	ion transmembrane transport via high voltage-gated calcium channel	exact	false	false	7	false
-BAD (high): GO	GO:1904879	calcium	ion transmembrane transport via high voltage-gated calcium channel	label	false	false	7	false
-BAD (high): GO	GO:1904879	calcium	ion transmembrane transport via high voltage-gated calcium channel	narrow	false	false	7	false
-BAD (high): GO	GO:1904879	calcium	ion transmembrane transport via high voltage-gated calcium channel	related	false	false	7	false
-BAD (high): GO	GO:1904879	high	voltage-gated calcium channel	exact	false	false	17	false
-BAD (high): GO	GO:1904879	high	voltage-gated calcium channel	label	false	false	17	false
-BAD (high): GO	GO:1904879	high	voltage-gated calcium channel	narrow	false	false	17	false
-BAD (high): GO	GO:1904879	high	voltage-gated calcium channel	related	false	false	17	false
-BAD (high): GO	GO:1904879	ion	transmembrane transport via high voltage-gated calcium channel	exact	false	false	9	false
-BAD (high): GO	GO:1904879	ion	transmembrane transport via high voltage-gated calcium channel	label	false	false	9	false
-BAD (high): GO	GO:1904879	ion	transmembrane transport via high voltage-gated calcium channel	narrow	false	false	9	false
-BAD (high): GO	GO:1904879	ion	transmembrane transport via high voltage-gated calcium channel	related	false	false	9	false
-BAD (high): GO	GO:1904879	of	calcium ion transmembrane transport via high voltage-gated calcium channel	exact	false	false	5	false
-BAD (high): GO	GO:1904879	of	calcium ion transmembrane transport via high voltage-gated calcium channel	label	false	false	5	false
-BAD (high): GO	GO:1904879	of	calcium ion transmembrane transport via high voltage-gated calcium channel	narrow	false	false	5	false
-BAD (high): GO	GO:1904879	of	calcium ion transmembrane transport via high voltage-gated calcium channel	related	false	false	5	false
-BAD (high): GO	GO:1904879	positive	regulation of calcium ion transmembrane transport via high voltage-gated calcium channel	exact	false	true	1	false
-BAD (high): GO	GO:1904879	positive	regulation of calcium ion transmembrane transport via high voltage-gated calcium channel	label	false	true	1	false
-BAD (high): GO	GO:1904879	positive	regulation of calcium ion transmembrane transport via high voltage-gated calcium channel	narrow	false	true	1	false
-BAD (high): GO	GO:1904879	positive	regulation of calcium ion transmembrane transport via high voltage-gated calcium channel	related	false	true	1	false
-BAD (high): GO	GO:1904879	regulation	of calcium ion transmembrane transport via high voltage-gated calcium channel	exact	false	false	3	false
-BAD (high): GO	GO:1904879	regulation	of calcium ion transmembrane transport via high voltage-gated calcium channel	label	false	false	3	false
-BAD (high): GO	GO:1904879	regulation	of calcium ion transmembrane transport via high voltage-gated calcium channel	narrow	false	false	3	false
-BAD (high): GO	GO:1904879	regulation	of calcium ion transmembrane transport via high voltage-gated calcium channel	related	false	false	3	false
-BAD (high): GO	GO:1904879	transmembrane	transport via high voltage-gated calcium channel	exact	false	false	11	false
-BAD (high): GO	GO:1904879	transmembrane	transport via high voltage-gated calcium channel	label	false	false	11	false
-BAD (high): GO	GO:1904879	transmembrane	transport via high voltage-gated calcium channel	narrow	false	false	11	false
-BAD (high): GO	GO:1904879	transmembrane	transport via high voltage-gated calcium channel	related	false	false	11	false
-BAD (high): GO	GO:1904879	transport	via high voltage-gated calcium channel	exact	false	false	13	false
-BAD (high): GO	GO:1904879	transport	via high voltage-gated calcium channel	label	false	false	13	false
-BAD (high): GO	GO:1904879	transport	via high voltage-gated calcium channel	narrow	false	false	13	false
-BAD (high): GO	GO:1904879	transport	via high voltage-gated calcium channel	related	false	false	13	false
-BAD (high): GO	GO:1904879	via	high voltage-gated calcium channel	exact	false	false	15	false
-BAD (high): GO	GO:1904879	via	high voltage-gated calcium channel	label	false	false	15	false
-BAD (high): GO	GO:1904879	via	high voltage-gated calcium channel	narrow	false	false	15	false
-BAD (high): GO	GO:1904879	via	high voltage-gated calcium channel	related	false	false	15	false
 BAD (vitamin): GO	GO:1904965	of	vitamin E biosynthetic process	exact	false	false	3	false
 BAD (vitamin): GO	GO:1904965	of	vitamin E biosynthetic process	label	false	false	3	false
 BAD (vitamin): GO	GO:1904965	of	vitamin E biosynthetic process	narrow	false	false	3	false
@@ -5227,7 +4765,6 @@ BAD (recognition): GO	GO:1990756	recognition	for ubiquitination	label	false	fals
 BAD (recognition): GO	GO:1990756	substrate	recognition for ubiquitination	label	false	false	11	false
 BAD (thyroid): GO	GO:1990789	thyroid	gland epithelial cell proliferation	label	false	true	1	false
 BAD (thyroid): GO	GO:1990789	thyroid	gland epithelial cell proliferation	narrow	false	true	1	false
-BAD (high): GO	GO:1990821	high	affinity glucose import	label	false	true	1	false
 BAD (gal): GO	GO:1990850	gal	GP complex	exact	false	false	3	false
 BAD (gal): GO	GO:1990850	gal	GP complex	label	false	false	3	false
 BAD (gal): GO	GO:1990850	gal	GP complex	narrow	false	false	3	false
@@ -5247,12 +4784,6 @@ BAD (far): GO	GO:2000030	red	or far red light	label	false	false	9	false
 BAD (far): GO	GO:2000030	regulation	of response to red or far red light	label	false	true	1	false
 BAD (far): GO	GO:2000030	response	to red or far red light	label	false	false	5	false
 BAD (far): GO	GO:2000030	to	red or far red light	label	false	false	7	false
-BAD (pro): GO	GO:2000174	pro	T cell differentiation	exact	false	false	5	false
-BAD (pro): GO	GO:2000174	pro	T cell differentiation	label	false	false	5	false
-BAD (pro): GO	GO:2000175	pro	T cell differentiation	exact	false	false	7	false
-BAD (pro): GO	GO:2000175	pro	T cell differentiation	label	false	false	7	false
-BAD (pro): GO	GO:2000176	pro	T cell differentiation	exact	false	false	7	false
-BAD (pro): GO	GO:2000176	pro	T cell differentiation	label	false	false	7	false
 BAD (toll): GO	GO:2000440	toll	like receptor 15 signaling pathway	exact	false	false	5	false
 BAD (toll): GO	GO:2000440	toll	like receptor 15 signaling pathway	label	false	false	5	false
 BAD (toll): GO	GO:2000441	toll	like receptor 15 signaling pathway	exact	false	false	7	false
@@ -5282,15 +4813,6 @@ BAD (thyroid): GO	GO:2000613	thyroid	stimulating hormone secretion	exact	false	f
 BAD (thyroid): GO	GO:2000613	thyroid	stimulating hormone secretion	label	false	false	7	false
 BAD (thyroid): GO	GO:2000614	thyroid	stimulating hormone secretion	exact	false	false	7	false
 BAD (thyroid): GO	GO:2000614	thyroid	stimulating hormone secretion	label	false	false	7	false
-BAD (pro): GO	GO:2000973	pro	B cell differentiation	exact	false	false	5	false
-BAD (pro): GO	GO:2000973	pro	B cell differentiation	label	false	false	5	false
-BAD (pro): GO	GO:2000973	pro	B cell differentiation	related	false	false	5	false
-BAD (pro): GO	GO:2000974	pro	B cell differentiation	exact	false	false	7	false
-BAD (pro): GO	GO:2000974	pro	B cell differentiation	label	false	false	7	false
-BAD (pro): GO	GO:2000974	pro	B cell differentiation	related	false	false	7	false
-BAD (pro): GO	GO:2000975	pro	B cell differentiation	exact	false	false	7	false
-BAD (pro): GO	GO:2000975	pro	B cell differentiation	label	false	false	7	false
-BAD (pro): GO	GO:2000975	pro	B cell differentiation	related	false	false	7	false
 BAD (shaped): HP	HP:0000447	Pear	shaped nose	label	true	true	1	false
 BAD (shaped): HP	HP:0000447	shaped	nose	label	false	false	3	false
 BAD (cataract): HP	HP:0000519	Congenital	cataract	exact	true	true	1	false
@@ -5327,9 +4849,6 @@ BAD (tooth): HP	HP:0000706	Unerupted	tooth	label	true	true	1	false
 BAD (tooth): HP	HP:0000706	tooth		broad	false	false	3	false
 BAD (tooth): HP	HP:0000706	tooth		exact	false	false	3	false
 BAD (tooth): HP	HP:0000706	tooth		label	false	false	3	false
-BAD (high): HP	HP:0000753	Autism	with high cognitive abilities	label	true	true	1	false
-BAD (high): HP	HP:0000753	high	cognitive abilities	label	false	false	5	false
-BAD (high): HP	HP:0000753	with	high cognitive abilities	label	false	false	3	false
 BAD (degeneration): HP	HP:0000764	Peripheral	axonal degeneration	label	true	true	1	false
 BAD (degeneration): HP	HP:0000764	axonal	degeneration	label	false	false	3	false
 BAD (degeneration): HP	HP:0000764	degeneration		label	false	false	5	false
@@ -40854,8 +40373,6 @@ BAD (tooth): UBERON	UBERON:2002016	pharyngobranchial	4 tooth plate	exact	false	t
 BAD (tooth): UBERON	UBERON:2002016	pharyngobranchial	4 tooth plate	label	false	true	1	false
 BAD (tooth): UBERON	UBERON:2002016	tooth	plate	exact	false	false	4	false
 BAD (tooth): UBERON	UBERON:2002016	tooth	plate	label	false	false	4	false
-BAD (pro): UBERON	UBERON:2002090	pro	otic fossa	exact	false	true	1	false
-BAD (pro): UBERON	UBERON:2002090	pro	otic fossa	label	false	true	1	false
 BAD (intermediate): UBERON	UBERON:2002202	intermediate	nucleus	label	false	true	1	false
 BAD (tooth): UBERON	UBERON:2002258	tooth		label	false	false	3	false
 BAD (tooth): UBERON	UBERON:2002258	trituration	tooth	label	false	true	1	false
@@ -40889,14 +40406,10 @@ BAD (sulcus): UBERON	UBERON:3000803	sulcus	articularis lateralis	label	false	tru
 BAD (sulcus): UBERON	UBERON:3000803	sulcus	articularis lateralis	label	false	true	1	false
 BAD (sulcus): UBERON	UBERON:3000804	sulcus	articularis medialis	label	false	true	1	false
 BAD (sulcus): UBERON	UBERON:3000804	sulcus	articularis medialis	label	false	true	1	false
-BAD (pro): UBERON	UBERON:3000813	pro	cartilagine praecoracoidealis	label	false	false	3	false
-BAD (pro): UBERON	UBERON:3000813	sulcus	pro cartilagine praecoracoidealis	label	false	true	1	false
 BAD (sulcus): UBERON	UBERON:3000813	sulcus	pro cartilagine praecoracoidealis	label	false	true	1	false
 BAD (sulcus): UBERON	UBERON:3000813	sulcus	pro cartilagine praecoracoidealis	label	false	true	1	false
 BAD (sulcus): UBERON	UBERON:3000844	sulcus	longitudinalis	label	false	true	1	false
 BAD (sulcus): UBERON	UBERON:3000844	sulcus	longitudinalis	label	false	true	1	false
-BAD (pro): UBERON	UBERON:3000906	pro	musculo extensori cruris brevis	label	false	false	3	false
-BAD (pro): UBERON	UBERON:3000906	sulcus	pro musculo extensori cruris brevis	label	false	true	1	false
 BAD (sulcus): UBERON	UBERON:3000906	sulcus	pro musculo extensori cruris brevis	label	false	true	1	false
 BAD (sulcus): UBERON	UBERON:3000906	sulcus	pro musculo extensori cruris brevis	label	false	true	1	false
 BAD (sulcus): UBERON	UBERON:3000908	sulcus	distalis ossis cruris	label	false	true	1	false
