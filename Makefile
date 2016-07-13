@@ -27,5 +27,12 @@ tokens.txt: $(ALL_TOKENS)
 	sort -u $^ > $@
 .PRECIOUS: tokens.txt
 
-proper_est.txt: tokens.txt
-	blip-findall -i $< -consult extract_proper.pro proper/2 -no_pred > $@.tmp && sort -u $@.tmp > $@
+proper_est.txt: tokens.txt blacklisted.pro
+	blip-findall -i $< -i blacklisted.pro -consult extract_proper.pro proper/2 -no_pred > $@.tmp && sort -u $@.tmp > $@
+.PRECIOUS: proper_est.txt
+
+check.pl: proper_est.txt
+	./make-perl-checker.pl $< > $@.tmp && mv $@.tmp $@
+
+blacklisted.pro: curated_negative.txt curated_ambiguous.txt
+	perl -npe 's@\s.*@@' $^ | tbl2p -p blacklisted > $@

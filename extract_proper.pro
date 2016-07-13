@@ -1,4 +1,4 @@
-%% tokens(S, C, W, Type, IsCap, IsFirst, Pos, IsApop).
+%% tokens(S, C, W, Term, Type, IsCap, IsFirst, Pos, IsApop).
 
 idspace_regularity('UBERON',label,99).
 idspace_regularity('UBERON',_,85).
@@ -9,17 +9,20 @@ is_first_word_cap('HP').
 
 is_all_cap('OMIM').
 
-
 proper(W,Score) :-
-        tokens(S, _, W, Type, true, _, _, _),
+        proper1(W,Score),
+        \+ blacklisted(W).
+
+proper1(W,Score) :-
+        tokens(S, _, W, _, Type, true, _, _, _),
         idspace_regularity(S,Type,Score).
 
-proper(W,90) :-
-        tokens(S, _, W, _, true, false, _, _),
+proper1(W,90) :-
+        tokens(S, _, W, _, _, true, false, _, _),
         is_first_word_cap(S).
 
-proper(W,80) :-
-        tokens(S, _, W, _, true, _, _, true),
+proper1(W,80) :-
+        tokens(S, _, W, _, _, true, _, _, true),
         is_all_cap(S).
 
 
