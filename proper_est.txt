@@ -37,12 +37,8 @@ Amsler	90
 Andersen	90
 Angelman	90
 Angelucci	90
-Anterolateral	85
-Anterolateral	99
 Antley	90
 AnxA2	99
-Apical	85
-Apical	99
 Ara4FN	99
 Ara4N	99
 Arden	90
@@ -114,7 +110,6 @@ Behnke	90
 Bell	90
 Bergmann	99
 Bernard	90
-Beta	99
 Bethlem	90
 Beuren	90
 Bfa1	99
@@ -319,7 +314,6 @@ Deadlock	99
 Deficit	90
 Degeneration	90
 Degos	90
-Delta	99
 Delta1	99
 Delta8	99
 Dent	90
@@ -389,8 +383,6 @@ Ehlers	90
 Ehrlich	99
 Eimer	85
 Eimer	99
-Element	85
-Element	99
 Elg1	99
 Ellis	90
 Ellison	90
@@ -588,7 +580,6 @@ Hsp90	99
 Hub1	99
 Huet	90
 Hulle	99
-Human	90
 Humphrey	90
 Hunter	90
 Huntington	90
@@ -596,9 +587,7 @@ Hurler	90
 Hydroxyphenylacetic	90
 Hydroxyphenylpyruvate	90
 Hydroxyphenylpyruvic	90
-Hypoplasia	90
 Hypoplastia	90
-Hypoplastic	90
 Hz	90
 Iai	85
 Iai	99
@@ -1064,11 +1053,7 @@ Pof6	99
 Pof7	99
 Pof9	99
 Poland	90
-Polymerase	99
 Pontiac	90
-Positive	90
-Posterolateral	85
-Posterolateral	99
 Potter	90
 Powassan	90
 PrCO	85
@@ -1334,12 +1319,9 @@ Subluxation	90
 Sulcus	85
 Sulcus	99
 Sulzberger	90
-Supplementary	85
-Supplementary	99
 Swi2	99
 Swi5	99
 Swr1	99
-Syndrome	90
 Syp1	99
 Szily	85
 Szily	99

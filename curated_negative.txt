@@ -13,4 +13,9 @@ Supplementary ## https://github.com/obophenotype/uberon-phenoscape-ext/issues/3
 Apical ## https://github.com/obophenotype/uberon-phenoscape-ext/issues/3
 Posterolateral ## https://github.com/obophenotype/uberon-phenoscape-ext/issues/3
 Anterolateral ## https://github.com/obophenotype/uberon-phenoscape-ext/issues/3
-
+Hypoplastic
+Hyperplastic
+Hypoplasia
+Hyperplasia
+Human
+Syndrome
