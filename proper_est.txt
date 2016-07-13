@@ -264,7 +264,6 @@ Cogan	90
 Cole	90
 Collins	90
 Colorado	90
-Complex	99
 Compton	90
 Congo	90
 Conn	90
@@ -340,7 +339,6 @@ Dieulafoy	90
 Dig1p	99
 Dig2p	99
 Dihydroxy	99
-Disease	90
 Dissecans	90
 Dlc1	99
 Dma1	99
@@ -416,8 +414,6 @@ Expanded	99
 Fabricius	85
 Fabricius	99
 Fabry	90
-Factor	90
-Factor	99
 Fallot	90
 Fanconi	90
 Fanconi	99
@@ -838,7 +834,6 @@ Marshall	90
 Marshall	99
 Masera	85
 Masera	99
-Mast	90
 Mastermind	99
 Masters	90
 Matthew	90
@@ -863,7 +858,6 @@ Meige	90
 Meissner	85
 Meissner	99
 Melkersson	90
-Membrane	90
 Meniere	90
 Menkes	90
 Mer	99
@@ -1019,7 +1013,6 @@ Partington	90
 Pat1	99
 Patagonia	90
 Patau	90
-Pathway	99
 Paxinos	85
 Paxinos	99
 PcG	99
@@ -1149,7 +1142,6 @@ Reis	90
 Reissner	85
 Reissner	99
 Rel	99
-Related	90
 Renilla	99
 Renpenning	90
 Rep	99
@@ -1393,7 +1385,6 @@ Troponin	99
 Troyer	90
 Turner	90
 TusA	99
-Type	99
 Tyr	99
 Ubisch	99
 Ubp3	99

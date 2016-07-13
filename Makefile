@@ -3,7 +3,7 @@ ONTS = DOID HP UBERON GO
 ALL_PROPER = $(patsubst %,%-proper,$(ONTS))
 ALL_TOKENS = $(patsubst %,%-tokens,$(ONTS))
 
-all: all_tokens proper_est.txt
+all: all_tokens proper_est.txt report.txt
 all_proper: $(ALL_PROPER) proper.txt
 all_tokens: $(ALL_PROPER) tokens.txt
 
@@ -35,4 +35,7 @@ check.pl: proper_est.txt
 	./make-perl-checker.pl $< > $@.tmp && mv $@.tmp $@
 
 blacklisted.pro: curated_negative.txt curated_ambiguous.txt
-	perl -npe 's@\s.*@@' $^ | tbl2p -p blacklisted > $@
+	perl -npe 'chomp;s@\s.*@@;s@$$@\n@' $^ | tbl2p -p blacklisted > $@
+
+report.txt: tokens.txt check.pl
+	perl -n check.pl $< >& $@.tmp && mv $@.tmp $@

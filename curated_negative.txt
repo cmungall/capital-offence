@@ -1,2 +1,16 @@
 Mountain ## Rocky Mountain spotted fever
 Type ## https://github.com/geneontology/go-ontology/issues/12540
+Complex ## https://github.com/geneontology/go-ontology/issues/12541
+Related ## https://github.com/DiseaseOntology/HumanDiseaseOntology/issues/166
+Disease ## https://github.com/DiseaseOntology/HumanDiseaseOntology/issues/166
+Factor
+Membrane
+Pathway
+Positive
+Polymerase
+Element ## https://github.com/obophenotype/uberon-phenoscape-ext/issues/3
+Supplementary ## https://github.com/obophenotype/uberon-phenoscape-ext/issues/3
+Apical ## https://github.com/obophenotype/uberon-phenoscape-ext/issues/3
+Posterolateral ## https://github.com/obophenotype/uberon-phenoscape-ext/issues/3
+Anterolateral ## https://github.com/obophenotype/uberon-phenoscape-ext/issues/3
+
