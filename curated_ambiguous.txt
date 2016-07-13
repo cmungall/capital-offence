@@ -4,3 +4,6 @@ Alpha
 Beta
 Gamma
 Delta
+Pro ## Ala-tRNA(Pro) hydrolase activity
+Native ## Native  American myopathy
+
