@@ -1,1 +1,2 @@
 Mountain ## Rocky Mountain spotted fever
+Type ## https://github.com/geneontology/go-ontology/issues/12540
