@@ -9,3 +9,4 @@ Native ## Native  American myopathy
 Brown
 Down ## Down syndrome
 Tooth ## Charcot Marie-Tooth disease
+Notch ## capitalization valid for proteins, https://github.com/geneontology/go-ontology/issues/12541
