@@ -6,4 +6,6 @@ Gamma
 Delta
 Pro ## Ala-tRNA(Pro) hydrolase activity
 Native ## Native  American myopathy
-
+Brown
+Down ## Down syndrome
+Tooth ## Charcot Marie-Tooth disease

@@ -4,13 +4,10 @@ BAD (group): CHEBI	CHEBI:33579	group	molecular entity	label	false	false	3	false
 BAD (group): CHEBI	CHEBI:33579	main	group molecular entity	label	false	true	1	false
 BAD (group): CHEBI	CHEBI:33582	carbon	group molecular entity	label	false	true	1	false
 BAD (group): CHEBI	CHEBI:33582	group	molecular entity	label	false	false	3	false
-BAD (brown): CL	CL:0000449	brown	fat cell	exact	false	true	1	false
-BAD (brown): CL	CL:0000449	brown	fat cell	label	false	true	1	false
 BAD (intermediate): CL	CL:0002209	intermediate	epitheliocyte	exact	false	true	1	false
 BAD (intermediate): CL	CL:0002209	intermediate	epitheliocyte	label	false	true	1	false
 BAD (intermediate): CL	CL:0002216	intermediate	muscle cell	label	false	true	1	false
 BAD (intermediate): CL	CL:0002217	intermediate	trophoblast cell	label	false	true	1	false
-BAD (brown): CL	CL:0002335	brown	preadipocyte	label	false	true	1	false
 BAD (intermediate): CL	CL:0002393	intermediate	monocyte	label	false	true	1	false
 BAD (intermediate): CL	CL:0002430	intermediate	CD8-positive double-positive thymocyte	exact	false	false	3	false
 BAD (intermediate): CL	CL:0002430	intermediate	CD8-positive double-positive thymocyte	label	false	false	3	false
@@ -137,8 +134,6 @@ BAD (henle): CL	CL:1001111	loop	of henle thin descending limb epithelial cell	la
 BAD (henle): CL	CL:1001111	loop	of henle thin descending limb epithelial cell	label	false	false	3	false
 BAD (henle): CL	CL:1001111	of	henle thin descending limb epithelial cell	label	false	false	5	false
 BAD (henle): CL	CL:1001111	of	henle thin descending limb epithelial cell	label	false	false	5	false
-BAD (down): CL	CL:1001437	down	neuron	label	false	false	3	false
-BAD (down): CL	CL:1001437	hair	down neuron	label	false	true	1	false
 BAD (refsum): DOID	DOID:0050444	infantile	refsum disease	exact	false	true	1	false
 BAD (refsum): DOID	DOID:0050444	infantile	refsum disease	label	false	true	1	false
 BAD (refsum): DOID	DOID:0050444	refsum	disease	exact	false	false	3	false
@@ -182,8 +177,6 @@ BAD (janus): DOID	DOID:0060008	janus	kinase-3 deficiency	label	false	true	1	fals
 BAD (finger): DOID	DOID:0060141	finger	agnosia	label	false	true	1	false
 BAD (finger): DOID	DOID:0060141	finger	agnosia	label	false	true	1	false
 BAD (methylglutaconic): DOID	DOID:0060336	methylglutaconic	aciduria	label	false	false	2	false
-BAD (brown): DOID	DOID:0060525	brown	shrimp allergy	exact	false	true	1	false
-BAD (brown): DOID	DOID:0060525	brown	shrimp allergy	label	false	true	1	false
 BAD (sclerosing): DOID	DOID:0080036	SOST	related sclerosing bone dysplasia	exact	false	true	1	false
 BAD (sclerosing): DOID	DOID:0080036	SOST	related sclerosing bone dysplasia	label	false	true	1	false
 BAD (sclerosing): DOID	DOID:0080036	related	sclerosing bone dysplasia	exact	false	false	3	false
@@ -1727,21 +1720,6 @@ BAD (group): GO	GO:0015246	fatty	acyl group transporter activity	narrow	false	tr
 BAD (group): GO	GO:0015246	group	transporter activity	exact	false	false	5	false
 BAD (group): GO	GO:0015246	group	transporter activity	label	false	false	5	false
 BAD (group): GO	GO:0015246	group	transporter activity	narrow	false	false	5	false
-BAD (down): GO	GO:0015395	activity	down a concentration gradient	exact	false	false	7	false
-BAD (down): GO	GO:0015395	activity	down a concentration gradient	label	false	false	7	false
-BAD (down): GO	GO:0015395	activity	down a concentration gradient	narrow	false	false	7	false
-BAD (down): GO	GO:0015395	down	a concentration gradient	exact	false	false	9	false
-BAD (down): GO	GO:0015395	down	a concentration gradient	label	false	false	9	false
-BAD (down): GO	GO:0015395	down	a concentration gradient	narrow	false	false	9	false
-BAD (down): GO	GO:0015395	nucleoside	transmembrane transporter activity, down a concentration gradient	exact	false	true	1	false
-BAD (down): GO	GO:0015395	nucleoside	transmembrane transporter activity, down a concentration gradient	label	false	true	1	false
-BAD (down): GO	GO:0015395	nucleoside	transmembrane transporter activity, down a concentration gradient	narrow	false	true	1	false
-BAD (down): GO	GO:0015395	transmembrane	transporter activity, down a concentration gradient	exact	false	false	3	false
-BAD (down): GO	GO:0015395	transmembrane	transporter activity, down a concentration gradient	label	false	false	3	false
-BAD (down): GO	GO:0015395	transmembrane	transporter activity, down a concentration gradient	narrow	false	false	3	false
-BAD (down): GO	GO:0015395	transporter	activity, down a concentration gradient	exact	false	false	5	false
-BAD (down): GO	GO:0015395	transporter	activity, down a concentration gradient	label	false	false	5	false
-BAD (down): GO	GO:0015395	transporter	activity, down a concentration gradient	narrow	false	false	5	false
 BAD (silver): GO	GO:0015445	silver	exporting ATPase activity	exact	false	true	1	false
 BAD (silver): GO	GO:0015445	silver	exporting ATPase activity	label	false	true	1	false
 BAD (usher): GO	GO:0015473	fimbrial	usher porin activity	label	false	true	1	false
@@ -1768,11 +1746,6 @@ BAD (group): GO	GO:0015915	fatty	acyl group transport	exact	false	true	1	false
 BAD (group): GO	GO:0015915	fatty	acyl group transport	label	false	true	1	false
 BAD (group): GO	GO:0015915	group	transport	exact	false	false	5	false
 BAD (group): GO	GO:0015915	group	transport	label	false	false	5	false
-BAD (down): GO	GO:0015985	coupled	proton transport, down electrochemical gradient	label	false	false	3	false
-BAD (down): GO	GO:0015985	down	electrochemical gradient	label	false	false	9	false
-BAD (down): GO	GO:0015985	energy	coupled proton transport, down electrochemical gradient	label	false	true	1	false
-BAD (down): GO	GO:0015985	proton	transport, down electrochemical gradient	label	false	false	5	false
-BAD (down): GO	GO:0015985	transport	down electrochemical gradient	label	false	false	7	false
 BAD (recognition): GO	GO:0016198	axon	choice point recognition	label	false	true	1	false
 BAD (recognition): GO	GO:0016198	choice	point recognition	label	false	false	3	false
 BAD (recognition): GO	GO:0016198	point	recognition	label	false	false	5	false
@@ -3503,8 +3476,6 @@ BAD (cob): GO	GO:0050453	cob	II)alamin reductase activity	label	false	true	1	fal
 BAD (cob): GO	GO:0050453	cob	II)alamin reductase activity	related	false	true	1	false
 BAD (hydroxyphenylpyruvate): GO	GO:0050546	hydroxyphenylpyruvate	decarboxylase activity	exact	false	false	2	false
 BAD (hydroxyphenylpyruvate): GO	GO:0050546	hydroxyphenylpyruvate	decarboxylase activity	label	false	false	2	false
-BAD (brown): GO	GO:0050873	brown	fat cell differentiation	exact	false	true	1	false
-BAD (brown): GO	GO:0050873	brown	fat cell differentiation	label	false	true	1	false
 BAD (group): GO	GO:0050997	ammonium	group binding	exact	false	false	3	false
 BAD (group): GO	GO:0050997	ammonium	group binding	label	false	false	3	false
 BAD (group): GO	GO:0050997	group	binding	exact	false	false	5	false
@@ -3808,38 +3779,6 @@ BAD (tooth): GO	GO:0070172	positive	regulation of tooth mineralization	label	fal
 BAD (tooth): GO	GO:0070172	regulation	of tooth mineralization	label	false	false	3	false
 BAD (tooth): GO	GO:0070172	tooth	mineralization	label	false	false	7	false
 BAD (vitamin): GO	GO:0070279	vitamin	B6 binding	label	false	true	1	false
-BAD (brown): GO	GO:0070342	brown	fat cell proliferation	exact	false	true	1	false
-BAD (brown): GO	GO:0070342	brown	fat cell proliferation	label	false	true	1	false
-BAD (brown): GO	GO:0070347	brown	fat cell proliferation	exact	false	false	5	false
-BAD (brown): GO	GO:0070347	brown	fat cell proliferation	label	false	false	5	false
-BAD (brown): GO	GO:0070347	of	brown fat cell proliferation	exact	false	false	3	false
-BAD (brown): GO	GO:0070347	of	brown fat cell proliferation	label	false	false	3	false
-BAD (brown): GO	GO:0070347	regulation	of brown fat cell proliferation	exact	false	true	1	false
-BAD (brown): GO	GO:0070347	regulation	of brown fat cell proliferation	label	false	true	1	false
-BAD (brown): GO	GO:0070348	brown	fat cell proliferation	exact	false	false	7	false
-BAD (brown): GO	GO:0070348	brown	fat cell proliferation	label	false	false	7	false
-BAD (brown): GO	GO:0070348	brown	fat cell proliferation	narrow	false	false	7	false
-BAD (brown): GO	GO:0070348	negative	regulation of brown fat cell proliferation	exact	false	true	1	false
-BAD (brown): GO	GO:0070348	negative	regulation of brown fat cell proliferation	label	false	true	1	false
-BAD (brown): GO	GO:0070348	negative	regulation of brown fat cell proliferation	narrow	false	true	1	false
-BAD (brown): GO	GO:0070348	of	brown fat cell proliferation	exact	false	false	5	false
-BAD (brown): GO	GO:0070348	of	brown fat cell proliferation	label	false	false	5	false
-BAD (brown): GO	GO:0070348	of	brown fat cell proliferation	narrow	false	false	5	false
-BAD (brown): GO	GO:0070348	regulation	of brown fat cell proliferation	exact	false	false	3	false
-BAD (brown): GO	GO:0070348	regulation	of brown fat cell proliferation	label	false	false	3	false
-BAD (brown): GO	GO:0070348	regulation	of brown fat cell proliferation	narrow	false	false	3	false
-BAD (brown): GO	GO:0070349	brown	fat cell proliferation	exact	false	false	7	false
-BAD (brown): GO	GO:0070349	brown	fat cell proliferation	label	false	false	7	false
-BAD (brown): GO	GO:0070349	brown	fat cell proliferation	narrow	false	false	7	false
-BAD (brown): GO	GO:0070349	of	brown fat cell proliferation	exact	false	false	5	false
-BAD (brown): GO	GO:0070349	of	brown fat cell proliferation	label	false	false	5	false
-BAD (brown): GO	GO:0070349	of	brown fat cell proliferation	narrow	false	false	5	false
-BAD (brown): GO	GO:0070349	positive	regulation of brown fat cell proliferation	exact	false	true	1	false
-BAD (brown): GO	GO:0070349	positive	regulation of brown fat cell proliferation	label	false	true	1	false
-BAD (brown): GO	GO:0070349	positive	regulation of brown fat cell proliferation	narrow	false	true	1	false
-BAD (brown): GO	GO:0070349	regulation	of brown fat cell proliferation	exact	false	false	3	false
-BAD (brown): GO	GO:0070349	regulation	of brown fat cell proliferation	label	false	false	3	false
-BAD (brown): GO	GO:0070349	regulation	of brown fat cell proliferation	narrow	false	false	3	false
 BAD (group): GO	GO:0070379	group	box 1 binding	exact	false	false	5	false
 BAD (group): GO	GO:0070379	group	box 1 binding	label	false	false	5	false
 BAD (group): GO	GO:0070379	high	mobility group box 1 binding	exact	false	true	1	false
@@ -4114,13 +4053,6 @@ BAD (far): GO	GO:0090228	far	red light signaling pathway	exact	false	false	11	fa
 BAD (far): GO	GO:0090228	far	red light signaling pathway	label	false	false	11	false
 BAD (far): GO	GO:0090229	far	red light signaling pathway	exact	false	false	11	false
 BAD (far): GO	GO:0090229	far	red light signaling pathway	label	false	false	11	false
-BAD (brown): GO	GO:0090335	brown	fat cell differentiation	label	false	false	5	false
-BAD (brown): GO	GO:0090335	of	brown fat cell differentiation	label	false	false	3	false
-BAD (brown): GO	GO:0090335	regulation	of brown fat cell differentiation	label	false	true	1	false
-BAD (brown): GO	GO:0090336	brown	fat cell differentiation	label	false	false	7	false
-BAD (brown): GO	GO:0090336	of	brown fat cell differentiation	label	false	false	5	false
-BAD (brown): GO	GO:0090336	positive	regulation of brown fat cell differentiation	label	false	true	1	false
-BAD (brown): GO	GO:0090336	regulation	of brown fat cell differentiation	label	false	false	3	false
 BAD (aging): GO	GO:0090342	aging		label	false	false	7	false
 BAD (aging): GO	GO:0090342	cell	aging	label	false	false	5	false
 BAD (aging): GO	GO:0090342	of	cell aging	label	false	false	3	false
@@ -4316,18 +4248,6 @@ BAD (dihydroxy): GO	GO:1903013	dihydroxy	4-methoxyphenyl)hexan-1-one	related	fal
 BAD (dihydroxy): GO	GO:1903014	dihydroxy	4-methoxyphenyl)hexan-1-one	label	false	false	14	false
 BAD (dihydroxy): GO	GO:1903014	dihydroxy	4-methoxyphenyl)hexan-1-one	related	false	false	14	false
 BAD (silver): GO	GO:1903114	silver	ion transmembrane transporter complex	label	false	true	1	false
-BAD (brown): GO	GO:1903444	brown	fat cell differentiation	exact	false	false	7	false
-BAD (brown): GO	GO:1903444	brown	fat cell differentiation	label	false	false	7	false
-BAD (brown): GO	GO:1903444	brown	fat cell differentiation	narrow	false	false	7	false
-BAD (brown): GO	GO:1903444	negative	regulation of brown fat cell differentiation	exact	false	true	1	false
-BAD (brown): GO	GO:1903444	negative	regulation of brown fat cell differentiation	label	false	true	1	false
-BAD (brown): GO	GO:1903444	negative	regulation of brown fat cell differentiation	narrow	false	true	1	false
-BAD (brown): GO	GO:1903444	of	brown fat cell differentiation	exact	false	false	5	false
-BAD (brown): GO	GO:1903444	of	brown fat cell differentiation	label	false	false	5	false
-BAD (brown): GO	GO:1903444	of	brown fat cell differentiation	narrow	false	false	5	false
-BAD (brown): GO	GO:1903444	regulation	of brown fat cell differentiation	exact	false	false	3	false
-BAD (brown): GO	GO:1903444	regulation	of brown fat cell differentiation	label	false	false	3	false
-BAD (brown): GO	GO:1903444	regulation	of brown fat cell differentiation	narrow	false	false	3	false
 BAD (vitamin): GO	GO:1904965	of	vitamin E biosynthetic process	exact	false	false	3	false
 BAD (vitamin): GO	GO:1904965	of	vitamin E biosynthetic process	label	false	false	3	false
 BAD (vitamin): GO	GO:1904965	of	vitamin E biosynthetic process	narrow	false	false	3	false
@@ -6179,10 +6099,6 @@ BAD (finger): HP	HP:0006264	the	2nd finger	exact	false	false	7	false
 BAD (finger): HP	HP:0006264	the	2nd finger	exact	false	false	7	false
 BAD (finger): HP	HP:0006264	the	2nd finger	label	false	false	7	false
 BAD (finger): HP	HP:0006264	the	2nd finger	label	false	false	7	false
-BAD (brown): HP	HP:0006286	Yellow	brown discoloration of the teeth	exact	true	true	1	false
-BAD (brown): HP	HP:0006286	Yellow	brown discoloration of the teeth	label	true	true	1	false
-BAD (brown): HP	HP:0006286	brown	discoloration of the teeth	exact	false	false	3	false
-BAD (brown): HP	HP:0006286	brown	discoloration of the teeth	label	false	false	3	false
 BAD (shaped): HP	HP:0006302	Dagger	shaped pulp calcifications	exact	true	true	1	false
 BAD (shaped): HP	HP:0006302	Dagger	shaped pulp calcifications	label	true	true	1	false
 BAD (shaped): HP	HP:0006302	shaped	pulp calcifications	exact	false	false	3	false
@@ -6287,9 +6203,6 @@ BAD (finger): HP	HP:0007566	Index	finger dermatoglyphic radial loop	label	true	t
 BAD (finger): HP	HP:0007566	Index	finger dermatoglyphic radial loop	label	true	true	1	false
 BAD (finger): HP	HP:0007566	finger	dermatoglyphic radial loop	label	false	false	3	false
 BAD (finger): HP	HP:0007566	finger	dermatoglyphic radial loop	label	false	false	3	false
-BAD (brown): HP	HP:0007599	Generalized	reticulate brown pigmentation	label	true	true	1	false
-BAD (brown): HP	HP:0007599	brown	pigmentation	label	false	false	5	false
-BAD (brown): HP	HP:0007599	reticulate	brown pigmentation	label	false	false	3	false
 BAD (cataract): HP	HP:0007648	Punctate	cataract	label	true	true	1	false
 BAD (cataract): HP	HP:0007648	Punctate	cataract	related	true	true	1	false
 BAD (cataract): HP	HP:0007648	cataract		label	false	false	3	false
@@ -35764,13 +35677,23 @@ BAD (degeneration): HP	HP:0200071	degeneration		label	false	false	5	false
 BAD (degeneration): HP	HP:0200071	vitreoretinal	degeneration	label	false	false	3	false
 BAD (shaped): HP	HP:0200096	Triangular	shaped open mouth	label	true	true	1	false
 BAD (shaped): HP	HP:0200096	shaped	open mouth	label	false	false	3	false
+BAD (group): NCBITaxon	NCBITaxon:1329799	Archosauria	group	label	true	false	3	false
+BAD (group): NCBITaxon	NCBITaxon:1329799	Archosauria	group	related	true	false	3	false
+BAD (group): NCBITaxon	NCBITaxon:1329799	Testudines	Archosauria group	label	true	true	1	false
+BAD (group): NCBITaxon	NCBITaxon:1329799	Testudines	Archosauria group	related	true	true	1	false
+BAD (group): NCBITaxon	NCBITaxon:1329799	group		label	false	false	5	false
+BAD (group): NCBITaxon	NCBITaxon:1329799	group		related	false	false	5	false
 BAD (group): NCBITaxon	NCBITaxon:32346	group		label	false	false	3	false
 BAD (group): NCBITaxon	NCBITaxon:32346	melanogaster	group	label	false	true	1	false
 BAD (shaped): PATO	PATO:0001201	Y	shaped	label	false	true	1	false
 BAD (shaped): PATO	PATO:0001201	shaped		label	false	false	3	false
+BAD (myb): PR	PR:000010799	myb	proto-oncogene protein	exact	false	true	1	false
+BAD (myb): PR	PR:000010799	myb	proto-oncogene protein	label	false	true	1	false
 BAD (hedgehog): PR	PR:000014841	hedgehog	protein	label	false	false	3	false
 BAD (hedgehog): PR	PR:000014841	sonic	hedgehog protein	label	false	true	1	false
 BAD (thyroglobulin): PR	PR:000016283	thyroglobulin		label	false	true	1	false
+BAD (co): PR	PR:000025402	co	receptor CD8	exact	false	false	7	false
+BAD (co): PR	PR:000025402	co	receptor CD8	label	false	false	7	false
 BAD (epiglottis): UBERON	UBERON:0000388	epiglottis		label	false	true	1	false
 BAD (intermediate): UBERON	UBERON:0000430	intermediate	nucleus of thalamus	label	false	false	3	false
 BAD (intermediate): UBERON	UBERON:0000430	intermediate	nucleus of thalamus	related	false	false	3	false
@@ -35802,9 +35725,6 @@ BAD (lobule): UBERON	UBERON:0001171	lobule		label	false	false	3	false
 BAD (lobule): UBERON	UBERON:0001171	lobule		label	false	false	3	false
 BAD (lobule): UBERON	UBERON:0001171	portal	lobule	label	false	true	1	false
 BAD (lobule): UBERON	UBERON:0001171	portal	lobule	label	false	true	1	false
-BAD (brown): UBERON	UBERON:0001348	brown	adipose tissue	exact	false	true	1	false
-BAD (brown): UBERON	UBERON:0001348	brown	adipose tissue	label	false	true	1	false
-BAD (brown): UBERON	UBERON:0001348	brown	adipose tissue	related	false	true	1	false
 BAD (group): UBERON	UBERON:0001562	digastric	muscle group	exact	false	true	1	false
 BAD (group): UBERON	UBERON:0001562	digastric	muscle group	label	false	true	1	false
 BAD (group): UBERON	UBERON:0001562	digastric	muscle group	related	false	true	1	false
@@ -36728,9 +36648,6 @@ BAD (tooth): UBERON	UBERON:0007776	unerupted	tooth	label	false	true	1	false
 BAD (tooth): UBERON	UBERON:0007776	unerupted	tooth	related	false	true	1	false
 BAD (tooth): UBERON	UBERON:0008281	tooth	bud	label	false	true	1	false
 BAD (tooth): UBERON	UBERON:0008281	tooth	bud	related	false	true	1	false
-BAD (down): UBERON	UBERON:0008291	down	feather	exact	false	true	1	false
-BAD (down): UBERON	UBERON:0008291	down	feather	label	false	true	1	false
-BAD (down): UBERON	UBERON:0008291	down	feather	narrow	false	true	1	false
 BAD (notch): UBERON	UBERON:0008449	notch		exact	false	false	3	false
 BAD (notch): UBERON	UBERON:0008449	notch		label	false	false	3	false
 BAD (notch): UBERON	UBERON:0008449	notch		related	false	false	3	false

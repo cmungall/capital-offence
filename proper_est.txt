@@ -164,7 +164,6 @@ Brodmann	85
 Brodmann	99
 Brody	90
 Brooke	90
-Brown	90
 Brucella	90
 Bruch	85
 Bruch	90
@@ -352,7 +351,6 @@ Dougherty	99
 Douglas	85
 Douglas	99
 Dowling	90
-Down	90
 Dps	99
 Drash	90
 Dravet	90

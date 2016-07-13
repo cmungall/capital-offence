@@ -1,11 +1,11 @@
 
-ONTS = DOID HP UBERON GO
+ONTS = DOID HP UBERON GO CL
 ALL_PROPER = $(patsubst %,%-proper,$(ONTS))
 ALL_TOKENS = $(patsubst %,%-tokens,$(ONTS))
 
 all: all_tokens proper_est.txt report.txt
-all_proper: $(ALL_PROPER) proper.txt
-all_tokens: $(ALL_PROPER) tokens.txt
+#all_proper: $(ALL_PROPER) proper.txt
+all_tokens: $(ALL_TOKENS) tokens.txt
 
 #%-labels:
 #	blip-findall -r $* "class(_,N)" -select N > $@.tmp && mv $@.tmp $@
