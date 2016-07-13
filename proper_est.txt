@@ -1313,8 +1313,6 @@ Straussler	90
 Streiff	90
 Strudwick	90
 Subluxation	90
-Sulcus	85
-Sulcus	99
 Sulzberger	90
 Swi2	99
 Swi5	99
@@ -1338,7 +1336,6 @@ Thompson	90
 Thomson	90
 Thr	99
 Thyroglobulin	99
-Thyroid	99
 Tic	99
 Tie	99
 Tietze	90
