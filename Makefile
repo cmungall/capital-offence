@@ -5,7 +5,7 @@ ONTS = DOID HP UBERON GO
 ALL_PROPER = $(patsubst %,%-proper,$(ONTS))
 ALL_TOKENS = $(patsubst %,%-tokens,$(ONTS))
 
-all: all_tokens proper_est.txt report.txt report-upper.txt
+all: all_tokens proper_est.txt  rpt.txt
 #all_proper: $(ALL_PROPER) proper.txt
 all_tokens: $(ALL_TOKENS) tokens.txt
 
@@ -32,8 +32,13 @@ tokens.txt: $(ALL_TOKENS)
 	sort -u $^ > $@
 .PRECIOUS: tokens.txt
 
+FILTER = perl -npe 'chomp;s@\s.*@@;s@$$@\n@' $^ | grep -v ^\#
 blacklisted.pro: curated_negative.txt curated_ambiguous.txt
-	perl -npe 'chomp;s@\s.*@@;s@$$@\n@' $^ | grep -v ^\# | tbl2p -p blacklisted > $@
+	$(FILTER) | tbl2p -p blacklisted > $@
+
+
+%.pro: %.txt
+	$(FILTER) | tbl2p -p $* > $@
 
 
 ## use rules to infer proper nouns and other words that should be capitalized.
@@ -44,11 +49,17 @@ proper_est.txt: tokens.txt blacklisted.pro
 	blip-findall -i $< -i blacklisted.pro -consult extract_proper.pro proper/2 -no_pred > $@.tmp && sort -u $@.tmp > $@
 .PRECIOUS: proper_est.txt
 
+rpt.txt: tokens.txt curated_negative.pro proper_est.txt
+	blip-findall -i $< -i curated_negative.pro -i proper_est.txt -consult extract_proper.pro mistake/5 -no_pred  > $@.tmp && sort -u $@.tmp > $@
+
 # report on any lowercase labels that should be capitalized.
 # E.g. if an ontology has a label "purkinje cell"
 check.pl: proper_est.txt
 	./make-perl-checker.pl $< > $@.tmp && mv $@.tmp $@
 
+### ========================================
+### @Deprecated
+### ========================================
 ## TODO: report any inappropriately capitalized
 ## NOTE: many of these fall out of the earlier process: they are used to seed the proper nouns list;
 ##       later these are the cause of false positives

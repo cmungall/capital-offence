@@ -470,6 +470,7 @@ CobST	99
 CobT	99
 CobU	99
 Cockayne	90
+Coffin	90
 Cogan	90
 Cole	90
 Colles	85
@@ -577,6 +578,7 @@ DiaA	99
 Diamond	90
 Dieker	90
 Dietz	90
+Dieulafoy	90
 Dig1p	99
 Dig2p	99
 Disse	85

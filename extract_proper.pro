@@ -25,4 +25,32 @@ proper1(W,80) :-
         tokens(S, _, W, _, _, true, _, _, true),
         is_all_cap(S).
 
+mistake(should_be_lc,W,C,Term,Type) :-
+        should_be_lc(W,C,Term,Type).
+mistake(should_be_uc,W,C,Term,Type) :-
+        should_be_uc(W,C,Term,Type).
+
+should_be_lc(W,C,Term,Type) :-
+        curated_negative(W),
+        tokens(S, C, W, Term, Type, true, _, _, _),
+        idspace_regularity(S,Type,_).
+
+should_be_lc(W,C,Term,Type) :-
+        curated_negative(W),
+        tokens(S, C, W, Term, Type, true, false, _, _),
+        is_first_word_cap(S).
+
+should_be_uc(WL,C,Term,Type) :-
+        proper_est(WU,_),
+        downcase_atom(WU,WL),
+        tokens(S, C, WL, Term, Type, false, _, _, _),
+        idspace_regularity(S,Type,_).
+
+should_be_uc(WL,C,Term,Type) :-
+        proper_est(WU,_),
+        downcase_atom(WU,WL),
+        tokens(S, C, WL, Term, Type, false, false, _, _),
+        is_first_word_cap(S).
+
+
 

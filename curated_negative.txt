@@ -1,4 +1,4 @@
-Mountain ## Rocky Mountain spotted fever
+Rest
 Type ## https://github.com/geneontology/go-ontology/issues/12540
 Complex ## https://github.com/geneontology/go-ontology/issues/12541
 Related ## https://github.com/DiseaseOntology/HumanDiseaseOntology/issues/166
@@ -103,7 +103,6 @@ Class
 Clavicula
 Cleavage
 Cochlear
-Coffin
 Colon
 Comb
 Commissura
@@ -126,7 +125,6 @@ Diagonal
 Diaminobutane
 Diaphragma
 Dichloro
-Dieulafoy
 Digitus
 Dissecans
 Dol
