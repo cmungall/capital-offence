@@ -9,6 +9,9 @@ all: all_tokens proper_est.txt report.txt report-upper.txt
 #all_proper: $(ALL_PROPER) proper.txt
 all_tokens: $(ALL_TOKENS) tokens.txt
 
+clean:
+	rm *-tokens tokens.txt
+
 #%-labels:
 #	blip-findall -r $* "class(_,N)" -select N > $@.tmp && mv $@.tmp $@
 

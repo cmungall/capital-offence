@@ -20,9 +20,14 @@ while(<>) {
         $rest = $3;
         my $is_cap = $w =~ m@^[A-Z][a-z]@;
         my $is_num = $w =~ m@^[0-9]@;
+        my $has_num = $w =~ m@[0-9]@;
+        my $has_internal_cap = $w =~ m@.+[A-Z]@;
         my $is_apos = $sp eq "'";
         my $is_slash = $sp eq "/";
+        
         next if $is_num;
+        next if $has_num;
+        next if $has_internal_cap;
         next if $w eq 'CamelHump';  # silly uberon joke
         print join("\t",
                    $idspace,
