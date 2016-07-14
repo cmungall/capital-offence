@@ -3,7 +3,7 @@ use strict;
 
 while(<>) {
     chomp;
-    my ($id,$term,$scope,$term) = split(/\t/,$_);
+    my ($id,$term,$scope,$label) = split(/\t/,$_);
 
     my $idspace = '';
     if ($id =~ m@^(\w+):@) {
@@ -12,15 +12,16 @@ while(<>) {
     else {
         next;
     }
-    my $n = 0;
-    while ($term =~ m@(\w+)(\W*)(.*)@) {
+    my $n = 1;
+    my $rest = $term;
+    while ($rest =~ m@(\w+)(\W*)(.*)@) {
         my $w = $1;
         my $sp = $2;
-        $term = $3;
+        $rest = $3;
         my $is_cap = $w =~ m@^[A-Z][a-z]@;
         my $is_num = $w =~ m@^[0-9]@;
         my $is_apos = $sp eq "'";
-        $n++;
+        my $is_slash = $sp eq "/";
         next if $is_num;
         next if $w eq 'CamelHump';  # silly uberon joke
         print join("\t",
@@ -33,6 +34,9 @@ while(<>) {
                    $n == 1 ? 'true' : 'false',
                    $n,
                    $is_apos ? 'true' : 'false')."\n";
-        $n++;
+
+        # we treat a set of words joined by / as being in the same position;
+        # see HPO, "Atrophy/Degeneration"
+        $n++ unless $is_slash;
     }
 }
