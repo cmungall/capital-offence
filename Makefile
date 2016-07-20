@@ -1,6 +1,6 @@
 
 ##ONTS = DOID HP UBERON GO CL
-ONTS = DOID HP UBERON GO
+ONTS = DOID HP MP UBERON GO envo_basic
 
 ALL_PROPER = $(patsubst %,%-proper,$(ONTS))
 ALL_TOKENS = $(patsubst %,%-tokens,$(ONTS))

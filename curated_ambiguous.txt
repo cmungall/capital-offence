@@ -145,4 +145,11 @@ Delta4
 Delta8
 Ms
 Winter
-
+Gray
+La
+Ammonis  ## seems common to lc it?
+Lower ## Lower's ring
+Petit ## Petit's sinus
+Press ## Press, Brewer, Dougherty, Wade and Wandell (2001) visuotopic area V7
+Von ## we prefer von
+Pup ## Pup conjugating enzyme activity

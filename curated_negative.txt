@@ -64,7 +64,6 @@ Aqueduct
 Right
 Left
 Ventricular
-Lower
 Sensory
 
 ### Semi-auto
@@ -82,7 +81,6 @@ Arteria
 Arterial
 Atopic
 Auditory
-Azyr
 Biventer
 Biventral
 Bridge
@@ -246,7 +244,6 @@ Pars
 Pat
 Pediculus
 Periventricular
-Petit
 Phage
 Platelet
 Plica
@@ -256,7 +253,6 @@ Pontine
 Posterior
 Potassium
 Preoccipital
-Press
 Presubicular
 Processus
 Prostata
@@ -273,7 +269,6 @@ Repeat
 Repetitive
 Required
 Rest
-Rezius
 Ridges
 Right
 Rump
@@ -297,7 +292,6 @@ Sore
 Sorting
 Spinal
 Sponastrime
-Staderini
 Stiff
 Stroma
 Subluxation
@@ -339,10 +333,13 @@ Vesicula
 Vestibulocochlear
 Visuotopic
 Vitamin
-Wenzel
 Bacteria
-Lip
 Pure
-Raphe
-
+Raphe   ## MP is wrong here: https://en.wikipedia.org/wiki/Raphe_nuclei#Nomenclature
+Valva
+Ventricle
+Thymus
+Fire
+Tented
+Or
 

@@ -3,7 +3,10 @@
 idspace_regularity('UBERON',label,99).
 idspace_regularity('UBERON',_,85).
 idspace_regularity('GO',_,99).
+%idspace_regularity('MP',_,95).
+idspace_regularity('MP',label,95).
 idspace_regularity('DOID',label,90).
+idspace_regularity('ENVO',label,90).
 
 is_first_word_cap('HP').
 

@@ -1,6 +1,5 @@
 should_be_lc	Abnormality	HP:0011185	Focal EEG Abnormality	exact
 should_be_lc	Abscisate	GO:0010295	ABA 8'-Hydroxylase activity, Abscisate 8'-hydroxylase activity	related
-should_be_lc	Accessory	UBERON:0006665	Accessory hemi-azygos vein	exact
 should_be_lc	Accommodation	HP:0030800	An anomaly in the process of visual accommodation, which is the process of adjustment of the eye to enable sharp vision of objects at different distances. Accommodation is mediated by contraction of the ciliary muscles, which alter the convexity of hte lens and, consequently, its refractive power.	exact
 should_be_lc	Acetic	GO:0080030	indole-3-Acetic acid methyl ester esterase activity	exact
 should_be_lc	Activating	GO:0035976	Activating protein 1 complex	exact
@@ -12,34 +11,15 @@ should_be_lc	Activation	GO:0071791	Regulated upon Activation, Normal T-cell Expr
 should_be_lc	Adenylate	GO:0017091	Adenylate/uridylate-rich element binding	exact
 should_be_lc	Anomaly	HP:0012481	Developmental Venous Anomaly	exact
 should_be_lc	Anterolateral	UBERON:3010838	Anterolateral Supplementary Element	label
-should_be_lc	Aortic	UBERON:0004663	Aortic wall	exact
 should_be_lc	Apical	UBERON:3010837	Apical Supplementary Element	label
-should_be_lc	Aqueduct	UBERON:0002289	Aqueduct ofSylvius	related
 should_be_lc	Arm	GO:0070016	Arm repeat domain binding	exact
-should_be_lc	Arteria	UBERON:0010251	ramus meningeus anterior (Arteria ethmoidalis anterioris)	exact
-should_be_lc	Arteria	UBERON:0015350	ramus saphenus (Arteria descendentis genus)	exact
-should_be_lc	Arteria	UBERON:0015481	ramus sinister (Arteria hepatica propria)	exact
-should_be_lc	Arteria	UBERON:0015482	ramus dexter (Arteria hepatica propria)	exact
-should_be_lc	Arteria	UBERON:0035183	ramus calcarinus (Arteria occipitalis medialis)	exact
-should_be_lc	Arteria	UBERON:0035422	ramus circumflexus (Arteria coronaria sinistra)	exact
-should_be_lc	Arterial	UBERON:0000415	Arterial wall	exact
 should_be_lc	As	GO:0030791	S-adenosyl-L-methionine:arsenite As-methyltransferase activity	exact
 should_be_lc	As	GO:0030791	S-adenosyl-L-methionine:methylarsonite As-methyltransferase activity	exact
 should_be_lc	Atopic	HP:0001047	Dermatitis, Atopic	exact
-should_be_lc	Auditory	UBERON:0001393	Auditory areas	related
-should_be_lc	Azyr	UBERON:0002132	dentate nucleus (Vicq d'Azyr)	related
-should_be_lc	Azyr	UBERON:0002148	locus coeruleus (Vicq d'Azyr)	related
 should_be_lc	Bacteria	GO:0009275	cell wall of Gram-positive Bacteria	exact
-should_be_lc	Biventer	UBERON:0006121	Biventer 1 (HVIII)	exact
-should_be_lc	Biventer	UBERON:0006121	Lobulus Biventer	exact
-should_be_lc	Biventral	UBERON:0006121	Biventral Lobule	exact
 should_be_lc	Bridge	HP:0000446	Nasal Bridge, Narrow	exact
 should_be_lc	Calcitonin	GO:1990406	Calcitonin-gene-related peptide receptor complex	exact
-should_be_lc	Canalis	UBERON:0006010	Canalis hyaloideus	exact
 should_be_lc	Cancer	HP:0006780	Parathyroid Cancer	exact
-should_be_lc	Capsula	UBERON:0002018	membrana synovialis (Capsula articularis)	exact
-should_be_lc	Capsula	UBERON:0002018	stratum synoviale (Capsula articularis)	exact
-should_be_lc	Cardiac	UBERON:0002081	Cardiac atria	exact
 should_be_lc	Cardiac	UBERON:0002166	Cardiac atria endocardium	exact
 should_be_lc	Cardiac	UBERON:0002166	endocardium of Cardiac atria	exact
 should_be_lc	Carnitine	GO:1900749	(-)-Carnitine transport	related
@@ -49,40 +29,27 @@ should_be_lc	Carnitine	GO:1900749	Carnitine transport	related
 should_be_lc	Carnitine	GO:1900749	L-Carnitine transport	exact
 should_be_lc	Cataract	HP:0010693	Pulverulent Cataract	label
 should_be_lc	Cauda	DOID:11577	Cauda equina syndrome	label
-should_be_lc	Caudal	UBERON:0013533	Caudal postcentral area	exact
-should_be_lc	Cavernous	UBERON:0000457	Cavernous branch of cavernous part of internal carotid artery	exact
-should_be_lc	Cecal	UBERON:0000314	Cecal mucosa	exact
 should_be_lc	Chat	DOID:12580	Cri-Du-Chat syndrome	label
 should_be_lc	Chromatin	GO:0000408	Endopeptidase-like Kinase Chromatin-associated protein complex	exact
 should_be_lc	Class	GO:0006313	Class II transposition	exact
 should_be_lc	Class	GO:0032197	Class I transposition	exact
 should_be_lc	Class	GO:0032198	Class III transposition	exact
-should_be_lc	Clavicula	UBERON:0006805	extremitas sternalis (Clavicula)	exact
 should_be_lc	Cleavage	UBERON:0007232	Cleavage:2-cell	narrow
 should_be_lc	Cleavage	UBERON:0007233	Cleavage:4-cell	narrow
 should_be_lc	Cleavage	UBERON:0007236	Cleavage:8-cell	narrow
-should_be_lc	Cochlear	UBERON:0002830	anterior Ventral Cochlear Nucleus	related
-should_be_lc	Colon	UBERON:0000397	Colon epithelium	exact
-should_be_lc	Commissura	UBERON:0000935	Commissura anterior cerebri	exact
 should_be_lc	Complex	GO:0000813	Endosomal Sorting Complex Required for Transport	broad
 should_be_lc	Complex	GO:0000814	Endosomal Sorting Complex Required for Transport	broad
 should_be_lc	Complex	GO:0000815	Endosomal Sorting Complex Required for Transport	broad
 should_be_lc	Complex	GO:0030964	Complex I	exact
 should_be_lc	Complex	GO:1990203	MdtBC Complex	label
 should_be_lc	Complex	GO:1990469	Rhino-Deadlock-Cutoff Complex	label
-should_be_lc	Complex	UBERON:0006007	Pre-BC6tzinger Complex	exact
 should_be_lc	Copula	UBERON:3010583	Copula I	related
 should_be_lc	Copula	UBERON:3010585	Copula II	related
 should_be_lc	Core	GO:0016263	Core 1 GalT	related
 should_be_lc	Corpus	UBERON:0003016	fornix (entering Corpus mamillare)	exact
 should_be_lc	Corpus	UBERON:0006107	pars basolateralis (Corpus amygdaloideum)	exact
 should_be_lc	Corpus	UBERON:0006108	pars corticomedialis (Corpus amygdaloideum)	exact
-should_be_lc	Cortex	UBERON:0034892	Cortex insularis granularis	related
-should_be_lc	Cortex	UBERON:0034893	Cortex insularis dysgranularis	related
 should_be_lc	Crease	HP:0011824	Chin, H-Shaped Crease	exact
-should_be_lc	Crista	UBERON:0004661	Crista temporalis (Mandibulae)	exact
-should_be_lc	Crista	UBERON:0018367	hypapophysis, Crista ventralis corporis, Crista ventralis, Processus latus	exact
-should_be_lc	Cuneate	UBERON:0005832	Cuneate fascicle	related
 should_be_lc	Cytoskeleton	GO:0034993	LInker of Nucleoskeleton and Cytoskeleton complex	exact
 should_be_lc	Cytotoxic	GO:0072615	Cytotoxic T-lymphocyte-associated antigen 8 secretion	exact
 should_be_lc	Cytotoxic	GO:1905076	regulation of Cytotoxic T-lymphocyte-associated antigen 8 secretion	exact
@@ -100,27 +67,16 @@ should_be_lc	Decarboxylation	GO:0015451	Decarboxylation-driven transporters	rela
 should_be_lc	Deficiency	HP:0011219	Vertical Facial Deficiency	exact
 should_be_lc	Deficit	HP:0030391	Spoken Word Recognition Deficit	label
 should_be_lc	Dent	DOID:0050699	Dent disease	label
-should_be_lc	Dentate	UBERON:0005381	Dentate gyrus, granule cell layer	related
 should_be_lc	Deoxyinosine	GO:0035862	2'-Deoxyinosine 5'-triphosphate metabolic process	exact
 should_be_lc	Deoxyinosine	GO:0035862	2'-Deoxyinosine-5'-triphosphate metabolic process	exact
 should_be_lc	Deoxyinosine	GO:0035863	2'-Deoxyinosine 5'-triphosphate catabolic process	exact
 should_be_lc	Deoxyinosine	GO:0035863	2'-Deoxyinosine-5'-triphosphate catabolic process	exact
 should_be_lc	Deoxyinosine	GO:0035870	2'-Deoxyinosine-5'-triphosphate pyrophosphohydrolase activity	exact
-should_be_lc	Dermis	UBERON:0001992	stratum papillare (Dermis)	exact
-should_be_lc	Diagonal	UBERON:0006123	Diagonal band horizontal limb	exact
 should_be_lc	Diaminobutane	GO:1904585	response to 1,4-Diaminobutane	exact
 should_be_lc	Diaminobutane	GO:1904586	cellular response to 1,4-Diaminobutane	exact
 should_be_lc	Diaphragma	UBERON:0014766	crus dextrum (Diaphragma)	exact
 should_be_lc	Diaphragma	UBERON:0014767	crus sinistrum (Diaphragma)	exact
 should_be_lc	Dichloro	GO:0032044	5,6-Dichloro-1-beta-D-ribofuranosylbenzimidazole sensitivity inducing factor complex	exact
-should_be_lc	Digitus	UBERON:0003620	Pollex ; Digitus primus [ I ] digit long bone	exact
-should_be_lc	Digitus	UBERON:0003620	Pollex ; Digitus primus [ I ] long bone of digit	exact
-should_be_lc	Digitus	UBERON:0003620	Pollex ; Digitus primus [ I ] phalanx	exact
-should_be_lc	Digitus	UBERON:0003620	digit long bone of Pollex ; Digitus primus [ I ]	exact
-should_be_lc	Digitus	UBERON:0003620	long bone of digit of Pollex ; Digitus primus [ I ]	exact
-should_be_lc	Digitus	UBERON:0003620	phalanx of Pollex ; Digitus primus [ I ]	exact
-should_be_lc	Digitus	UBERON:0003645	metacarpal bone of Pollex ; Digitus primus [ I ]	exact
-should_be_lc	Digitus	UBERON:0003645	metacarpal of Pollex ; Digitus primus [ I ]	exact
 should_be_lc	Disease	DOID:0050398	Carrion's Disease	label
 should_be_lc	Disease	DOID:14415	Legg-Calve-Perthes Disease	label
 should_be_lc	Disease	HP:0010891	Sherman's Disease	exact
@@ -136,11 +92,6 @@ should_be_lc	Dol	GO:0052918	dol-P-Man:Man(8)GlcNAc(2)-PP-Dol alpha-1,2-mannosylt
 should_be_lc	Dol	GO:0052925	dol-P-Man:Man(5)GlcNAc(2)-PP-Dol alpha-1,3-mannosyltransferase activity	label
 should_be_lc	Dol	GO:0052925	man(5)GlcNAc(2)-PP-Dol mannosyltransferase activity	exact
 should_be_lc	Dol	GO:0052926	dol-P-Man:Man(6)GlcNAc(2)-PP-Dol alpha-1,2-mannosyltransferase activity	label
-should_be_lc	Dorsalis	UBERON:0006121	Paraflocculus Dorsalis	exact
-should_be_lc	Doudenal	UBERON:0000320	Doudenal mucosa	exact
-should_be_lc	Ductus	UBERON:0004224	tunica muscularis (Ductus deferens)	exact
-should_be_lc	Ductus	UBERON:0007642	ligamentum arteriosum (Ductus arteriosus)	exact
-should_be_lc	Duodenal	UBERON:0000320	Duodenal mucous membrane	exact
 should_be_lc	Duplication	HP:0030024	Pretragal Duplication	related
 should_be_lc	Dysmorphism	HP:0001999	Facial Dysmorphism	broad
 should_be_lc	Dystonia	HP:0012179	Facial Dystonia	narrow
@@ -153,10 +104,7 @@ should_be_lc	Elastic	GO:1990972	Elastic microfibrillar interface 4 complex	narro
 should_be_lc	Element	UBERON:3010836	Posterolateral Supplementary Element	label
 should_be_lc	Element	UBERON:3010837	Apical Supplementary Element	label
 should_be_lc	Element	UBERON:3010838	Anterolateral Supplementary Element	label
-should_be_lc	Eleventh	UBERON:0004635	Eleventh dorsal vertebra	exact
-should_be_lc	Embryonic	UBERON:0005439	Embryonic endoderm	exact
 should_be_lc	Endo	GO:0008821	Endo X3 activity	narrow
-should_be_lc	Endomysium	UBERON:0011897	Endomysium of cardiac muscle cell	exact
 should_be_lc	Endopeptidase	GO:0000408	Endopeptidase-like Kinase Chromatin-associated protein complex	exact
 should_be_lc	Endopeptidase	GO:0000408	Kinase, putative Endopeptidase and Other Proteins of Small size protein complex	exact
 should_be_lc	Endosomal	GO:0000813	Endosomal Sorting Complex Required for Transport	broad
@@ -164,7 +112,6 @@ should_be_lc	Endosomal	GO:0000814	Endosomal Sorting Complex Required for Transpo
 should_be_lc	Endosomal	GO:0000815	Endosomal Sorting Complex Required for Transport	broad
 should_be_lc	Enhancer	GO:0035098	Extra Sex Combs/Enhancer of Zeste complex	exact
 should_be_lc	Entire	UBERON:0009639	Entire body of sphenoid bone	exact
-should_be_lc	Epididymis	UBERON:0004544	Epididymis epithelium	exact
 should_be_lc	Epiglottis	HP:0010565	Aplasia/Hypoplasia of the Epiglottis	label
 should_be_lc	Ex	GO:0036375	Kbr, Ex and Mer complex	exact
 should_be_lc	Ex	GO:0036375	Kibra-Ex-Mer complex	label
@@ -181,7 +128,6 @@ should_be_lc	Extra	GO:0035098	Extra Sex Combs/Enhancer of Zeste complex	exact
 should_be_lc	Extra	HP:0400002	Concha, Extra Fold	exact
 should_be_lc	Facial	HP:0000276	Vertical Facial Excess	exact
 should_be_lc	Facial	HP:0011219	Vertical Facial Deficiency	exact
-should_be_lc	Facial	UBERON:0001647	Facial nerve [VII]	exact
 should_be_lc	Factor	GO:0002542	Factor XII activation	label
 should_be_lc	Factor	GO:0042533	Tumor Necrosis Factor alpha biosynthesis	exact
 should_be_lc	Factor	GO:0042533	Tumor Necrosis Factor alpha biosynthetic process	exact
@@ -190,7 +136,6 @@ should_be_lc	Factor	HP:0030131	Abnormal von Willebrand Factor multimer distribut
 should_be_lc	Factor	HP:0030133	Abnormal presence of ultra-large von Willebrand Factor multimers	label
 should_be_lc	Factor	HP:0030134	Total absence von Willebrand Factor multimers	label
 should_be_lc	Factor	HP:0040225	Decrease in High molecular weight von Willebrand Factor Multimers	label
-should_be_lc	Fallopian	UBERON:0004804	columnar epithelium of the Fallopian tube	related
 should_be_lc	Far	DOID:0050046	Far Eastern spotted fever	label
 should_be_lc	Fas	GO:0031265	Fas death-inducing signaling complex	exact
 should_be_lc	Fas	GO:0033867	ATP:Fas-activated serine/threonine protein phosphotransferase activity	exact
@@ -244,27 +189,14 @@ should_be_lc	Fas	GO:1902046	upregulation of FAS ligand-Fas signaling pathway	nar
 should_be_lc	Fas	GO:1902046	upregulation of Fas receptor signaling pathway	exact
 should_be_lc	Fas	GO:1902046	upregulation of Fas signaling pathway	exact
 should_be_lc	Fas	GO:1902046	upregulation of Fas-FasL signaling pathway	narrow
-should_be_lc	Fibrocollagenous	UBERON:0011897	Fibrocollagenous sheath of cardiac muscle cell	exact
-should_be_lc	Fifth	UBERON:0004630	Fifth dorsal vertebra	exact
 should_be_lc	Finger	UBERON:3010127	fringe on postaxial edge of Finger IV	label
-should_be_lc	First	UBERON:0004622	First sacral segment	exact
-should_be_lc	First	UBERON:0004622	First segment of sacrum	exact
-should_be_lc	First	UBERON:0004626	First dorsal vertebra	exact
+should_be_lc	Fire	HP:0001055	St. Anthony's Fire	related
 should_be_lc	Fold	HP:0400002	Concha, Extra Fold	exact
 should_be_lc	Folds	HP:0012039	Descemet Membrane Folds	label
 should_be_lc	Foot	HP:0001848	Calcaneovalgus Foot	exact
 should_be_lc	Foramen	UBERON:0018424	Foramen petrosum	exact
-should_be_lc	Fourth	UBERON:0004625	Fourth sacral segment	exact
-should_be_lc	Fourth	UBERON:0004625	Fourth segment of sacrum	exact
-should_be_lc	Fourth	UBERON:0004629	Fourth dorsal vertebra	exact
-should_be_lc	Frontal	UBERON:0002795	Frontal pole, cerebral cortex	related
 should_be_lc	Fused	GO:1990353	Fused-Smurf ubiquitin ligase complex	label
-should_be_lc	Geniculate	UBERON:0002704	Geniculate group of dorsal thalamus	related
-should_be_lc	Geniculate	UBERON:0002704	Geniculate thalamic nuclear group (metathalamus)	related
-should_be_lc	Genu	UBERON:0014915	Nervus facialis (Genu)	related
-should_be_lc	Glandula	UBERON:0035289	processus axillaris (Glandula mammaria)	exact
 should_be_lc	Glycerol	GO:0000161	High Osmolarity Glycerol (HOG) MAPK pathway	narrow
-should_be_lc	Gracile	UBERON:0002161	Gracile nucleus, principal part	related
 should_be_lc	Gram	GO:0002812	biosynthetic process of antibacterial peptides active against Gram-negative bacteria	label
 should_be_lc	Gram	GO:0002813	regulation of biosynthetic process of antibacterial peptides active against Gram-negative bacteria	label
 should_be_lc	Gram	GO:0002814	down regulation of biosynthetic process of antibacterial peptides active against Gram-negative bacteria	exact
@@ -430,31 +362,20 @@ should_be_lc	Gram	GO:1903554	GPCR signalling pathway involved in defence respons
 should_be_lc	Gram	GO:1903554	GPCR signalling pathway involved in defence response to Gram-negative bacterium	exact
 should_be_lc	Gram	GO:1903554	GPCR signalling pathway involved in defense response to Gram-negative bacteria	exact
 should_be_lc	Gram	GO:1903554	GPCR signalling pathway involved in defense response to Gram-negative bacterium	exact
-should_be_lc	Granular	UBERON:0013540	Granular frontal area	exact
-should_be_lc	Granular	UBERON:0013554	Granular cingulate area	exact
 should_be_lc	Group	GO:0000372	Group I intron splicing	label
 should_be_lc	Group	GO:0000373	Group II intron splicing	label
 should_be_lc	Group	GO:0000374	Group III intron splicing	label
 should_be_lc	Group	GO:0001639	Group I metabotropic glutamate receptor	related
 should_be_lc	Group	GO:0031519	Polycomb Group protein complex	exact
-should_be_lc	Gyrus	UBERON:0002738	isthmus of Gyrus fornicatus	related
-should_be_lc	Gyrus	UBERON:0014540	isthmus of Gyrus fornicatus	related
-should_be_lc	Habenular	UBERON:0001909	Habenular commisure	related
-should_be_lc	Hemispheric	UBERON:0001869	Hemispheric regions	related
 should_be_lc	Hemorrhage	HP:0011887	Choroidal Hemorrhage	exact
 should_be_lc	High	GO:0000161	High Osmolarity Glycerol (HOG) MAPK pathway	narrow
 should_be_lc	High	HP:0040225	Decrease in High molecular weight von Willebrand Factor Multimers	label
-should_be_lc	Horizontal	UBERON:0006123	Horizontal limb of the diagonal band of Broca	exact
 should_be_lc	Human	DOID:526	Human immunodeficiency virus infectious disease	label
 should_be_lc	Humerus	UBERON:4200172	collum anatomicum (Humerus)	exact
 should_be_lc	Hydroxylase	GO:0010295	ABA 8'-Hydroxylase activity, Abscisate 8'-hydroxylase activity	related
 should_be_lc	Hydroxyphenylpyruvate	HP:0003637	Reduced 4-Hydroxyphenylpyruvate dioxygenase activity	label
 should_be_lc	Hypertrophy	HP:0100774	Bone Hypertrophy	exact
-should_be_lc	Hypoglossal	UBERON:0001650	Hypoglossal nerve [XII]	exact
-should_be_lc	Hypothalamic	UBERON:0002272	Hypothalamic medial zone behavioral control column	related
-should_be_lc	Hypothalamic	UBERON:0002273	Hypothalamic lateral zone	related
 should_be_lc	Including	GO:0000818	Mtw1p Including Nnf1p-Nsl1p-Dsn1p complex	exact
-should_be_lc	Inferior	UBERON:0013551	Inferior temporal area	exact
 should_be_lc	Inflammation	GO:0006954	Inflammation	broad
 should_be_lc	Inhibition	GO:0039548	Inhibition of IRF3-dependent antiviral response	broad
 should_be_lc	Inhibition	GO:0039554	Inhibition of host MDA5 by virus	exact
@@ -463,18 +384,9 @@ should_be_lc	Inhibition	GO:0039564	Inhibition of host STAT2 by virus	exact
 should_be_lc	Inhibition	GO:0039611	Inhibition of host translation factors by virus	broad
 should_be_lc	Inhibitor	GO:1990525	Baculovirus Inhibitor of apoptosis protein Repeat domain binding	exact
 should_be_lc	Inscuteable	GO:1990499	Rapsynoid-Inscuteable complex	exact
-should_be_lc	Intercalated	UBERON:0002884	Intercalated amygdalar nucleus	related
-should_be_lc	Intercalated	UBERON:0002884	Intercalated cell islands	related
-should_be_lc	Intercalated	UBERON:0002884	Intercalated nuclei of the amygdala	related
 should_be_lc	Interleukin	GO:0070976	Toll-Interleukin receptor domain binding	exact
 should_be_lc	Intermediate	GO:0022894	Intermediate conductance calcium-activated potassium channel activity	label
-should_be_lc	Intermediate	UBERON:0002746	Intermediate periventricular nucleus of the hypothalamus	related
-should_be_lc	Intermediate	UBERON:0013539	Intermediate frontal area	exact
-should_be_lc	Interthalamic	UBERON:0006681	Interthalamic connection	exact
 should_be_lc	Intraductal	DOID:7512	localized Intraductal papillomatosis	label
-should_be_lc	Intralaminar	UBERON:0002733	Intralaminar group of the dorsal thalamus	related
-should_be_lc	Intralaminar	UBERON:0002733	Intralaminar nuclei of the dorsal thalamus	related
-should_be_lc	Intralaminar	UBERON:0002733	Intralaminar thalamic nuclear group	related
 should_be_lc	Intraocular	DOID:6938	pediatric Intraocular retinoblastoma	label
 should_be_lc	Isopropanol	GO:1902639	Isopropanol metabolic process	exact
 should_be_lc	Isopropanol	GO:1902640	Isopropanol biosynthetic process	exact
@@ -483,32 +395,16 @@ should_be_lc	Isopropyl	GO:1902640	Isopropyl alcohol biosynthetic process	exact
 should_be_lc	Keto	GO:0090633	cytidine 5'-monophospho-2-Keto-3-deoxy-D-glycero-D-galacto-nononic acid synthetase activity	exact
 should_be_lc	Kinase	GO:0000408	Endopeptidase-like Kinase Chromatin-associated protein complex	exact
 should_be_lc	Kinase	GO:0000408	Kinase, putative Endopeptidase and Other Proteins of Small size protein complex	exact
-should_be_lc	Lateral	UBERON:0013541	Lateral orbital area	exact
-should_be_lc	Layer	UBERON:0014284	Layer 4 of piriform cortex	exact
-should_be_lc	Layer	UBERON:0014284	Layer 4 of piriform cortex	related
-should_be_lc	Left	UBERON:0006566	Left ventricular myocardium	exact
 should_be_lc	Lesion	DOID:7962	tamoxifen-Related endometrial Lesion	label
 should_be_lc	Light	GO:0015454	Light absorption-driven transporters	exact
-should_be_lc	Lingula	UBERON:0004074	Lingula (I)	related
-should_be_lc	Lingula	UBERON:0004074	Lingula (l)	related
 should_be_lc	Lipid	GO:2001289	Lipid X metabolic process	exact
 should_be_lc	Lipid	GO:2001289	Lipid X metabolism	exact
 should_be_lc	Liposarcoma	DOID:5705	spindle cell Liposarcoma	label
-should_be_lc	Lobule	UBERON:0006121	Biventral Lobule	exact
-should_be_lc	Lobulus	UBERON:0006121	Lobulus Biventer	exact
 should_be_lc	Lower	GO:1905285	Lower's ring morphogenesis	related
 should_be_lc	Lower	UBERON:0006008	Lower's ring	related
-should_be_lc	Lumbar	UBERON:0006636	Lumbar arterial tree	exact
-should_be_lc	Malleus	UBERON:0001689	Malleus	related
-should_be_lc	Mandibulae	UBERON:0004661	Crista temporalis (Mandibulae)	exact
-should_be_lc	Mandibular	UBERON:0004658	Mandibular head	exact
-should_be_lc	Mandibular	UBERON:0004659	Mandibular neck	exact
 should_be_lc	Membrane	HP:0012039	Descemet Membrane Folds	label
-should_be_lc	Mesencephalic	UBERON:0001718	Mesencephalic nucleus of the trigeminal	related
-should_be_lc	Mesencephalic	UBERON:0007415	Mesencephalic reticular nucleus	related
 should_be_lc	Methylcrotonyl	DOID:0050710	3-Methylcrotonyl-CoA carboxylase deficiency	label
 should_be_lc	Middle	UBERON:0005464	Middle sacral artery	exact
-should_be_lc	Middle	UBERON:0006681	Middle commissure	exact
 should_be_lc	Midline	HP:0011826	Philtrum, Midline Raphe	exact
 should_be_lc	Midline	HP:0011828	Philtrum, Midline Sinus	exact
 should_be_lc	Mineralization	HP:0004330	Increased Mineralization of skull	related
@@ -521,11 +417,6 @@ should_be_lc	Modulation	GO:0075106	Modulation by symbiont of host adenylyl cycla
 should_be_lc	Modulation	GO:0075106	Modulation by symbiont of host adenylylcyclase activity	exact
 should_be_lc	Modulation	GO:0075106	Modulation by symbiont of host cAMP generating peptide activity	related
 should_be_lc	Motif	GO:0032093	Sterile Alpha Motif domain binding	exact
-should_be_lc	Motor	UBERON:0002633	Motor nucleus of trigeminal	related
-should_be_lc	Mountain	DOID:0050052	Rocky Mountain spotted fever	label
-should_be_lc	Mucous	UBERON:0000355	Mucous membrane of pharynx	exact
-should_be_lc	Mucous	UBERON:0000379	Mucous membrane of trachea	exact
-should_be_lc	Mucous	UBERON:0000410	Mucous membrane of bronchus	exact
 should_be_lc	Multimers	HP:0040225	Decrease in High molecular weight von Willebrand Factor Multimers	label
 should_be_lc	Myopia	HP:0011003	Severe Myopia	label
 should_be_lc	Narrow	HP:0000446	Nasal Bridge, Narrow	exact
@@ -540,11 +431,10 @@ should_be_lc	Negative	GO:0075108	Negative regulation by symbiont of host adenyl 
 should_be_lc	Negative	GO:0075108	Negative regulation by symbiont of host adenylyl cyclase activity	exact
 should_be_lc	Negative	GO:0075108	Negative regulation by symbiont of host adenylylcyclase activity	exact
 should_be_lc	Negative	GO:0075108	Negative regulation by symbiont of host cAMP generating peptide activity	related
-should_be_lc	Nerve	UBERON:0001018	Nerve tract	narrow
 should_be_lc	Nervus	UBERON:0002796	radix motoria (Nervus trigeminus [V])	exact
-should_be_lc	Nervus	UBERON:0014915	Nervus facialis (Genu)	related
 should_be_lc	Neurohypophysis	UBERON:0003217	lobus nervosus (Neurohypophysis)	exact
 should_be_lc	Neuroma	HP:0009588	Acoustic Neuroma	exact
+should_be_lc	New	ENVO:00003059	New Zealand Cheddar	label
 should_be_lc	New	GO:0050446	New coccine (NC)-reductase activity	narrow
 should_be_lc	Ninth	UBERON:0004633	Ninth dorsal vertebra	exact
 should_be_lc	Nodule	HP:0030023	Quelprud Nodule	label
@@ -554,49 +444,24 @@ should_be_lc	Normal	GO:0071650	negative regulation of Regulated upon Activation,
 should_be_lc	Normal	GO:0071651	positive regulation of Regulated upon Activation, Normal T-cell Expressed, and Secreted production	exact
 should_be_lc	Normal	GO:0071791	Regulated upon Activation, Normal T-cell Expressed, and Secreted binding	exact
 should_be_lc	Nucleoskeleton	GO:0034993	LInker of Nucleoskeleton and Cytoskeleton complex	exact
-should_be_lc	Nucleus	UBERON:0002830	anterior Ventral Cochlear Nucleus	related
 should_be_lc	Nystagmus	HP:0001583	Rotatory Nystagmus	exact
-should_be_lc	Obliquus	UBERON:0005454	Obliquus internus abdominis	related
 should_be_lc	Ocular	HP:0001107	Albinism, Ocular	exact
-should_be_lc	Olfactory	UBERON:0001579	Olfactory nerve [I]	exact
+should_be_lc	Or	ENVO:00003061	Vacherin Mont d'Or	label
 should_be_lc	Os	UBERON:3000572	Os sphenethmoidale	related
 should_be_lc	Osmolarity	GO:0000161	High Osmolarity Glycerol (HOG) MAPK pathway	narrow
 should_be_lc	Osteochondrosis	HP:0010891	Juvenile Osteochondrosis of the spine	exact
 should_be_lc	Other	GO:0000408	Kinase, putative Endopeptidase and Other Proteins of Small size protein complex	exact
-should_be_lc	Ovarium	UBERON:0007180	folliculus atreticus (Ovarium)	exact
 should_be_lc	Oxidoreduction	GO:0015453	Oxidoreduction-driven transporters	exact
-should_be_lc	Pallidum	UBERON:0002476	Pallidum dorsal region external segment	related
-should_be_lc	Pallidum	UBERON:0002477	Pallidum dorsal region internal segment	related
-should_be_lc	Pallidum	UBERON:0002778	Pallidum ventral region	related
-should_be_lc	Paraflocculus	UBERON:0006121	Paraflocculus Dorsalis	exact
-should_be_lc	Pars	UBERON:0001965	nucleus substantiae nigrae, Pars compacta	related
-should_be_lc	Pars	UBERON:0001966	nucleus substantiae nigrae, Pars compacta	related
-should_be_lc	Pars	UBERON:0001966	nucleus substantiae nigrae, Pars reticularis	exact
-should_be_lc	Pars	UBERON:0002936	nucleus ruber, Pars magnocellularis	related
-should_be_lc	Pars	UBERON:0002938	nucleus ruber, Pars parvocellularis	related
-should_be_lc	Pars	UBERON:0011770	Pars mentalis	related
 should_be_lc	Pat	GO:0043894	Pat	related
 should_be_lc	Pat	GO:0043894	Pat enzyme	exact
 should_be_lc	Pathway	GO:0033499	Leloir Pathway	related
 should_be_lc	Pathway	GO:0061688	glycolytic process via Entner-Doudoroff Pathway	label
 should_be_lc	Pediculus	DOID:5501	Pediculus humanus capitis infestation	label
 should_be_lc	Pediculus	DOID:5513	Pediculus humanus corporis infestation	label
-should_be_lc	Periventricular	UBERON:0002271	Periventricular zone of the hypothalamus	related
-should_be_lc	Periventricular	UBERON:0002622	Periventricular hypothalamic nucleus, preoptic part	related
-should_be_lc	Petit	UBERON:0003707	Petit sinus	exact
-should_be_lc	Petit	UBERON:0003707	Petit's sinus	exact
 should_be_lc	Phage	GO:0003906	Phage-T(4) UV endonuclease activity	narrow
 should_be_lc	Phage	GO:0003906	Phage-T4 UV endonuclease activity	narrow
 should_be_lc	Platelet	GO:1990972	Platelet glycoprotein Ia* complex	narrow
 should_be_lc	Plica	DOID:12225	Plica syndrome	label
-should_be_lc	Pollex	UBERON:0003620	Pollex ; Digitus primus [ I ] digit long bone	exact
-should_be_lc	Pollex	UBERON:0003620	Pollex ; Digitus primus [ I ] long bone of digit	exact
-should_be_lc	Pollex	UBERON:0003620	Pollex ; Digitus primus [ I ] phalanx	exact
-should_be_lc	Pollex	UBERON:0003620	digit long bone of Pollex ; Digitus primus [ I ]	exact
-should_be_lc	Pollex	UBERON:0003620	long bone of digit of Pollex ; Digitus primus [ I ]	exact
-should_be_lc	Pollex	UBERON:0003620	phalanx of Pollex ; Digitus primus [ I ]	exact
-should_be_lc	Pollex	UBERON:0003645	metacarpal bone of Pollex ; Digitus primus [ I ]	exact
-should_be_lc	Pollex	UBERON:0003645	metacarpal of Pollex ; Digitus primus [ I ]	exact
 should_be_lc	Polydeoxyribonucleotide	GO:0003911	Polydeoxyribonucleotide synthase (NAD(+)) activity	exact
 should_be_lc	Polymerase	GO:0061427	negative regulation of ceramide biosynthetic process by negative regulation of transcription from RNA Polymerase II promoter	label
 should_be_lc	Polymerase	GO:1990113	RNA Polymerase I assembly	label
@@ -605,10 +470,6 @@ should_be_lc	Polymerase	GO:1990114	RNA Polymerase II assembly	broad
 should_be_lc	Polymerase	GO:1990114	RNA Polymerase II core complex assembly	label
 should_be_lc	Polymerase	GO:1990115	RNA Polymerase III assembly	label
 should_be_lc	Polymerase	GO:1990115	RNA Polymerase III complex assembly	exact
-should_be_lc	Pontine	UBERON:0002151	Pontine grey matter	related
-should_be_lc	Pontine	UBERON:0002573	Pontine reticular nucleus rostral part	related
-should_be_lc	Pontine	UBERON:0002963	Pontine reticular nucleus caudal part	related
-should_be_lc	Pontine	UBERON:0002999	Pontine reticular nucleus rostral part	related
 should_be_lc	Positive	GO:0075107	Positive regulation by symbiont of host 3',5'-cyclic AMP synthetase activity	exact
 should_be_lc	Positive	GO:0075107	Positive regulation by symbiont of host ATP diphosphate-lyase (cyclizing ; 3',5'-cyclic-AMP-forming) activity	exact
 should_be_lc	Positive	GO:0075107	Positive regulation by symbiont of host ATP diphosphate-lyase (cyclizing) activity	exact
@@ -617,37 +478,24 @@ should_be_lc	Positive	GO:0075107	Positive regulation by symbiont of host adenyl 
 should_be_lc	Positive	GO:0075107	Positive regulation by symbiont of host adenylyl cyclase activity	exact
 should_be_lc	Positive	GO:0075107	Positive regulation by symbiont of host adenylylcyclase activity	exact
 should_be_lc	Positive	GO:0075107	Positive regulation by symbiont of host cAMP generating peptide activity	related
-should_be_lc	Positive	HP:0030007	EMG: Positive sharp waves	label
 should_be_lc	Posterior	UBERON:0005456	Posterior lacerate foramen	exact
-should_be_lc	Posterior	UBERON:0013554	Posterior cingulate area	exact
 should_be_lc	Posterolateral	UBERON:3010836	Posterolateral Supplementary Element	label
 should_be_lc	Potassium	GO:1990746	Potassium/sodium hyperpolarization-activated cyclic nucleotide-gated channel 4 tetramer	related
 should_be_lc	Potassium	GO:1990759	Potassium/sodium hyperpolarization-activated cyclic nucleotide-gated channel 2 tetramer	related
-should_be_lc	Preoccipital	UBERON:0013550	Preoccipital area	exact
-should_be_lc	Press	UBERON:0026776	Press, Brewer, Dougherty, Wade and Wandell (2001) Visuotopic area V7	label
-should_be_lc	Presubicular	UBERON:0013558	Presubicular area	exact
-should_be_lc	Processus	UBERON:0018367	hypapophysis, Crista ventralis corporis, Crista ventralis, Processus latus	exact
-should_be_lc	Processus	UBERON:0018368	Crsita ventrolateralis, Processus inferolateralis	exact
 should_be_lc	Prostaglandin	GO:0050220	Prostaglandin-H(2) E-isomerase activity	exact
 should_be_lc	Prostaglandin	GO:2000361	regulation of Prostaglandin-H(2) E-isomerase activity	exact
 should_be_lc	Prostaglandin	GO:2000362	negative regulation of Prostaglandin-H(2) E-isomerase activity	exact
 should_be_lc	Prostaglandin	GO:2000363	positive regulation of Prostaglandin-H(2) E-isomerase activity	exact
-should_be_lc	Prostata	UBERON:0035766	pars proximalis (Prostata)	exact
 should_be_lc	Proteins	GO:0000408	Kinase, putative Endopeptidase and Other Proteins of Small size protein complex	exact
 should_be_lc	Proteinuria	HP:0030156	Bence Jones Proteinuria	label
 should_be_lc	Proteus	DOID:13482	Proteus syndrome	label
-should_be_lc	Proximal	UBERON:0004214	Proximal segment of free lower limb nerve	exact
 should_be_lc	Proximal	UBERON:0004214	nerve of Proximal segment of free lower limb	exact
-should_be_lc	Proximal	UBERON:0004217	Proximal segment of free upper limb nerve	exact
 should_be_lc	Proximal	UBERON:0004217	nerve of Proximal segment of free upper limb	exact
-should_be_lc	Proximal	UBERON:0004262	Proximal segment of free lower limb skin	exact
 should_be_lc	Proximal	UBERON:0004262	skin of Proximal segment of free lower limb	exact
-should_be_lc	Proximal	UBERON:0004263	Proximal segment of free upper limb skin	exact
 should_be_lc	Proximal	UBERON:0004263	skin of Proximal segment of free upper limb	exact
 should_be_lc	Pyrrolysine	GO:0043767	Pyrrolysine-tRNA ligase activity	exact
-should_be_lc	Radialis	UBERON:0001404	A. Radialis	related
 should_be_lc	Raphe	HP:0011826	Philtrum, Midline Raphe	exact
-should_be_lc	Raphe	UBERON:0004684	Raphe of mesenchephalon	related
+should_be_lc	Raphe	MP:0004861	abnormal Raphe nucleus morphology	label
 should_be_lc	Recognition	HP:0030391	Spoken Word Recognition Deficit	label
 should_be_lc	Regulated	GO:0071609	Regulated upon Activation, Normal T-cell Expressed, and Secreted production	exact
 should_be_lc	Regulated	GO:0071649	regulation of Regulated upon Activation, Normal T-cell Expressed, and Secreted production	exact
@@ -657,18 +505,12 @@ should_be_lc	Regulated	GO:0071791	Regulated upon Activation, Normal T-cell Expre
 should_be_lc	Regulation	GO:0043405	Regulation of MAPK activity	exact
 should_be_lc	Related	DOID:7962	tamoxifen-Related endometrial Lesion	label
 should_be_lc	Repeat	GO:1990525	Baculovirus Inhibitor of apoptosis protein Repeat domain binding	exact
-should_be_lc	Repetitive	HP:0030000	EMG: Repetitive nerve stimulation abnormality	label
 should_be_lc	Required	GO:0000813	Endosomal Sorting Complex Required for Transport	broad
 should_be_lc	Required	GO:0000814	Endosomal Sorting Complex Required for Transport	broad
 should_be_lc	Required	GO:0000815	Endosomal Sorting Complex Required for Transport	broad
-should_be_lc	Rezius	UBERON:0002683	rhinal fissure (Turner, Rezius)	related
 should_be_lc	Ridges	HP:0011827	Philtral Ridges, Malaligned	exact
-should_be_lc	Right	UBERON:0006567	Right ventricular myocardium	exact
 should_be_lc	Rod	GO:1990423	Rod-Zwilch-Zw10 complex	exact
 should_be_lc	Sclerosing	DOID:5704	Sclerosing liposarcoma	label
-should_be_lc	Second	UBERON:0004623	Second sacral segment	exact
-should_be_lc	Second	UBERON:0004623	Second segment of sacrum	exact
-should_be_lc	Second	UBERON:0004627	Second dorsal vertebra	exact
 should_be_lc	Secreted	GO:0071609	Regulated upon Activation, Normal T-cell Expressed, and Secreted production	exact
 should_be_lc	Secreted	GO:0071649	regulation of Regulated upon Activation, Normal T-cell Expressed, and Secreted production	exact
 should_be_lc	Secreted	GO:0071650	negative regulation of Regulated upon Activation, Normal T-cell Expressed, and Secreted production	exact
@@ -676,42 +518,25 @@ should_be_lc	Secreted	GO:0071651	positive regulation of Regulated upon Activatio
 should_be_lc	Secreted	GO:0071791	Regulated upon Activation, Normal T-cell Expressed, and Secreted binding	exact
 should_be_lc	Senile	DOID:9776	Senile atrophy of choroid	label
 should_be_lc	Senior	DOID:0050576	Senior-Loken syndrome	label
-should_be_lc	Sensory	UBERON:0009907	Sensory root of the trigeminal nerve	related
-should_be_lc	Septal	UBERON:0000446	Septal region	related
-should_be_lc	Septum	UBERON:0004154	Septum primum	exact
-should_be_lc	Septum	UBERON:0004155	Septum secundum	exact
-should_be_lc	Seventh	UBERON:0004632	Seventh dorsal vertebra	exact
 should_be_lc	Sex	GO:0035098	Extra Sex Combs/Enhancer of Zeste complex	exact
 should_be_lc	Shaped	HP:0010806	U-Shaped upper lip vermilion	label
 should_be_lc	Shaped	HP:0011824	Chin, H-Shaped Crease	exact
 should_be_lc	Sheet	HP:0030763	Amniotic Sheet	label
-should_be_lc	Simple	UBERON:0005350	Simple lobule of the cerebellum	related
 should_be_lc	Sinus	HP:0011828	Philtrum, Midline Sinus	exact
-should_be_lc	Sixth	UBERON:0004631	Sixth dorsal vertebra	exact
 should_be_lc	Slit	GO:0071666	Slit-Robo signaling complex	label
 should_be_lc	Slit	GO:0071666	Slit-Robo signalling complex	exact
+should_be_lc	Small	ENVO:00000890	Small river biome	label
+should_be_lc	Small	ENVO:00000892	Small lake biome	label
 should_be_lc	Small	GO:0000408	Kinase, putative Endopeptidase and Other Proteins of Small size protein complex	exact
 should_be_lc	Sore	HP:0012399	Pressure Sore	exact
 should_be_lc	Sorting	GO:0000813	Endosomal Sorting Complex Required for Transport	broad
 should_be_lc	Sorting	GO:0000814	Endosomal Sorting Complex Required for Transport	broad
 should_be_lc	Sorting	GO:0000815	Endosomal Sorting Complex Required for Transport	broad
-should_be_lc	Spinal	UBERON:0001717	Spinal nucleus of the trigeminal	related
-should_be_lc	Spinal	UBERON:0002591	Spinal nucleus of the trigeminal oral part	related
-should_be_lc	Spinal	UBERON:0002866	Spinal nucleus of the trigeminal caudal part	related
-should_be_lc	Spinal	UBERON:0002873	Spinal nucleus of the trigeminal interpolar part	related
-should_be_lc	Spinal	UBERON:0006686	Spinal vein	exact
 should_be_lc	Sponastrime	DOID:5684	spondyloepimetaphyseal dysplasia, Sponastrime type	label
-should_be_lc	Staderini	UBERON:0002876	nucleus intercalatus (Staderini)	related
-should_be_lc	Staderini	UBERON:0014734	nucleus intercalatus (Staderini)	related
 should_be_lc	Stiff	DOID:13366	Stiff-Person syndrome	label
 should_be_lc	Stroma	GO:0010319	Stroma-filled tubule	related
 should_be_lc	Subluxation	HP:0030043	Hip Subluxation	label
-should_be_lc	Substantia	UBERON:0001966	Substantia nigra reticular part	related
-should_be_lc	Substantia	UBERON:0002995	Substantia nigra, lateral part	exact
-should_be_lc	Sulcus	UBERON:0028396	calcarine Sulcus (ventral)	label
-should_be_lc	Superficial	UBERON:0006564	Superficial palmar arch	exact
 should_be_lc	Superior	UBERON:0004690	Superior posterior pancreaticoduodenal vein	exact
-should_be_lc	Superior	UBERON:0006665	Superior hemi-azygos vein	exact
 should_be_lc	Superior	UBERON:0013553	Superior temporal area	exact
 should_be_lc	Supplementary	UBERON:3010836	Posterolateral Supplementary Element	label
 should_be_lc	Supplementary	UBERON:3010837	Apical Supplementary Element	label
@@ -720,25 +545,18 @@ should_be_lc	Supramarginal	UBERON:0013573	Supramarginal area 40	exact
 should_be_lc	Supramolecular	GO:0098644	Supramolecular aggregate of collagen	exact
 should_be_lc	Supramolecular	GO:0098644	Supramolecular collagen assembly	exact
 should_be_lc	Supraventricular	HP:0005115	arrhythmias, Supraventricular	exact
-should_be_lc	Sutura	UBERON:0010156	Sutura sphenofrontalis	related
-should_be_lc	Sutura	UBERON:0010157	Sutura sphenoparietalis	related
 should_be_lc	Syndrome	DOID:0050470	Donohue Syndrome	label
 should_be_lc	Syndrome	DOID:0050782	Zollinger-Ellison Syndrome	label
 should_be_lc	Syndrome	DOID:0060171	Dravet Syndrome	label
 should_be_lc	Syndrome	DOID:11599	Frey Syndrome	label
 should_be_lc	Syndrome	DOID:14796	Dubowitz Syndrome	label
-should_be_lc	Telencephalic	UBERON:0002285	Telencephalic ventricles	related
-should_be_lc	Tenth	UBERON:0004634	Tenth dorsal vertebra	exact
+should_be_lc	Tented	HP:0011825	Philtrum, Tented	exact
 should_be_lc	The	UBERON:4200206	The internal part of the rim denoting the coracoid foramen. 	exact
-should_be_lc	Third	UBERON:0004624	Third sacral segment	exact
-should_be_lc	Third	UBERON:0004624	Third segment of sacrum	exact
-should_be_lc	Third	UBERON:0004628	Third dorsal vertebra	exact
 should_be_lc	Thyroid	GO:1904400	response to Thyroid stimulating hormone	label
 should_be_lc	Thyroid	GO:1904401	cellular response to Thyroid stimulating hormone	label
 should_be_lc	Toe	UBERON:3010166	fringe on postaxial edge of Toe V	label
 should_be_lc	Topo	GO:0031422	RecQ helicase-Topo III complex	label
 should_be_lc	Topoisomerase	GO:0034740	TFIIIC-Topoisomerase 1-PC4 complex	exact
-should_be_lc	Tracheal	UBERON:0000379	Tracheal mucous membrane	exact
 should_be_lc	Tragus	HP:0030024	Accessory Tragus	related
 should_be_lc	Transphosphoribosidase	GO:0004422	Transphosphoribosidase activity	broad
 should_be_lc	Transphosphoribosidase	GO:0052657	Transphosphoribosidase activity	broad
@@ -748,8 +566,6 @@ should_be_lc	Transport	GO:0000815	Endosomal Sorting Complex Required for Transpo
 should_be_lc	Tubulointerstitial	HP:0001970	Nephritis, Tubulointerstitial	exact
 should_be_lc	Tumor	GO:0042533	Tumor Necrosis Factor alpha biosynthesis	exact
 should_be_lc	Tumor	GO:0042533	Tumor Necrosis Factor alpha biosynthetic process	exact
-should_be_lc	Tunica	UBERON:0000379	Tunica mucosa (tracheae)	exact
-should_be_lc	Twelfth	UBERON:0004636	Twelfth dorsal vertebra	exact
 should_be_lc	Twin	GO:0033281	Twin-arginine translocation complex	narrow
 should_be_lc	Twin	GO:0043953	protein translocation by the Twin-arginine translocation complex	narrow
 should_be_lc	Two	GO:0005671	Ada Two-A containing complex	exact
@@ -844,41 +660,15 @@ should_be_lc	Type	GO:1990313	Type-III cohesin domain binding	label
 should_be_lc	Type	HP:0005978	Diabetes mellitus Type II	exact
 should_be_lc	Type	HP:0040237	von Willebrand Disease Type II Normandy	exact
 should_be_lc	Type	HP:0100651	Diabetes mellitus Type I	exact
+should_be_lc	Type	MP:0012412	increased Type B reticulum cell tumor incidence	label
+should_be_lc	Type	MP:0012430	decreased Type B reticulum cell tumor incidence	label
 should_be_lc	Ulcer	HP:0012399	Decubitus Ulcer	exact
-should_be_lc	Ulnaris	UBERON:0001406	A. Ulnaris	related
-should_be_lc	Ureter	UBERON:0001252	tunica adventitia (Ureter)	exact
-should_be_lc	Urethra	UBERON:0001337	pars spongiosa (Urethra masculina)	exact
-should_be_lc	Urethra	UBERON:0011379	musculus sphincter urethrae externus (Urethra masculina)	exact
-should_be_lc	Urethra	UBERON:0011380	musculus sphincter urethrae externus (Urethra feminina))	exact
-should_be_lc	Uroepithelium	UBERON:0004787	urethra Uroepithelium	exact
-should_be_lc	Uroepithelium	UBERON:0004788	kidney pelvis Uroepithelium	exact
-should_be_lc	Uroepithelium	UBERON:0004788	pelvis of ureter Uroepithelium	exact
-should_be_lc	Uroepithelium	UBERON:0004788	renal pelvis Uroepithelium	exact
 should_be_lc	Vagus	DOID:12491	Vagus nerve disease	label
-should_be_lc	Vagus	UBERON:0001759	Vagus nerve [X]	exact
-should_be_lc	Vena	UBERON:0006665	Vena azygos accessoria	exact
 should_be_lc	Venous	HP:0012481	Developmental Venous Anomaly	exact
-should_be_lc	Ventral	UBERON:0002830	anterior Ventral Cochlear Nucleus	related
-should_be_lc	Ventricular	UBERON:0000945	Ventricular	related
-should_be_lc	Vertical	UBERON:0006124	Vertical limb of the diagonal band of Broca	exact
-should_be_lc	Vesica	UBERON:0004943	tela submucosa (Vesica urinaria)	exact
-should_be_lc	Vesicula	UBERON:0004665	tunica muscularis (Vesicula seminalis)	exact
-should_be_lc	Vestibulocochlear	UBERON:0001648	Vestibulocochlear nerve [VIII]	exact
 should_be_lc	Virus	GO:0000943	Virus-like particle	exact
 should_be_lc	Virus	GO:0004930	Epstein-Barr Virus-induced receptor activity	narrow
-should_be_lc	Visuotopic	UBERON:0026776	Press, Brewer, Dougherty, Wade and Wandell (2001) Visuotopic area V7	label
-should_be_lc	Visuotopic	UBERON:0028398	hadjikhani et al. (1998) Visuotopic area V1d	label
-should_be_lc	Visuotopic	UBERON:0028399	hadjikhani et al. (1998) Visuotopic area V1v	label
-should_be_lc	Visuotopic	UBERON:0028401	hadjikhani et al. (1998) Visuotopic area V2v	label
-should_be_lc	Visuotopic	UBERON:0028402	hadjikhani et al. (1998) Visuotopic area V3	label
-should_be_lc	Visuotopic	UBERON:0028403	hadjikhani et al. (1998) Visuotopic area V3A	label
-should_be_lc	Visuotopic	UBERON:0028404	hadjikhani et al. (1998) Visuotopic area VP	label
-should_be_lc	Visuotopic	UBERON:0028405	hadjikhani et al. (1998) Visuotopic area V4v	label
-should_be_lc	Visuotopic	UBERON:0028406	hadjikhani et al. (1998) Visuotopic area V8	label
 should_be_lc	Vitamin	GO:1900749	Vitamin BT transport	related
 should_be_lc	Vitamin	HP:0200118	Malabsorption of Vitamin B12	label
-should_be_lc	Wenzel	UBERON:0003029	stria terminalis (Wenzel-Wenzel)	related
-should_be_lc	Wenzel	UBERON:0006086	stria medullaris (Wenzel-Wenzel)	related
 should_be_uc	achilles	DOID:12857	achilles bursitis	label
 should_be_uc	achilles	HP:0001771	Shortening of the achilles tendon	exact
 should_be_uc	achilles	HP:0001771	Tight achilles tendon	exact
@@ -889,29 +679,18 @@ should_be_uc	ammon	UBERON:0003881	region i of ammon's horn	exact
 should_be_uc	ammon	UBERON:0003882	region II of ammon's horn	exact
 should_be_uc	ammon	UBERON:0003883	region III of ammon's horn	exact
 should_be_uc	ammon	UBERON:0003884	region IV of ammon's horn	exact
-should_be_uc	ammonis	GO:0021541	cornu ammonis development	related
-should_be_uc	ammonis	UBERON:0001954	cornu ammonis	related
-should_be_uc	ammonis	UBERON:0002191	subiculum cornu ammonis	related
-should_be_uc	ammonis	UBERON:0002305	layer of cornu ammonis	related
-should_be_uc	ammonis	UBERON:0003881	CA1 field of cornu ammonis	exact
-should_be_uc	ammonis	UBERON:0003881	cornu ammonis 1	exact
-should_be_uc	ammonis	UBERON:0003881	regio i cornus ammonis	exact
-should_be_uc	ammonis	UBERON:0003882	CA2 field of cornu ammonis	exact
-should_be_uc	ammonis	UBERON:0003882	regio ii cornus ammonis	exact
-should_be_uc	ammonis	UBERON:0003883	CA3 field of cornu ammonis	exact
-should_be_uc	ammonis	UBERON:0003883	regio III cornus ammonis	exact
-should_be_uc	ammonis	UBERON:0003883	regio III cornus ammonis	related
-should_be_uc	ammonis	UBERON:0003884	CA4 field of cornu ammonis	exact
-should_be_uc	ammonis	UBERON:0003884	regio IV cornus ammonis	exact
 should_be_uc	asthmaticus	DOID:9362	status asthmaticus	label
-should_be_uc	bartholin	UBERON:0000460	greater vestibular glands of bartholin	related
-should_be_uc	bertin	UBERON:0001284	bertin's column	related
+should_be_uc	azyr	UBERON:0006696	vicq d'azyr's bundle	exact
+should_be_uc	bloom	ENVO:01000057	marine algal bloom	label
+should_be_uc	bloom	ENVO:02500018	algal bloom process	label
+should_be_uc	bloom	ENVO:02500021	algal bloom collapse	label
+should_be_uc	bloom	ENVO:02500022	algal bloom process phase	label
+should_be_uc	bloom	ENVO:02500024	accumulation of toxins from algal bloom process	label
+should_be_uc	bloom	ENVO:02500025	degradation of toxins from algal bloom process	label
+should_be_uc	bloom	ENVO:2000004	algal bloom	label
+should_be_uc	bloom	ENVO:2000005	freshwater algal bloom	label
 should_be_uc	botzinger	UBERON:0006007	pre-botzinger respiratory control center	related
-should_be_uc	bowman	UBERON:0001230	bowman's capsule	related
-should_be_uc	bowman	UBERON:0001286	bowman's space	exact
 should_be_uc	brewer	UBERON:0026776	press, brewer, dougherty, wade and wandell (2001) visuotopic area v7	exact
-should_be_uc	broca	UBERON:0001879	nucleus of the diagonal band of broca	exact
-should_be_uc	broca	UBERON:0002600	grande lobe limbique of broca	exact
 should_be_uc	broca	UBERON:0002741	broca's diagonal band	exact
 should_be_uc	broca	UBERON:0002741	broca's diagonal gyrus	exact
 should_be_uc	brodmann	UBERON:0002605	brodmann's area 6	related
@@ -949,49 +728,22 @@ should_be_uc	calleja	UBERON:0023867	islands of calleja of olfactory tubercle	exa
 should_be_uc	calleja	UBERON:0023867	islets of calleja	related
 should_be_uc	calleja	UBERON:0023868	isla magna of calleja	exact
 should_be_uc	calleja	UBERON:0023868	large island of calleja	related
-should_be_uc	cam	GO:0018683	cytochrome p450-cam activity	exact
 should_be_uc	camper	UBERON:0007809	camper's fascia	exact
 should_be_uc	carpenter	UBERON:0002600	limbic lobe (carpenter)	exact
 should_be_uc	carpenter	UBERON:0002632	medial mammillary nucleus (carpenter)	exact
 should_be_uc	carpenter	UBERON:0002895	secondary olfactory cortical area (carpenter)	exact
 should_be_uc	casserio	UBERON:0003724	casserio's nerve	exact
-should_be_uc	cob	GO:0008817	ATP:cob(I)alamin Co-beta-adenosyltransferase activity	exact
-should_be_uc	cob	GO:0008817	ATP:cob(I)alamin cobeta-adenosyltransferase activity	exact
-should_be_uc	cob	GO:0008817	ATP:cob(I)yrinic acid-a,c-diamide cobeta-adenosyltransferase activity	exact
-should_be_uc	cob	GO:0008817	cob(I)alamin adenosyltransferase activity	exact
-should_be_uc	cob	GO:0008817	cob(I)yrinic acid a,c-diamide adenosyltransferase activity	label
-should_be_uc	cob	GO:0030586	[methionine synthase]-cobalamin methyltransferase (cob(II)alamin reducing) activity	exact
-should_be_uc	cob	GO:0030586	methionine synthase cob(II)alamin reductase (methylating) activity	exact
-should_be_uc	cob	GO:0030586	methionine synthase-cobalamin methyltransferase (cob(II)alamin reducing)	exact
-should_be_uc	cob	GO:0033787	cob(I)alamin, cyanide:NADP+ oxidoreductase activity	exact
-should_be_uc	cob	GO:0043784	cob(II)yrinic acid a,c-diamide reductase activity	label
-should_be_uc	cob	GO:0043784	cob(II)yrinic acid-a,c-diamide:FMN oxidoreductase activity	exact
-should_be_uc	cob	GO:0047138	NADH2:cob(III)alamin oxidoreductase activity	exact
-should_be_uc	cob	GO:0047138	NADH:cob(III)alamin oxidoreductase activity	exact
-should_be_uc	cob	GO:0047138	cob(II)alamin:NAD+ oxidoreductase activity	exact
-should_be_uc	cob	GO:0050444	cob(II)alamin:NADP+ oxidoreductase activity	exact
-should_be_uc	cob	GO:0050453	NADH2:cob(II)alamin oxidoreductase activity	exact
-should_be_uc	cob	GO:0050453	NADH:cob(II)alamin oxidoreductase activity	exact
-should_be_uc	cob	GO:0050453	cob(I)alamin:NAD+ oxidoreductase activity	exact
-should_be_uc	cob	GO:0050453	cob(II)alamin reductase activity	label
+should_be_uc	chair	ENVO:01000586	chair	label
 should_be_uc	coffin	UBERON:0004312	forelimb coffin bone	narrow
 should_be_uc	coffin	UBERON:0004317	hindlimb coffin bone	narrow
 should_be_uc	coffin	UBERON:0014485	coffin bone	narrow
 should_be_uc	coffin	UBERON:0014506	coffin joint	narrow
 should_be_uc	coffin	UBERON:0014507	hindlimb coffin joint	narrow
 should_be_uc	coffin	UBERON:0014508	forelimb coffin joint	narrow
-should_be_uc	colles	UBERON:0013705	colles fascia	related
 should_be_uc	collins	HP:0005321	Treacher collins syndrome	exact
-should_be_uc	comb	GO:0045498	sex comb development	label
-should_be_uc	comb	UBERON:0007623	comb and wattle	label
-should_be_uc	comb	UBERON:0007623	wattles and comb	related
-should_be_uc	comb	UBERON:0012115	dental comb	label
-should_be_uc	comb	UBERON:0012115	tooth comb	exact
-should_be_uc	comb	UBERON:0012176	comb	label
-should_be_uc	comb	UBERON:0014169	comb bundle	exact
-should_be_uc	comb	UBERON:0014169	comb bundle	related
 should_be_uc	cooper	UBERON:0012103	suspensory ligament of cooper	exact
 should_be_uc	cowper	DOID:7632	cowper gland carcinoma	label
+should_be_uc	cutoff	ENVO:00000523	cutoff	label
 should_be_uc	dewulf	UBERON:0002687	nucleus ventralis oralis, pars posterior (dewulf)	exact
 should_be_uc	dewulf	UBERON:0002937	nucleus ventralis anterior (dewulf)	exact
 should_be_uc	dewulf	UBERON:0003019	nucleus ventralis intermedius (dewulf)	exact
@@ -1004,10 +756,8 @@ should_be_uc	douglas	UBERON:0007111	douglas' cul de sac	related
 should_be_uc	douglas	UBERON:0007111	douglas' cul-de-sac	related
 should_be_uc	douglas	UBERON:0007111	douglas' pouch	related
 should_be_uc	douglas	UBERON:0007111	pouch of douglas	exact
+should_be_uc	eastern	ENVO:01000104	eastern boundary current	label
 should_be_uc	economo	UBERON:0001937	economo's areas	related
-should_be_uc	edinger	UBERON:0002141	edinger-Westphal nucleus of oculomotor nerve	related
-should_be_uc	edinger	UBERON:0002141	edinger-westphal nucleus	exact
-should_be_uc	edinger	UBERON:0002754	predorsal bundle of edinger	exact
 should_be_uc	ehrlich	DOID:5050	ehrlich tumor carcinoma	label
 should_be_uc	enterobacter	GO:0008847	enterobacter ribonuclease activity	exact
 should_be_uc	fallot	HP:0001636	Tetrology of fallot	exact
@@ -1061,9 +811,12 @@ should_be_uc	gasserian	DOID:7635	gasserian ganglion meningioma	label
 should_be_uc	gasserian	UBERON:0005364	gasserian ganglion	related
 should_be_uc	gasserian	UBERON:3011045	gasserian ganglia	related
 should_be_uc	gasserian	UBERON:3011045	gasserian ganglion	label
+should_be_uc	gem	UBERON:0005086	hair gem	related
 should_be_uc	gerota	UBERON:0016851	gerota's capsule	exact
 should_be_uc	gerota	UBERON:0016851	gerota's fascia	exact
 should_be_uc	glisson	UBERON:0016479	glisson's capsule	exact
+should_be_uc	golgi	MP:0000999	abnormal golgi tendon organ morphology	label
+should_be_uc	golgi	MP:0001000	absent golgi tendon organ	label
 should_be_uc	golgi	UBERON:0003719	corpuscle of golgi-mazzoni	exact
 should_be_uc	golgi	UBERON:0003719	golgi mazzoni corpuscle	related
 should_be_uc	golgi	UBERON:0003719	golgi-mazzoni	related
@@ -1074,152 +827,8 @@ should_be_uc	golgi	UBERON:0004012	neurotendinous organ of golgi	exact
 should_be_uc	goll	UBERON:0002653	fasciculus of goll	exact
 should_be_uc	gower	UBERON:0002987	gower's tract	exact
 should_be_uc	gowers	UBERON:0002987	gowers' tract	exact
-should_be_uc	graafian	UBERON:0000157	internal coat of capsule of graafian follicle	related
-should_be_uc	gray	DOID:5822	gray zone lymphoma	label
-should_be_uc	gray	DOID:6867	mediastinal gray zone lymphoma	label
-should_be_uc	gray	HP:0002218	Silver-gray hair	label
-should_be_uc	gray	HP:0002218	Silver-gray hair color	exact
-should_be_uc	gray	HP:0002218	Silvery-gray hair	exact
-should_be_uc	gray	HP:0007165	Periventricular gray matter heterotopia	label
-should_be_uc	gray	HP:0007165	Subependymal gray matter heterotopia	exact
-should_be_uc	gray	UBERON:0001870	gray matter of frontal lobe	exact
-should_be_uc	gray	UBERON:0001920	paraventricular gray	exact
-should_be_uc	gray	UBERON:0002020	gray mater	related
-should_be_uc	gray	UBERON:0002020	gray matter	exact
-should_be_uc	gray	UBERON:0002020	gray matter	label
-should_be_uc	gray	UBERON:0002020	gray matter of neuraxis	exact
-should_be_uc	gray	UBERON:0002147	tegmental reticular nucleus, pontine gray	exact
-should_be_uc	gray	UBERON:0002151	pontine gray	exact
-should_be_uc	gray	UBERON:0002151	pontine gray matter	related
-should_be_uc	gray	UBERON:0002181	lamina II of gray matter of spinal cord	exact
-should_be_uc	gray	UBERON:0002256	dorsal gray column of spinal cord	exact
-should_be_uc	gray	UBERON:0002256	dorsal gray horn	exact
-should_be_uc	gray	UBERON:0002256	dorsal gray matter of spinal cord	exact
-should_be_uc	gray	UBERON:0002256	posterior gray column of spinal cord	exact
-should_be_uc	gray	UBERON:0002256	posterior gray horn of spinal cord	exact
-should_be_uc	gray	UBERON:0002257	anterior gray column of spinal cord	exact
-should_be_uc	gray	UBERON:0002257	anterior gray horn of spinal cord	exact
-should_be_uc	gray	UBERON:0002257	ventral gray column of spinal cord	exact
-should_be_uc	gray	UBERON:0002257	ventral gray matter of spinal cord	exact
-should_be_uc	gray	UBERON:0002315	gray matter of spinal cord	exact
-should_be_uc	gray	UBERON:0002315	gray matter of spinal cord	label
-should_be_uc	gray	UBERON:0002315	gray substance of spinal cord	exact
-should_be_uc	gray	UBERON:0002315	spinal cord gray matter	exact
-should_be_uc	gray	UBERON:0002634	fundamental gray substance	exact
-should_be_uc	gray	UBERON:0002867	central gray matter	exact
-should_be_uc	gray	UBERON:0002867	central gray of the medulla	related
-should_be_uc	gray	UBERON:0002867	central gray substance of medulla	label
-should_be_uc	gray	UBERON:0002867	central gray substance of the medulla	related
-should_be_uc	gray	UBERON:0002867	medullary central gray substance	exact
-should_be_uc	gray	UBERON:0002968	central gray of pons	exact
-should_be_uc	gray	UBERON:0002968	central gray of the pons	related
-should_be_uc	gray	UBERON:0002968	central gray substance of pons	label
-should_be_uc	gray	UBERON:0002968	pontine central gray	exact
-should_be_uc	gray	UBERON:0003017	substriatal gray	related
-should_be_uc	gray	UBERON:0003040	central (periaqueductal) gray	exact
-should_be_uc	gray	UBERON:0003040	central gray	related
-should_be_uc	gray	UBERON:0003040	central gray of the midbrain	related
-should_be_uc	gray	UBERON:0003040	central gray substance of midbrain	label
-should_be_uc	gray	UBERON:0003040	central gray substance of the midbrain	related
-should_be_uc	gray	UBERON:0003040	periaqueductal gray	exact
-should_be_uc	gray	UBERON:0003040	periaqueductal gray matter	exact
-should_be_uc	gray	UBERON:0003040	periaqueductal gray of tegmentum	exact
-should_be_uc	gray	UBERON:0003040	periaqueductal gray, proper	related
-should_be_uc	gray	UBERON:0003528	brain gray matter	label
-should_be_uc	gray	UBERON:0003528	gray matter of brain	exact
-should_be_uc	gray	UBERON:0004130	gray matter layer of cerebellum	exact
-should_be_uc	gray	UBERON:0004676	intermediate gray column of spinal cord	exact
-should_be_uc	gray	UBERON:0004676	lateral gray column of spinal cord	exact
-should_be_uc	gray	UBERON:0004676	lateral gray horn	exact
-should_be_uc	gray	UBERON:0004676	lateral gray matter of spinal cord	exact
-should_be_uc	gray	UBERON:0004677	gray commissure of spinal cord	exact
-should_be_uc	gray	UBERON:0004677	lamina X of gray matter of spinal cord	exact
-should_be_uc	gray	UBERON:0004677	spinal cord gray commissure	exact
-should_be_uc	gray	UBERON:0004677	spinal cord gray commissure	label
-should_be_uc	gray	UBERON:0004678	apex of dorsal gray column	exact
-should_be_uc	gray	UBERON:0004678	apex of dorsal gray column of spinal cord	exact
-should_be_uc	gray	UBERON:0004678	apex of posterior gray column	related
-should_be_uc	gray	UBERON:0005401	cerebral gray matter	exact
-should_be_uc	gray	UBERON:0005401	cerebral hemisphere gray matter	label
-should_be_uc	gray	UBERON:0006118	lamina I of gray matter of spinal cord	label
-should_be_uc	gray	UBERON:0006118	lamina i of gray matter of spinal cord	exact
-should_be_uc	gray	UBERON:0006120	outer gray layer of superior colliculus	exact
-should_be_uc	gray	UBERON:0006120	superficial gray layer of superior colliculus	exact
-should_be_uc	gray	UBERON:0006120	superficial gray layer of the superior colliculus	related
-should_be_uc	gray	UBERON:0006120	superior colliculus superficial gray layer	exact
-should_be_uc	gray	UBERON:0006120	superior colliculus superficial gray layer	label
-should_be_uc	gray	UBERON:0006785	gray matter layer of superior colliculus	label
-should_be_uc	gray	UBERON:0006785	gray matter of superior colliculus	exact
-should_be_uc	gray	UBERON:0006788	intermediate gray layer	exact
-should_be_uc	gray	UBERON:0006788	middle gray layer of superior colliculus	label
-should_be_uc	gray	UBERON:0006789	deep gray layer of superior colliculus	label
-should_be_uc	gray	UBERON:0006789	deep gray layer of the superior colliculus	related
-should_be_uc	gray	UBERON:0006789	superior colliculus deep gray layer	related
-should_be_uc	gray	UBERON:0006789	superior colliculus intermediate deep gray layer	related
-should_be_uc	gray	UBERON:0006791	superficial gray and white zone	exact
-should_be_uc	gray	UBERON:0007633	trapezoid gray	related
-should_be_uc	gray	UBERON:0011300	gray matter of telencephalon	label
-should_be_uc	gray	UBERON:0011300	predominantly gray regional part of telencephalon	exact
-should_be_uc	gray	UBERON:0014613	cervical spinal cord gray matter	exact
-should_be_uc	gray	UBERON:0014613	cervical spinal cord gray matter	label
-should_be_uc	gray	UBERON:0014630	spinal cord anterior gray commissure	exact
-should_be_uc	gray	UBERON:0014630	ventral gray commissure of spinal cord	label
-should_be_uc	gray	UBERON:0014631	dorsal gray commissure	exact
-should_be_uc	gray	UBERON:0014631	dorsal gray commissure of spinal cord	label
-should_be_uc	gray	UBERON:0014631	spinal cord posterior gray commissure	exact
-should_be_uc	gray	UBERON:0014636	thoracic spinal cord gray matter	exact
-should_be_uc	gray	UBERON:0014636	thoracic spinal cord gray matter	label
-should_be_uc	gray	UBERON:0014760	dorsal visceral gray	related
-should_be_uc	gray	UBERON:0014760	gustatory gray	related
-should_be_uc	gray	UBERON:0014933	periventricular gray matter	label
-should_be_uc	gray	UBERON:0015793	gray stria of Lancisi	related
-should_be_uc	gray	UBERON:0016529	gray matter of lobe of cerebral hemisphere	related
-should_be_uc	gray	UBERON:0016530	gray matter of parietal lobe	related
-should_be_uc	gray	UBERON:0016538	gray matter of temporal lobe	related
-should_be_uc	gray	UBERON:0016540	gray matter of occipital lobe	related
-should_be_uc	gray	UBERON:0016542	gray matter of limbic lobe	related
-should_be_uc	gray	UBERON:0016548	CNS gray matter layer	exact
-should_be_uc	gray	UBERON:0016548	central nervous system gray matter layer	label
-should_be_uc	gray	UBERON:0016548	gray matter layer of neuraxis	exact
-should_be_uc	gray	UBERON:0016570	lamina of gray matter of spinal cord	label
-should_be_uc	gray	UBERON:0016574	lamina III of gray matter of spinal cord	label
-should_be_uc	gray	UBERON:0016575	lamina IV of gray matter of spinal cord	label
-should_be_uc	gray	UBERON:0016576	lamina V of gray matter of spinal cord	label
-should_be_uc	gray	UBERON:0016577	lamina VI of gray matter of spinal cord	label
-should_be_uc	gray	UBERON:0016578	lamina VII of gray matter of spinal cord	label
-should_be_uc	gray	UBERON:0016579	lamina VIII of gray matter of spinal cord	label
-should_be_uc	gray	UBERON:0016580	lamina IX of gray matter of spinal cord	label
-should_be_uc	gray	UBERON:0019263	gray matter of hindbrain	label
-should_be_uc	gray	UBERON:0019263	gray matter of the hindbrain	exact
-should_be_uc	gray	UBERON:0019264	gray matter of forebrain	label
-should_be_uc	gray	UBERON:0019267	gray matter of midbrain	label
-should_be_uc	gray	UBERON:0019269	gray matter of diencephalon	label
-should_be_uc	gray	UBERON:0026293	thoracic spinal cord gray commissure	exact
-should_be_uc	gray	UBERON:0026293	thoracic spinal cord gray commissure	label
-should_be_uc	gray	UBERON:0029503	sacral spinal cord gray matter	exact
-should_be_uc	gray	UBERON:0029503	sacral spinal cord gray matter	label
-should_be_uc	gray	UBERON:0029626	cervical spinal cord gray commissure	exact
-should_be_uc	gray	UBERON:0029626	cervical spinal cord gray commissure	label
-should_be_uc	gray	UBERON:0029636	lumbar spinal cord gray matter	exact
-should_be_uc	gray	UBERON:0029636	lumbar spinal cord gray matter	label
-should_be_uc	gray	UBERON:0031111	sacral spinal cord gray commissure	exact
-should_be_uc	gray	UBERON:0031111	sacral spinal cord gray commissure	label
-should_be_uc	gray	UBERON:0033483	lumbar spinal cord gray commissure	exact
-should_be_uc	gray	UBERON:0033483	lumbar spinal cord gray commissure	label
-should_be_uc	gray	UBERON:0034891	gray matter of insula	related
-should_be_uc	gray	UBERON:0035011	central gray	related
-should_be_uc	gray	UBERON:0035011	central gray substance	label
-should_be_uc	gray	UBERON:0035011	central gray substance	related
-should_be_uc	gray	UBERON:0035585	tectal gray	related
-should_be_uc	gray	UBERON:0035585	tectal gray nucleus (Testudines)	label
-should_be_uc	gudden	UBERON:0002143	dorsal tegmental nucleus of gudden	exact
 should_be_uc	gudden	UBERON:0002143	gudden nucleus	exact
 should_be_uc	gudden	UBERON:0002438	ventral tegmental nucleus (gudden)	exact
-should_be_uc	gudden	UBERON:0002438	ventral tegmental nucleus of gudden	exact
-should_be_uc	gudden	UBERON:0002676	ventral supraoptic decussation of gudden	related
-should_be_uc	gudden	UBERON:0014568	dorsal tegmental nucleus of gudden pars dorsalis	related
-should_be_uc	gudden	UBERON:0014569	dorsal tegmental nucleus of gudden pars ventralis	related
-should_be_uc	gudden	UBERON:0014569	pars ventralis of the dorsal tegmental nucleus of gudden	related
 should_be_uc	gurken	GO:0008313	gurken receptor activity	exact
 should_be_uc	gurken	GO:0008313	gurken-activated receptor activity	label
 should_be_uc	gurken	GO:0008314	gurken receptor signaling pathway	exact
@@ -1228,34 +837,8 @@ should_be_uc	gurken	GO:0008314	gurken signaling pathway	label
 should_be_uc	gurken	GO:0008314	gurken-activated signaling pathway	related
 should_be_uc	gurken	GO:0008317	gurken receptor binding	label
 should_be_uc	gurken	GO:0008317	gurken receptor ligand	narrow
-should_be_uc	hadjikhani	UBERON:0006487	hadjikhani et al. (1998) visuotopic area V2d	label
-should_be_uc	hadjikhani	UBERON:0006487	hadjikhani et al. (1998) visuotopic area v2d	exact
-should_be_uc	hadjikhani	UBERON:0026765	hadjikhani et al. (1998) visuotopic partition scheme region	exact
-should_be_uc	hadjikhani	UBERON:0026765	hadjikhani visuotopic areas	related
-should_be_uc	hadjikhani	UBERON:0026765	hadjikhani visuotopic parcellation scheme	related
-should_be_uc	hadjikhani	UBERON:0026765	hadjikhani visuotopic partition scheme	related
-should_be_uc	hadjikhani	UBERON:0026775	tootell and hadjikhani (2001) loc/lop complex	exact
-should_be_uc	hadjikhani	UBERON:0028398	hadjikhani et al. (1998) Visuotopic area V1d	label
-should_be_uc	hadjikhani	UBERON:0028398	hadjikhani et al. (1998) visuotopic area v1d	exact
-should_be_uc	hadjikhani	UBERON:0028399	hadjikhani et al. (1998) Visuotopic area V1v	label
-should_be_uc	hadjikhani	UBERON:0028399	hadjikhani et al. (1998) visuotopic area v1v	exact
-should_be_uc	hadjikhani	UBERON:0028401	hadjikhani et al. (1998) Visuotopic area V2v	label
-should_be_uc	hadjikhani	UBERON:0028401	hadjikhani et al. (1998) visuotopic area v2v	exact
-should_be_uc	hadjikhani	UBERON:0028402	hadjikhani et al. (1998) Visuotopic area V3	label
-should_be_uc	hadjikhani	UBERON:0028402	hadjikhani et al. (1998) visuotopic area v3	exact
-should_be_uc	hadjikhani	UBERON:0028403	hadjikhani et al. (1998) Visuotopic area V3A	label
-should_be_uc	hadjikhani	UBERON:0028403	hadjikhani et al. (1998) visuotopic area v3a	exact
-should_be_uc	hadjikhani	UBERON:0028404	hadjikhani et al. (1998) Visuotopic area VP	label
-should_be_uc	hadjikhani	UBERON:0028404	hadjikhani et al. (1998) visuotopic area vp	exact
-should_be_uc	hadjikhani	UBERON:0028405	hadjikhani et al. (1998) Visuotopic area V4v	label
-should_be_uc	hadjikhani	UBERON:0028405	hadjikhani et al. (1998) visuotopic area v4v	exact
-should_be_uc	hadjikhani	UBERON:0028406	hadjikhani et al. (1998) Visuotopic area V8	label
-should_be_uc	hadjikhani	UBERON:0028406	hadjikhani et al. (1998) visuotopic area v8	exact
 should_be_uc	harderian	UBERON:0004694	epithelium of harderian gland	exact
 should_be_uc	harderian	UBERON:0004694	harderian gland epithelium	exact
-should_be_uc	hassler	UBERON:0001922	nucleus parafascicularis (hassler)	exact
-should_be_uc	hassler	UBERON:0001942	nucleus habenularis medialis (hassler)	exact
-should_be_uc	hassler	UBERON:0002614	nucleus ventrooralis medialis (hassler)	exact
 should_be_uc	hassler	UBERON:0002617	nucleus dorsointermedius externus magnocellularis (hassler)	exact
 should_be_uc	hassler	UBERON:0002636	nucleus pulvinaris lateralis (hassler)	exact
 should_be_uc	hassler	UBERON:0002647	nucleus medialis fibrosus (hassler)	exact
@@ -1272,38 +855,13 @@ should_be_uc	hassler	UBERON:0002945	nucleus ventrocaudalis anterior internus (ha
 should_be_uc	hassler	UBERON:0002983	nucleus dorsocaudalis (hassler)	exact
 should_be_uc	hassler	UBERON:0002984	nucleus dorsalis superficialis (hassler)	exact
 should_be_uc	hassler	UBERON:0002985	nucleus geniculatus medialis fasciculosus (hassler)	exact
-should_be_uc	hassler	UBERON:0003026	nucleus limitans opticus (hassler)	exact
 should_be_uc	held	UBERON:0002952	commissure of held	exact
 should_be_uc	held	UBERON:0002952	intermediate acoustic stria (held)	exact
 should_be_uc	held	UBERON:0002952	intermediate acoustic stria of held	exact
-should_be_uc	henle	UBERON:0001288	henle's loop	exact
-should_be_uc	henle	UBERON:0003455	henle's loop of inner medulla of kidney	exact
-should_be_uc	henle	UBERON:0003455	henle's loop of inner renal medulla	exact
-should_be_uc	henle	UBERON:0003455	henle's loop of inner zone of medulla of kidney	exact
-should_be_uc	henle	UBERON:0003455	henle's loop of inner zone of renal medulla	exact
-should_be_uc	henle	UBERON:0003455	inner medulla of kidney henle's loop	exact
-should_be_uc	henle	UBERON:0003455	inner renal medulla henle's loop	exact
-should_be_uc	henle	UBERON:0003455	inner renal medulla loop of henle	label
-should_be_uc	henle	UBERON:0003455	inner zone of medulla of kidney henle's loop	exact
-should_be_uc	henle	UBERON:0003455	inner zone of renal medulla henle's loop	exact
-should_be_uc	henle	UBERON:0003455	kidney inner medulla loop of henle	exact
-should_be_uc	henle	UBERON:0005096	descending limb of henle's loop	related
-should_be_uc	henle	UBERON:0005096	descending limb of loop of henle	related
-should_be_uc	henle	UBERON:0005096	loop of henle thin descending limb	exact
-should_be_uc	henle	UBERON:0005096	thin descending limb of loop of henle	related
-should_be_uc	henle	UBERON:0005096	thin descending limb of the loop of henle	related
-should_be_uc	henle	UBERON:0005096	thin descending loop of henle	related
-should_be_uc	henle	UBERON:0006541	outer medulla inner stripe loop of henle	label
-should_be_uc	henle	UBERON:0006542	outer medulla outer stripe loop of henle	label
-should_be_uc	henle	UBERON:0034996	outer renal medulla loop of henle	label
-should_be_uc	henle	UBERON:0034997	renal medulla loop of henle	label
-should_be_uc	hepar	UBERON:0001149	area nuda (hepar)	exact
-should_be_uc	hepar	UBERON:0016479	tunica fibrosa (hepar)	exact
 should_be_uc	heschl	UBERON:0002773	anterior transverse convolution of heschl	exact
 should_be_uc	heschl	UBERON:0002773	anterior transverse temporal convolution of heschl	exact
 should_be_uc	heschl	UBERON:0002774	posterior transverse convolution of heschl	exact
 should_be_uc	heschl	UBERON:0002774	posterior transverse temporal convolution of heschl	exact
-should_be_uc	highmore	UBERON:0001764	highmore antrum	related
 should_be_uc	highmore	UBERON:0005028	antrum of highmore mucosa	exact
 should_be_uc	highmore	UBERON:0005028	antrum of highmore mucosa of organ	exact
 should_be_uc	highmore	UBERON:0005028	antrum of highmore mucous membrane	exact
@@ -1358,31 +916,6 @@ should_be_uc	jones	UBERON:0002687	anteromedial part of ventral lateral posterior
 should_be_uc	jones	UBERON:0002937	ventralis anterior (jones)	exact
 should_be_uc	jones	UBERON:0003019	ventral part of ventral lateral posterior nucleus (jones)	exact
 should_be_uc	key	UBERON:0003992	foramen of key and retzius	exact
-should_be_uc	kiss	GO:0036465	kiss-and-run synaptic vesicle recycling	narrow
-should_be_uc	kiss	GO:0036465	kiss-and-stay synaptic vesicle recycling	narrow
-should_be_uc	kiss	GO:1903421	regulation of kiss-and-run synaptic vesicle recycling	narrow
-should_be_uc	kiss	GO:1903421	regulation of kiss-and-stay synaptic vesicle recycling	narrow
-should_be_uc	kiss	GO:1903422	down regulation of kiss-and-run synaptic vesicle recycling	narrow
-should_be_uc	kiss	GO:1903422	down regulation of kiss-and-stay synaptic vesicle recycling	narrow
-should_be_uc	kiss	GO:1903422	down-regulation of kiss-and-run synaptic vesicle recycling	narrow
-should_be_uc	kiss	GO:1903422	down-regulation of kiss-and-stay synaptic vesicle recycling	narrow
-should_be_uc	kiss	GO:1903422	downregulation of kiss-and-run synaptic vesicle recycling	narrow
-should_be_uc	kiss	GO:1903422	downregulation of kiss-and-stay synaptic vesicle recycling	narrow
-should_be_uc	kiss	GO:1903422	inhibition of kiss-and-run synaptic vesicle recycling	narrow
-should_be_uc	kiss	GO:1903422	inhibition of kiss-and-stay synaptic vesicle recycling	narrow
-should_be_uc	kiss	GO:1903422	negative regulation of kiss-and-run synaptic vesicle recycling	narrow
-should_be_uc	kiss	GO:1903422	negative regulation of kiss-and-stay synaptic vesicle recycling	narrow
-should_be_uc	kiss	GO:1903423	activation of kiss-and-run synaptic vesicle recycling	narrow
-should_be_uc	kiss	GO:1903423	activation of kiss-and-stay synaptic vesicle recycling	narrow
-should_be_uc	kiss	GO:1903423	positive regulation of kiss-and-run synaptic vesicle recycling	narrow
-should_be_uc	kiss	GO:1903423	positive regulation of kiss-and-stay synaptic vesicle recycling	narrow
-should_be_uc	kiss	GO:1903423	up regulation of kiss-and-run synaptic vesicle recycling	narrow
-should_be_uc	kiss	GO:1903423	up regulation of kiss-and-stay synaptic vesicle recycling	narrow
-should_be_uc	kiss	GO:1903423	up-regulation of kiss-and-run synaptic vesicle recycling	narrow
-should_be_uc	kiss	GO:1903423	up-regulation of kiss-and-stay synaptic vesicle recycling	narrow
-should_be_uc	kiss	GO:1903423	upregulation of kiss-and-run synaptic vesicle recycling	narrow
-should_be_uc	kiss	GO:1903423	upregulation of kiss-and-stay synaptic vesicle recycling	narrow
-should_be_uc	kiss	HP:0007616	Angel's kiss	related
 should_be_uc	kolliker	UBERON:0002480	lateral geniculate complex, ventral part (kolliker)	exact
 should_be_uc	kolliker	UBERON:0002869	kolliker-Fuse nucleus	exact
 should_be_uc	kooy	UBERON:0014286	dorsal cap of kooy	exact
@@ -1394,8 +927,6 @@ should_be_uc	krause	UBERON:0035968	krause's end-bulbs	related
 should_be_uc	krieg	UBERON:0002688	inferior parietal lobule (krieg)	exact
 should_be_uc	kvlliker	UBERON:0002869	kvlliker-Fuse subnucleus	related
 should_be_uc	kvlliker	UBERON:0002869	kvlliker-Fuse subnucleus of parabrachial nucleus	related
-should_be_uc	la	DOID:11119	Gilles de la Tourette syndrome	label
-should_be_uc	la	UBERON:0001988	partie de la merde@fr	exact
 should_be_uc	lancisi	UBERON:0019283	lateral white stria of lancisi	exact
 should_be_uc	lancisi	UBERON:0022234	medial longitudinal stria of lancisi	exact
 should_be_uc	lancisi	UBERON:0022234	medial stripe of lancisi	exact
@@ -1404,270 +935,330 @@ should_be_uc	lancisi	UBERON:0022234	stria of lancisi	exact
 should_be_uc	langerhans	DOID:4330	non-langerhans-cell histiocytosis	label
 should_be_uc	langerhans	HP:0004510	Hyperplastic islets of langerhans	exact
 should_be_uc	langerhans	HP:0004510	Islets of langerhans hypertrophy	exact
-should_be_uc	langerhans	UBERON:0000006	islets of langerhans	related
+should_be_uc	large	DOID:0050744	anaplastic large cell lymphoma	label
+should_be_uc	large	DOID:0050745	diffuse large B-cell lymphoma	label
+should_be_uc	large	DOID:0050751	T-cell large granular lymphocyte leukemia	label
+should_be_uc	large	DOID:0050872	large cell neuroendocrine carcinoma	label
+should_be_uc	large	DOID:0050913	large intestine adenocarcinoma	label
+should_be_uc	large	DOID:0050914	large intestine adenoma	label
+should_be_uc	large	DOID:3857	large cell medulloblastoma	label
+should_be_uc	large	DOID:4321	large cell acanthoma	label
+should_be_uc	large	DOID:4552	large cell carcinoma	label
+should_be_uc	large	DOID:4553	thymus large cell carcinoma	label
+should_be_uc	large	DOID:4555	ovarian large-cell neuroendocrine carcinoma	label
+should_be_uc	large	DOID:4556	lung large cell carcinoma	label
+should_be_uc	large	DOID:5143	large bowel leiomyoma	label
+should_be_uc	large	DOID:5672	large intestine cancer	label
+should_be_uc	large	DOID:6460	large intestine lipoma	label
+should_be_uc	large	DOID:6657	breast large cell neuroendocrine carcinoma	label
+should_be_uc	large	DOID:6658	pulmonary large cell neuroendocrine carcinoma	label
+should_be_uc	large	DOID:6659	cervical large cell neuroendocrine carcinoma	label
+should_be_uc	large	DOID:7169	lung occult large cell carcinoma	label
+should_be_uc	large	DOID:7207	lung combined large cell neuroendocrine carcinoma	label
+should_be_uc	large	DOID:7461	large cell keratinizing variant squamous cell breast carcinoma	label
+should_be_uc	large	DOID:7480	large cell carcinoma with rhabdoid phenotype	label
+should_be_uc	large	GO:0000027	ribosomal large subunit assembly	label
+should_be_uc	large	GO:0000055	ribosomal large subunit export from cell nucleus	exact
+should_be_uc	large	GO:0000055	ribosomal large subunit export from nucleus	label
+should_be_uc	large	GO:0000055	ribosomal large subunit export out of nucleus	exact
+should_be_uc	large	GO:0000055	ribosomal large subunit transport from nucleus to cytoplasm	exact
+should_be_uc	large	GO:0000055	ribosomal large subunit-nucleus export	exact
+should_be_uc	large	GO:0000311	plastid large ribosomal subunit	label
+should_be_uc	large	GO:0000315	organellar large ribosomal subunit	label
+should_be_uc	large	GO:0000924	gamma-tubulin large complex, centrosomal	exact
+should_be_uc	large	GO:0000931	gamma-tubulin large complex	label
+should_be_uc	large	GO:0001180	transcription initiation from RNA polymerase I promoter for nuclear large rRNA transcript	label
+should_be_uc	large	GO:0001183	transcription elongation from RNA polymerase I promoter for nuclear large rRNA transcript	label
+should_be_uc	large	GO:0001184	promoter clearance from RNA polymerase I promoter for nuclear large rRNA transcript	label
+should_be_uc	large	GO:0001185	termination of RNA polymerase I transcription from promoter for nuclear large rRNA transcript	label
+should_be_uc	large	GO:0001189	RNA polymerase I transcriptional preinitiation complex assembly at the promoter for the nuclear large rRNA transcript	label
+should_be_uc	large	GO:0004298	large multicatalytic protease	narrow
+should_be_uc	large	GO:0005762	mitochondrial large ribosomal subunit	label
+should_be_uc	large	GO:0015934	large ribosomal subunit	label
+should_be_uc	large	GO:0015934	ribosomal large subunit	exact
+should_be_uc	large	GO:0022625	cytosolic large ribosomal subunit	label
+should_be_uc	large	GO:0022625	prokaryotic large ribosomal subunit	narrow
+should_be_uc	large	GO:0022628	chloroplast large ribosomal subunit	label
+should_be_uc	large	GO:0022628	chloroplast ribosomal large subunit complex	exact
+should_be_uc	large	GO:0030687	preribosome, large subunit precursor	label
+should_be_uc	large	GO:0030785	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit epsilonN-methyltransferase activity	exact
+should_be_uc	large	GO:0035583	sequestering of TGFbeta large latency complex in extracellular matrix	exact
+should_be_uc	large	GO:0038045	large latent complex	exact
+should_be_uc	large	GO:0038045	large latent transforming growth factor-beta complex	label
+should_be_uc	large	GO:0042273	ribosomal large subunit biogenesis	label
+should_be_uc	large	GO:0042273	ribosomal large subunit biogenesis and assembly	exact
+should_be_uc	large	GO:0042790	transcription of nuclear large rRNA transcript from RNA polymerase I promoter	label
+should_be_uc	large	GO:0042790	transcription of nuclear rRNA large Pol I transcript	exact
+should_be_uc	large	GO:0043023	ribosomal large subunit binding	label
+should_be_uc	large	GO:0052907	rRNA large subunit methyltransferase F activity	related
+should_be_uc	large	GO:0055031	gamma-tubulin large complex, eMTOC	exact
+should_be_uc	large	GO:0055031	gamma-tubulin large complex, equatorial microtubule organizing center	label
+should_be_uc	large	GO:0055031	gamma-tubulin large complex, equatorial microtubule organizing centre	exact
+should_be_uc	large	GO:0055032	gamma-tubulin large complex, spindle pole body	label
+should_be_uc	large	GO:0055033	gamma-tubulin large complex, iMTOC	exact
+should_be_uc	large	GO:0055033	gamma-tubulin large complex, interphase microtubule organizing center	label
+should_be_uc	large	GO:0055033	gamma-tubulin large complex, interphase microtubule organizing centre	exact
+should_be_uc	large	GO:0060072	large conductance KCa channels	exact
+should_be_uc	large	GO:0060072	large conductance calcium-activated potassium channel activity	label
+should_be_uc	large	GO:0060510	large alveolar cell differentiation	related
+should_be_uc	large	GO:0061494	gamma-tubulin large complex, mitotic spindle pole body	label
+should_be_uc	large	GO:0070180	large ribosomal subunit rRNA binding	label
+should_be_uc	large	GO:0097710	virus terminase, large subunit	exact
+should_be_uc	large	GO:0098009	viral terminase, large subunit	label
+should_be_uc	large	GO:0098009	virus terminase, large subunit	exact
+should_be_uc	large	GO:1901836	regulation of transcription of nuclear large rRNA transcript from RNA polymerase I promoter	label
+should_be_uc	large	GO:1901836	regulation of transcription of nuclear rRNA large Pol I transcript	exact
+should_be_uc	large	GO:1901837	down regulation of transcription of nuclear large rRNA transcript from RNA polymerase I promoter	exact
+should_be_uc	large	GO:1901837	down regulation of transcription of nuclear rRNA large Pol I transcript	exact
+should_be_uc	large	GO:1901837	down-regulation of transcription of nuclear large rRNA transcript from RNA polymerase I promoter	exact
+should_be_uc	large	GO:1901837	down-regulation of transcription of nuclear rRNA large Pol I transcript	exact
+should_be_uc	large	GO:1901837	downregulation of transcription of nuclear large rRNA transcript from RNA polymerase I promoter	exact
+should_be_uc	large	GO:1901837	downregulation of transcription of nuclear rRNA large Pol I transcript	exact
+should_be_uc	large	GO:1901837	inhibition of transcription of nuclear large rRNA transcript from RNA polymerase I promoter	narrow
+should_be_uc	large	GO:1901837	inhibition of transcription of nuclear rRNA large Pol I transcript	exact
+should_be_uc	large	GO:1901837	negative regulation of transcription of nuclear large rRNA transcript from RNA polymerase I promoter	label
+should_be_uc	large	GO:1901837	negative regulation of transcription of nuclear rRNA large Pol I transcript	exact
+should_be_uc	large	GO:1901838	activation of transcription of nuclear large rRNA transcript from RNA polymerase I promoter	narrow
+should_be_uc	large	GO:1901838	activation of transcription of nuclear rRNA large Pol I transcript	exact
+should_be_uc	large	GO:1901838	positive regulation of transcription of nuclear large rRNA transcript from RNA polymerase I promoter	label
+should_be_uc	large	GO:1901838	positive regulation of transcription of nuclear rRNA large Pol I transcript	exact
+should_be_uc	large	GO:1901838	up regulation of transcription of nuclear large rRNA transcript from RNA polymerase I promoter	exact
+should_be_uc	large	GO:1901838	up regulation of transcription of nuclear rRNA large Pol I transcript	exact
+should_be_uc	large	GO:1901838	up-regulation of transcription of nuclear large rRNA transcript from RNA polymerase I promoter	exact
+should_be_uc	large	GO:1901838	up-regulation of transcription of nuclear rRNA large Pol I transcript	exact
+should_be_uc	large	GO:1901838	upregulation of transcription of nuclear large rRNA transcript from RNA polymerase I promoter	exact
+should_be_uc	large	GO:1901838	upregulation of transcription of nuclear rRNA large Pol I transcript	exact
+should_be_uc	large	GO:1902606	regulation of large conductance KCa channels	exact
+should_be_uc	large	GO:1902606	regulation of large conductance calcium-activated potassium channel activity	label
+should_be_uc	large	GO:1902607	down regulation of large conductance KCa channels	exact
+should_be_uc	large	GO:1902607	down regulation of large conductance calcium-activated potassium channel activity	exact
+should_be_uc	large	GO:1902607	down-regulation of large conductance KCa channels	exact
+should_be_uc	large	GO:1902607	down-regulation of large conductance calcium-activated potassium channel activity	exact
+should_be_uc	large	GO:1902607	downregulation of large conductance KCa channels	exact
+should_be_uc	large	GO:1902607	downregulation of large conductance calcium-activated potassium channel activity	exact
+should_be_uc	large	GO:1902607	inhibition of large conductance KCa channels	narrow
+should_be_uc	large	GO:1902607	inhibition of large conductance calcium-activated potassium channel activity	narrow
+should_be_uc	large	GO:1902607	negative regulation of large conductance KCa channels	exact
+should_be_uc	large	GO:1902607	negative regulation of large conductance calcium-activated potassium channel activity	label
+should_be_uc	large	GO:1902608	activation of large conductance KCa channels	narrow
+should_be_uc	large	GO:1902608	activation of large conductance calcium-activated potassium channel activity	narrow
+should_be_uc	large	GO:1902608	positive regulation of large conductance KCa channels	exact
+should_be_uc	large	GO:1902608	positive regulation of large conductance calcium-activated potassium channel activity	label
+should_be_uc	large	GO:1902608	up regulation of large conductance KCa channels	exact
+should_be_uc	large	GO:1902608	up regulation of large conductance calcium-activated potassium channel activity	exact
+should_be_uc	large	GO:1902608	up-regulation of large conductance KCa channels	exact
+should_be_uc	large	GO:1902608	up-regulation of large conductance calcium-activated potassium channel activity	exact
+should_be_uc	large	GO:1902608	upregulation of large conductance KCa channels	exact
+should_be_uc	large	GO:1902608	upregulation of large conductance calcium-activated potassium channel activity	exact
+should_be_uc	large	GO:1902626	assembly of large subunit precursor of preribosome	label
+should_be_uc	large	GO:1902626	preribosome, large subunit precursor formation	exact
+should_be_uc	large	GO:1902627	regulation of assembly of large subunit precursor of preribosome	label
+should_be_uc	large	GO:1902627	regulation of preribosome, large subunit precursor formation	exact
+should_be_uc	large	GO:1902628	activation of assembly of large subunit precursor of preribosome	narrow
+should_be_uc	large	GO:1902628	activation of preribosome, large subunit precursor formation	narrow
+should_be_uc	large	GO:1902628	positive regulation of assembly of large subunit precursor of preribosome	label
+should_be_uc	large	GO:1902628	positive regulation of preribosome, large subunit precursor formation	exact
+should_be_uc	large	GO:1902628	up regulation of assembly of large subunit precursor of preribosome	exact
+should_be_uc	large	GO:1902628	up regulation of preribosome, large subunit precursor formation	exact
+should_be_uc	large	GO:1902628	up-regulation of assembly of large subunit precursor of preribosome	exact
+should_be_uc	large	GO:1902628	up-regulation of preribosome, large subunit precursor formation	exact
+should_be_uc	large	GO:1902628	upregulation of assembly of large subunit precursor of preribosome	exact
+should_be_uc	large	GO:1902628	upregulation of preribosome, large subunit precursor formation	exact
+should_be_uc	large	GO:1902775	mitochondrial large ribosomal subunit assembly	label
+should_be_uc	large	GO:1902775	mitochondrial large ribosomal subunit formation	exact
+should_be_uc	large	GO:1903357	regulation of transcription initiation from RNA polymerase I promoter for nuclear large rRNA transcript	label
+should_be_uc	large	GO:1990400	mitochondrial ribosomal large subunit rRNA binding	label
+should_be_uc	large	GO:2000203	regulation of ribosomal large subunit export from cell nucleus	exact
+should_be_uc	large	GO:2000203	regulation of ribosomal large subunit export from nucleus	label
+should_be_uc	large	GO:2000203	regulation of ribosomal large subunit export out of nucleus	exact
+should_be_uc	large	GO:2000203	regulation of ribosomal large subunit transport from nucleus to cytoplasm	exact
+should_be_uc	large	GO:2000203	regulation of ribosomal large subunit-nucleus export	exact
+should_be_uc	large	GO:2000204	negative regulation of ribosomal large subunit export from cell nucleus	exact
+should_be_uc	large	GO:2000204	negative regulation of ribosomal large subunit export from nucleus	label
+should_be_uc	large	GO:2000204	negative regulation of ribosomal large subunit export out of nucleus	exact
+should_be_uc	large	GO:2000204	negative regulation of ribosomal large subunit transport from nucleus to cytoplasm	exact
+should_be_uc	large	GO:2000204	negative regulation of ribosomal large subunit-nucleus export	exact
+should_be_uc	large	GO:2000205	positive regulation of ribosomal large subunit export from cell nucleus	exact
+should_be_uc	large	GO:2000205	positive regulation of ribosomal large subunit export from nucleus	label
+should_be_uc	large	GO:2000205	positive regulation of ribosomal large subunit export out of nucleus	exact
+should_be_uc	large	GO:2000205	positive regulation of ribosomal large subunit transport from nucleus to cytoplasm	exact
+should_be_uc	large	GO:2000205	positive regulation of ribosomal large subunit-nucleus export	exact
+should_be_uc	large	HP:0000158	Abnormally large tongue	exact
+should_be_uc	large	HP:0000448	Disproportionately large nose	exact
+should_be_uc	large	HP:0000694	Teeth with thin dentin and large pulp chambers	exact
+should_be_uc	large	HP:0001176	Disproportionately large hands	exact
+should_be_uc	large	HP:0001476	Late closure of large anterior fontanel	exact
+should_be_uc	large	HP:0001833	Disproportionately large feet	exact
+should_be_uc	large	HP:0002037	Inflammation of the large intestine	label
+should_be_uc	large	HP:0002250	Abnormality of the large intestine	label
+should_be_uc	large	HP:0003380	Decreased number of large and small myelinated fibers	exact
+should_be_uc	large	HP:0003387	Decreased number of large peripheral myelinated nerve fibers	label
+should_be_uc	large	HP:0003387	Depletion of large myelinated fibers	exact
+should_be_uc	large	HP:0003387	Loss of large myelinated fibers	exact
+should_be_uc	large	HP:0004482	Disproportionately large head	exact
+should_be_uc	large	HP:0004482	Relatively large head	exact
+should_be_uc	large	HP:0004488	Congenital large cranium	exact
+should_be_uc	large	HP:0004488	Congenital large head	broad
+should_be_uc	large	HP:0004488	Congenital large skull	exact
+should_be_uc	large	HP:0004488	Head circumference large for gestational age	exact
+should_be_uc	large	HP:0004966	Medial calcification of large arteries	label
+should_be_uc	large	HP:0005193	Restricted large joint movement	label
+should_be_uc	large	HP:0005781	Contractures of the large joints	label
+should_be_uc	large	HP:0008365	Abnormal large bone of ankle	exact
+should_be_uc	large	HP:0010448	Atresia of the large intestine	exact
+should_be_uc	large	HP:0012193	Anaplastic large-cell lymphoma	label
+should_be_uc	large	HP:0012700	Abnormal large intestine physiology	label
+should_be_uc	large	HP:0030132	Absence of large von Willibrand factor multimers	label
+should_be_uc	large	HP:0030133	Abnormal presence of ultra-large von Willebrand Factor multimers	label
+should_be_uc	large	HP:0030812	tonsils large/hypertrophy	exact
+should_be_uc	large	HP:0040261	Adenoids large	related
+should_be_uc	large	HP:0040275	Adenocarcinoma of the large intestine	label
+should_be_uc	large	HP:0100834	Neoplasm of the large intestine	label
+should_be_uc	large	MP:0000085	large anterior fontanelle	label
+should_be_uc	large	MP:0000489	abnormal large intestine morphology	label
+should_be_uc	large	MP:0002220	large lymphoid organs	label
+should_be_uc	large	MP:0003284	abnormal large intestine placement	label
+should_be_uc	large	MP:0003304	large intestinal inflammation	label
+should_be_uc	large	MP:0003585	large ureter	label
+should_be_uc	large	MP:0003599	large penis	label
+should_be_uc	large	MP:0004842	abnormal large intestine crypts of Lieberkuhn morphology	label
+should_be_uc	large	MP:0006003	abnormal large intestinal transit time	label
+should_be_uc	large	MP:0006212	large orbits	label
+should_be_uc	large	MP:0006218	large optic disc	label
+should_be_uc	large	MP:0008435	large somatotroph cell nucleus	label
+should_be_uc	large	MP:0008718	increased lung large cell carcinoma incidence	label
+should_be_uc	large	MP:0009310	increased large intestine adenocarcinoma incidence	label
+should_be_uc	large	MP:0012360	abnormal large unstained cell number	label
+should_be_uc	large	MP:0012361	decreased large unstained cell number	label
+should_be_uc	large	MP:0012362	increased large unstained cell number	label
+should_be_uc	large	MP:0013793	abnormal large intestine goblet cell morphology	label
+should_be_uc	large	MP:0020302	large horns	label
+should_be_uc	large	UBERON:0000059	large intestine	label
+should_be_uc	large	UBERON:0000317	large bowel mucosa	exact
+should_be_uc	large	UBERON:0000317	mucosa of large bowel	exact
+should_be_uc	large	UBERON:0000397	epithelial tissue of large bowel	exact
+should_be_uc	large	UBERON:0000397	epithelium of large bowel	exact
+should_be_uc	large	UBERON:0000397	large bowel epithelial tissue	exact
+should_be_uc	large	UBERON:0000397	large bowel epithelium	exact
+should_be_uc	large	UBERON:0001052	terminal portion of large intestine	related
+should_be_uc	large	UBERON:0001155	large bowel	exact
+should_be_uc	large	UBERON:0001169	anatomical wall of large intestine	exact
+should_be_uc	large	UBERON:0001169	large intestinal wall	exact
+should_be_uc	large	UBERON:0001169	large intestine anatomical wall	exact
+should_be_uc	large	UBERON:0001169	large intestine wall	exact
+should_be_uc	large	UBERON:0001169	wall of large intestine	label
+should_be_uc	large	UBERON:0001207	large intestinal mucosa	exact
+should_be_uc	large	UBERON:0001207	large intestine mucosa	exact
+should_be_uc	large	UBERON:0001207	large intestine mucosa of organ	exact
+should_be_uc	large	UBERON:0001207	large intestine mucous membrane	exact
+should_be_uc	large	UBERON:0001207	large intestine organ mucosa	exact
+should_be_uc	large	UBERON:0001207	mucosa of large intestine	label
+should_be_uc	large	UBERON:0001207	mucosa of organ of large intestine	exact
+should_be_uc	large	UBERON:0001207	mucous membrane of large intestine	exact
+should_be_uc	large	UBERON:0001207	organ mucosa of large intestine	exact
+should_be_uc	large	UBERON:0001208	large intestinal submucosa	exact
+should_be_uc	large	UBERON:0001208	large intestine submucosa	exact
+should_be_uc	large	UBERON:0001208	submucosa of large intestine	label
+should_be_uc	large	UBERON:0001208	submucous layer of large intestine	related
+should_be_uc	large	UBERON:0001209	large intestinal serosa	exact
+should_be_uc	large	UBERON:0001209	large intestine serosa	exact
+should_be_uc	large	UBERON:0001209	large intestine serous membrane	exact
+should_be_uc	large	UBERON:0001209	serosa of large intestine	label
+should_be_uc	large	UBERON:0001209	serous coat of large intestine	exact
+should_be_uc	large	UBERON:0001209	serous membrane of large intestine	exact
+should_be_uc	large	UBERON:0001209	visceral peritoneum of large intestine	exact
+should_be_uc	large	UBERON:0001239	lamina muscularis of large intestine mucosa	exact
+should_be_uc	large	UBERON:0001239	lamina muscularis of large intestine mucous membrane	exact
+should_be_uc	large	UBERON:0001239	large intestine muscularis mucosa	exact
+should_be_uc	large	UBERON:0001239	muscularis mucosae of large intestine	label
+should_be_uc	large	UBERON:0001278	epithelial tissue of large intestine	exact
+should_be_uc	large	UBERON:0001278	epithelium of large intestine	label
+should_be_uc	large	UBERON:0001278	large intestinal epithelium	exact
+should_be_uc	large	UBERON:0001278	large intestine epithelial tissue	exact
+should_be_uc	large	UBERON:0001278	large intestine epithelium	exact
+should_be_uc	large	UBERON:0001363	large saphenous vein	related
+should_be_uc	large	UBERON:0001984	crypt of Lieberkuhn of large intestine	label
+should_be_uc	large	UBERON:0001984	intestinal gland of large intestine	exact
+should_be_uc	large	UBERON:0001984	large intestinal crypt of Lieberkuhn	exact
+should_be_uc	large	UBERON:0001984	large intestine crypt of Lieberkuhn	exact
+should_be_uc	large	UBERON:0001984	large intestine intestinal gland	exact
+should_be_uc	large	UBERON:0001984	large intestine lieberkuhn crypt	exact
+should_be_uc	large	UBERON:0001984	lieberkuhn crypt of large intestine	exact
+should_be_uc	large	UBERON:0002996	large-celled nucleus of optic tract	exact
+should_be_uc	large	UBERON:0003331	large bowel submucosa	exact
+should_be_uc	large	UBERON:0003331	submucosa of large bowel	exact
+should_be_uc	large	UBERON:0003335	large bowel serosa	exact
+should_be_uc	large	UBERON:0003335	large bowel serous membrane	exact
+should_be_uc	large	UBERON:0003335	serosa of large bowel	exact
+should_be_uc	large	UBERON:0003335	serous membrane of large bowel	exact
+should_be_uc	large	UBERON:0003396	large bowel mesentery	exact
+should_be_uc	large	UBERON:0003396	large intestinal mesentery	exact
+should_be_uc	large	UBERON:0003396	mesentery of large bowel	exact
+should_be_uc	large	UBERON:0003396	mesentery of large intestine	exact
+should_be_uc	large	UBERON:0003453	Peyer's patch of large intestine	exact
+should_be_uc	large	UBERON:0003453	large intestine Peyer's patch	exact
+should_be_uc	large	UBERON:0003453	large intestine Peyer's patch	label
+should_be_uc	large	UBERON:0003453	solitary lymphatic follicle of large intestine	related
+should_be_uc	large	UBERON:0003453	solitary lymphoid follicle of subdivision of large intestine	related
+should_be_uc	large	UBERON:0003631	large toe	related
+should_be_uc	large	UBERON:0004220	involuntary muscle of large intestine	exact
+should_be_uc	large	UBERON:0004220	large intestine involuntary muscle	exact
+should_be_uc	large	UBERON:0004220	large intestine non-striated muscle	exact
+should_be_uc	large	UBERON:0004220	large intestine smooth muscle	label
+should_be_uc	large	UBERON:0004220	large intestine smooth muscle tissue	exact
+should_be_uc	large	UBERON:0004220	non-striated muscle of large intestine	exact
+should_be_uc	large	UBERON:0004220	smooth muscle of large intestine	exact
+should_be_uc	large	UBERON:0004220	smooth muscle tissue of large intestine	exact
+should_be_uc	large	UBERON:0005392	layer of medium-sized and large pyramidal cells	related
+should_be_uc	large	UBERON:0005394	deep layer of large pyramidal cells	related
+should_be_uc	large	UBERON:0005394	inner layer of large pyramidal cells	related
+should_be_uc	large	UBERON:0011189	lamina propria of large intestine	label
+should_be_uc	large	UBERON:0011189	lamina propria of mucosa of large intestine	exact
+should_be_uc	large	UBERON:0011189	large intestinal lamina propria	exact
+should_be_uc	large	UBERON:0011189	large intestine lamina propria	exact
+should_be_uc	large	UBERON:0011198	muscle layer of large intestine	label
+should_be_uc	large	UBERON:0011198	muscular coat of large intestine	exact
+should_be_uc	large	UBERON:0011198	muscular layer of large intestine	exact
+should_be_uc	large	UBERON:0011198	muscularis externa of large intestine	exact
+should_be_uc	large	UBERON:0012398	circular muscle layer of segment of large intestine	related
+should_be_uc	large	UBERON:0012398	large intestine smooth muscle circular layer	label
+should_be_uc	large	UBERON:0012399	large intestine smooth muscle longitudinal layer	label
+should_be_uc	large	UBERON:0012399	longitudinal muscle layer of zone of large intestine	related
+should_be_uc	large	UBERON:0012419	longitudinal band of large intestine muscularis	exact
+should_be_uc	large	UBERON:0013741	base of crypt of Lieberkuhn of large intestine	label
+should_be_uc	large	UBERON:0013742	wall of crypt of Lieberkuhn of large intestine	label
+should_be_uc	large	UBERON:0022281	epithelium of crypt of Lieberkuhn of large intestine	label
+should_be_uc	large	UBERON:0023868	large island of calleja	related
+should_be_uc	large	UBERON:2001192	large supraneural	exact
 should_be_uc	larsell	UBERON:0005350	lobule h vi of larsell	exact
 should_be_uc	le	UBERON:0011167	le cornet	related
 should_be_uc	leber	DOID:705	leber hereditary optic neuropathy	label
 should_be_uc	lewis	GO:0017083	lewis-negative alpha-3-fucosyltransferase activity	exact
-should_be_uc	lieberkuhn	UBERON:0001241	crypt of lieberkuhn of small bowel	exact
-should_be_uc	lieberkuhn	UBERON:0001241	crypt of lieberkuhn of small intestine	exact
 should_be_uc	lieberkuhn	UBERON:0001241	lieberkuhn crypt of small bowel	exact
 should_be_uc	lieberkuhn	UBERON:0001241	lieberkuhn crypt of small intestine	exact
-should_be_uc	lieberkuhn	UBERON:0001241	small bowel crypt of lieberkuhn	exact
 should_be_uc	lieberkuhn	UBERON:0001241	small bowel lieberkuhn crypt	exact
-should_be_uc	lieberkuhn	UBERON:0001241	small intestine crypt of lieberkuhn	exact
 should_be_uc	lieberkuhn	UBERON:0001241	small intestine lieberkuhn crypt	exact
-should_be_uc	lieberkuhn	UBERON:0001983	crypt of lieberkuhn	exact
 should_be_uc	lieberkuhn	UBERON:0001983	follicles of lieberkuhn	exact
 should_be_uc	lieberkuhn	UBERON:0001983	lieberkuhn crypt	exact
-should_be_uc	lieberkuhn	UBERON:0001984	large intestinal crypt of lieberkuhn	exact
-should_be_uc	lieberkuhn	UBERON:0001984	large intestine crypt of lieberkuhn	exact
 should_be_uc	lieberkuhn	UBERON:0001984	large intestine lieberkuhn crypt	exact
 should_be_uc	lieberkuhn	UBERON:0001984	lieberkuhn crypt of large intestine	exact
-should_be_uc	lieberkuhn	UBERON:0013485	colonic crypt of lieberkuhn	exact
-should_be_uc	lieberkuhn	UBERON:0013486	appendiceal crypt of lieberkuhn	exact
-should_be_uc	lip	DOID:8564	lip cancer	label
-should_be_uc	lip	DOID:8630	upper lip cancer	label
-should_be_uc	lip	DOID:8661	lip carcinoma in situ	label
-should_be_uc	lip	DOID:8883	lower lip cancer	label
-should_be_uc	lip	DOID:9296	cleft lip	label
-should_be_uc	lip	DOID:9297	lip disease	label
-should_be_uc	lip	GO:0060062	Spemann organizer formation at the dorsal lip of the blastopore	label
-should_be_uc	lip	GO:0060062	Spemann's organizer formation at the dorsal lip of the blastopore	exact
-should_be_uc	lip	GO:0060062	Spemann-Mangold organizer formation at the dorsal lip of the blastopore	exact
-should_be_uc	lip	GO:0097203	phagocytic cup lip	label
-should_be_uc	lip	HP:0000159	Abnormal lip	exact
-should_be_uc	lip	HP:0000159	Abnormality of the lip	label
-should_be_uc	lip	HP:0000159	Anomaly of lip	narrow
-should_be_uc	lip	HP:0000159	Deformity of lip	narrow
-should_be_uc	lip	HP:0000159	Malformation of lip	narrow
-should_be_uc	lip	HP:0000161	Central cleft upper lip	exact
-should_be_uc	lip	HP:0000161	Median cleft lip	label
-should_be_uc	lip	HP:0000161	Midline cleft lip	exact
-should_be_uc	lip	HP:0000177	Abnormality of upper lip	label
-should_be_uc	lip	HP:0000177	Anomaly of the upper lip	narrow
-should_be_uc	lip	HP:0000177	Deformity of the upper lip	narrow
-should_be_uc	lip	HP:0000177	Malformation of the upper lip	narrow
-should_be_uc	lip	HP:0000178	Abnormality of lower lip	label
-should_be_uc	lip	HP:0000178	Anomaly of the lower lip	narrow
-should_be_uc	lip	HP:0000178	Deformity of the lower lip	narrow
-should_be_uc	lip	HP:0000178	Malformation of the lower lip	narrow
-should_be_uc	lip	HP:0000179	Full lower lip	related
-should_be_uc	lip	HP:0000179	Full lower lip vermilion	exact
-should_be_uc	lip	HP:0000179	Increased height of lower lip vermilion	exact
-should_be_uc	lip	HP:0000179	Increased volume of lower lip	exact
-should_be_uc	lip	HP:0000179	Increased volume of lower lip vermilion	exact
-should_be_uc	lip	HP:0000179	Plump lower lip	exact
-should_be_uc	lip	HP:0000179	Prominent lower lip	exact
-should_be_uc	lip	HP:0000179	Prominent lower lip vermilion	narrow
-should_be_uc	lip	HP:0000179	Thick lower lip	related
-should_be_uc	lip	HP:0000179	Thick lower lip vermilion	label
-should_be_uc	lip	HP:0000179	Thick red part of the lower lip	narrow
-should_be_uc	lip	HP:0000179	Thick vermilion border of lower lip	exact
-should_be_uc	lip	HP:0000188	Decreased height of upper lip	exact
-should_be_uc	lip	HP:0000188	Decreased vertical length of upper lip	exact
-should_be_uc	lip	HP:0000188	Short upper lip	label
-should_be_uc	lip	HP:0000188	Shortening of upper lip	exact
-should_be_uc	lip	HP:0000188	Vertical deficiency of upper lip	exact
-should_be_uc	lip	HP:0000196	Lower lip pit	label
-should_be_uc	lip	HP:0000202	Cleft lip, cleft palate	narrow
-should_be_uc	lip	HP:0000202	Cleft lip/palate	related
-should_be_uc	lip	HP:0000204	Cheiloschisis of upper lip	exact
-should_be_uc	lip	HP:0000204	Cleft lip	related
-should_be_uc	lip	HP:0000204	Cleft of upper lip	related
-should_be_uc	lip	HP:0000204	Cleft upper lip	label
-should_be_uc	lip	HP:0000214	Angioectasias of the lip	related
-should_be_uc	lip	HP:0000214	Spider veins of the lip	related
-should_be_uc	lip	HP:0000215	Full upper lip	exact
-should_be_uc	lip	HP:0000215	Full upper lip vermilion	exact
-should_be_uc	lip	HP:0000215	Increased height of upper lip vermilion	exact
-should_be_uc	lip	HP:0000215	Increased volume of upper lip	exact
-should_be_uc	lip	HP:0000215	Increased volume of upper lip vermilion	exact
-should_be_uc	lip	HP:0000215	Plump upper lip	exact
-should_be_uc	lip	HP:0000215	Prominent upper lip	exact
-should_be_uc	lip	HP:0000215	Prominent upper lip vermilion	narrow
-should_be_uc	lip	HP:0000215	Thick red part of the upper lip	narrow
-should_be_uc	lip	HP:0000215	Thick upper lip	exact
-should_be_uc	lip	HP:0000215	Thick upper lip vermilion	label
-should_be_uc	lip	HP:0000215	Thick vermilion border of upper lip	exact
-should_be_uc	lip	HP:0000219	Decreased height of upper lip vermilion	exact
-should_be_uc	lip	HP:0000219	Decreased volume of upper lip	exact
-should_be_uc	lip	HP:0000219	Decreased volume of upper lip vermilion	exact
-should_be_uc	lip	HP:0000219	Thin red part of the upper lip	narrow
-should_be_uc	lip	HP:0000219	Thin upper lip	exact
-should_be_uc	lip	HP:0000219	Thin upper lip vermilion	label
-should_be_uc	lip	HP:0000219	Thin vermilion border of upper lip	exact
-should_be_uc	lip	HP:0000232	Drooping lower lip	exact
-should_be_uc	lip	HP:0000232	Eclabium of lower lip	exact
-should_be_uc	lip	HP:0000232	Everted lower lip	exact
-should_be_uc	lip	HP:0000232	Everted lower lip vermilion	label
-should_be_uc	lip	HP:0000232	Everted prominent lower lip	exact
-should_be_uc	lip	HP:0000232	Outward turned lower lip	exact
-should_be_uc	lip	HP:0000232	Protruding lower lip	related
-should_be_uc	lip	HP:0000233	Decreased volume of lip	exact
-should_be_uc	lip	HP:0000233	Decreased volume of lip vermillion	exact
-should_be_uc	lip	HP:0002055	Curved linear dimple below the lower lip	label
-should_be_uc	lip	HP:0002263	Cupid bow upper lip	exact
-should_be_uc	lip	HP:0002263	Cupid-bow shaped upper lip	exact
-should_be_uc	lip	HP:0002263	Prominent cupid-bow of upper lip	exact
-should_be_uc	lip	HP:0002710	Commissural lip pit	label
-should_be_uc	lip	HP:0002744	Bilateral cleft lip and cleft palate	exact
-should_be_uc	lip	HP:0002744	Bilateral cleft lip and palate	label
-should_be_uc	lip	HP:0002744	Right and left cleft lip and palate	exact
-should_be_uc	lip	HP:0008501	Central cleft lip and palate	exact
-should_be_uc	lip	HP:0008501	Medial cleft lip and palate	exact
-should_be_uc	lip	HP:0008501	Median cleft lip and palate	label
-should_be_uc	lip	HP:0008501	Midline cleft lip/palate	exact
-should_be_uc	lip	HP:0008501	Wide midline cleft lip/palate	exact
-should_be_uc	lip	HP:0009101	Submucous cleft lip	label
-should_be_uc	lip	HP:0010281	Cleft lower lip	label
-should_be_uc	lip	HP:0010281	Cleft of the lower lip	exact
-should_be_uc	lip	HP:0010282	Decreased height of lower lip vermilion	exact
-should_be_uc	lip	HP:0010282	Decreased volume of lower lip	exact
-should_be_uc	lip	HP:0010282	Decreased volume of lower lip vermilion	exact
-should_be_uc	lip	HP:0010282	Thin lower lip	exact
-should_be_uc	lip	HP:0010282	Thin lower lip vermilion	label
-should_be_uc	lip	HP:0010282	Thin red part of the lower lip	narrow
-should_be_uc	lip	HP:0010282	Thin vermilion border of lower lip	exact
-should_be_uc	lip	HP:0010798	Ephelis of lip	exact
-should_be_uc	lip	HP:0010803	Drooping upper lip	related
-should_be_uc	lip	HP:0010803	Eclabium of upper lip	exact
-should_be_uc	lip	HP:0010803	Everted prominent upper lip	exact
-should_be_uc	lip	HP:0010803	Everted upper lip	exact
-should_be_uc	lip	HP:0010803	Everted upper lip vermilion	label
-should_be_uc	lip	HP:0010803	Outward turned upper lip	exact
-should_be_uc	lip	HP:0010803	Protruding upper lip	related
-should_be_uc	lip	HP:0010804	Inverted V-shaped upper lip	exact
-should_be_uc	lip	HP:0010804	Tented upper lip	related
-should_be_uc	lip	HP:0010804	Tented upper lip vermilion	label
-should_be_uc	lip	HP:0010806	U-Shaped upper lip vermilion	label
-should_be_uc	lip	HP:0011339	Abnormality of the red part of the upper lip	narrow
-should_be_uc	lip	HP:0011339	Abnormality of upper lip vermillion	label
-should_be_uc	lip	HP:0011339	Anomaly of the upper lip vermillion	narrow
-should_be_uc	lip	HP:0011339	Deformity of the upper lip vermillion	narrow
-should_be_uc	lip	HP:0011339	Malformation of the upper lip vermillion	narrow
-should_be_uc	lip	HP:0011340	Forme fruste unilateral cleft lip	exact
-should_be_uc	lip	HP:0011340	Incomplete cleft of the upper lip	label
-should_be_uc	lip	HP:0011340	Notched cleft of the upper lip	exact
-should_be_uc	lip	HP:0011340	Partial cleft of the upper lip	exact
-should_be_uc	lip	HP:0011341	Elongation of upper lip	exact
-should_be_uc	lip	HP:0011341	Increased height of upper lip	exact
-should_be_uc	lip	HP:0011341	Increased vertical length of upper lip	exact
-should_be_uc	lip	HP:0011341	Long upper lip	label
-should_be_uc	lip	HP:0012471	Increased volume of lip	exact
-should_be_uc	lip	HP:0012471	Increased volume of lip vermillion	exact
-should_be_uc	lip	HP:0040181	Chapped lip	label
-should_be_uc	lip	HP:0100268	Upper lip pit	label
-should_be_uc	lip	HP:0100269	Paramedian lip pit	label
-should_be_uc	lip	HP:0100333	One sided cleft upper lip	exact
-should_be_uc	lip	HP:0100333	Unilateral cleft lip	label
-should_be_uc	lip	HP:0100335	Non-midline cleft lip	label
-should_be_uc	lip	HP:0100335	Non-midline cleft of the upper lip	exact
-should_be_uc	lip	HP:0100335	Paramedian cleft of the upper lip	exact
-should_be_uc	lip	HP:0100336	Bilateral cleft lip	label
-should_be_uc	lip	HP:0100336	Both sided cleft lip	exact
-should_be_uc	lip	HP:0100336	Right and left cleft lip	exact
-should_be_uc	lip	HP:0100604	Neoplasia of the lip	related
-should_be_uc	lip	HP:0100604	Neoplasm of the lip	label
-should_be_uc	lip	HP:0100604	Tumor of the lip	related
-should_be_uc	lip	HP:0100816	Hyperpigmentation of lip vermillion	exact
-should_be_uc	lip	HP:3000056	Abnormality of artery of lower lip	label
-should_be_uc	lip	UBERON:0001458	lip skin	exact
-should_be_uc	lip	UBERON:0001458	lip zone of skin	exact
-should_be_uc	lip	UBERON:0001458	skin of lip	label
-should_be_uc	lip	UBERON:0001458	zone of skin of lip	exact
-should_be_uc	lip	UBERON:0001833	lip	label
-should_be_uc	lip	UBERON:0001834	upper jaw lip	exact
-should_be_uc	lip	UBERON:0001834	upper lip	label
-should_be_uc	lip	UBERON:0001835	lower jaw lip	exact
-should_be_uc	lip	UBERON:0001835	lower lip	label
-should_be_uc	lip	UBERON:0003470	artery of upper lip	label
-should_be_uc	lip	UBERON:0003471	artery of lower lip	label
-should_be_uc	lip	UBERON:0003477	upper lip vein	exact
-should_be_uc	lip	UBERON:0003477	vein of upper lip	label
-should_be_uc	lip	UBERON:0003478	lower lip vein	exact
-should_be_uc	lip	UBERON:0003478	vein of lower lip	label
-should_be_uc	lip	UBERON:0004833	lip skeletal muscle	label
-should_be_uc	lip	UBERON:0004833	lip skeletal muscle tissue	exact
-should_be_uc	lip	UBERON:0004833	skeletal muscle of lip	exact
-should_be_uc	lip	UBERON:0004833	skeletal muscle tissue of lip	exact
-should_be_uc	lip	UBERON:0005031	mucosa of organ of upper lip	exact
-should_be_uc	lip	UBERON:0005031	mucosa of upper lip	label
-should_be_uc	lip	UBERON:0005031	mucous membrane of upper lip	exact
-should_be_uc	lip	UBERON:0005031	organ mucosa of upper lip	exact
-should_be_uc	lip	UBERON:0005031	upper lip mucosa	exact
-should_be_uc	lip	UBERON:0005031	upper lip mucosa of organ	exact
-should_be_uc	lip	UBERON:0005031	upper lip mucous membrane	exact
-should_be_uc	lip	UBERON:0005031	upper lip organ mucosa	exact
-should_be_uc	lip	UBERON:0005032	lower lip mucosa	exact
-should_be_uc	lip	UBERON:0005032	lower lip mucosa of organ	exact
-should_be_uc	lip	UBERON:0005032	lower lip mucous membrane	exact
-should_be_uc	lip	UBERON:0005032	lower lip organ mucosa	exact
-should_be_uc	lip	UBERON:0005032	mucosa of lower lip	label
-should_be_uc	lip	UBERON:0005032	mucosa of organ of lower lip	exact
-should_be_uc	lip	UBERON:0005032	mucous membrane of lower lip	exact
-should_be_uc	lip	UBERON:0005032	organ mucosa of lower lip	exact
-should_be_uc	lip	UBERON:0005402	lip philtrum	exact
-should_be_uc	lip	UBERON:0005402	philtral region of upper lip	related
-should_be_uc	lip	UBERON:0006215	rhombic lip	label
-should_be_uc	lip	UBERON:0006215	rostral rhombic lip	related
-should_be_uc	lip	UBERON:0006913	lip epithelium	label
-should_be_uc	lip	UBERON:0008594	square muscle of the upper lip, zygomatic head	exact
-should_be_uc	lip	UBERON:0009657	artery of lip	label
-should_be_uc	lip	UBERON:0009840	caudal rhombic lip	exact
-should_be_uc	lip	UBERON:0009840	lower (caudal) rhombic lip	exact
-should_be_uc	lip	UBERON:0009840	lower rhombic lip	label
-should_be_uc	lip	UBERON:0009841	rostral rhombic lip	exact
-should_be_uc	lip	UBERON:0009841	upper (rostral) rhombic lip	exact
-should_be_uc	lip	UBERON:0009841	upper rhombic lip	label
-should_be_uc	lip	UBERON:0010169	set of hair of upper lip proper	related
-should_be_uc	lip	UBERON:0011592	future upper lip	label
-should_be_uc	lip	UBERON:0011592	upper jaw future lip	exact
-should_be_uc	lip	UBERON:0011596	future lower lip	label
-should_be_uc	lip	UBERON:0011596	lower jaw future lip	exact
-should_be_uc	lip	UBERON:0011958	acetabular lip	related
-should_be_uc	lip	UBERON:0013136	lip vein	exact
-should_be_uc	lip	UBERON:0013136	vein of lip	label
-should_be_uc	lip	UBERON:0013176	phonic lip	label
-should_be_uc	lip	UBERON:0016910	frenulum of lip	label
-should_be_uc	lip	UBERON:0016910	lip frenulum	exact
-should_be_uc	lip	UBERON:0016912	frenulum of upper lip	label
-should_be_uc	lip	UBERON:0016912	upper lip frenulum	exact
-should_be_uc	lip	UBERON:0016913	frenulum of lower lip	label
-should_be_uc	lip	UBERON:0016913	lower lip frenulum	exact
-should_be_uc	lip	UBERON:0016915	vermilion border of lip	exact
-should_be_uc	lip	UBERON:0016915	vermilion of lip	exact
-should_be_uc	lip	UBERON:0016918	vermilion border of upper lip	exact
-should_be_uc	lip	UBERON:0016918	vermilion of upper lip	exact
-should_be_uc	lip	UBERON:0016919	vermilion border of lower lip	exact
-should_be_uc	lip	UBERON:0016919	vermilion of lower lip	exact
-should_be_uc	lip	UBERON:0018150	lower lip skin	exact
-should_be_uc	lip	UBERON:0018150	skin of lower lip	label
-should_be_uc	lip	UBERON:0018151	skin of upper lip	label
-should_be_uc	lip	UBERON:0018151	upper lip skin	exact
-should_be_uc	lip	UBERON:0034719	lip taste bud	label
-should_be_uc	lip	UBERON:3010091	upper lip protuberances	label
-should_be_uc	lip	UBERON:3010455	blastopore lip	label
-should_be_uc	lip	UBERON:3010456	lower blastopore lip	label
-should_be_uc	lip	UBERON:3010456	ventral blastopore lip	related
-should_be_uc	lip	UBERON:3010457	dorsal blastopore lip	related
-should_be_uc	lip	UBERON:3010457	upper blastopore lip	label
 should_be_uc	lissauer	UBERON:0002649	lissauer's tract	exact
-should_be_uc	lissauer	UBERON:0002649	tract of lissauer	exact
-should_be_uc	lissauer	UBERON:0002649	zone of lissauer	exact
 should_be_uc	littre	DOID:6721	littre gland carcinoma	label
 should_be_uc	louis	UBERON:0011966	angle of louis	related
-should_be_uc	luschka	UBERON:0001732	tonsil of luschka	exact
 should_be_uc	luysi	GO:0021763	corpus luysi development	related
 should_be_uc	mall	UBERON:0035386	mall space	exact
-should_be_uc	malphighii	UBERON:0002026	stratum malphighii	exact
-should_be_uc	malphigian	UBERON:0000074	malphigian glomerulus	related
-should_be_uc	malphigian	UBERON:0001229	malphigian corpuscle	exact
-should_be_uc	malphigian	UBERON:0001230	malphigian capsule	related
-should_be_uc	malphigian	UBERON:0004200	malphigian pyramid	related
 should_be_uc	malpighian	UBERON:0004200	malpighian pyramid	exact
 should_be_uc	malpighian	UBERON:1000023	malpighian corpuscles	exact
 should_be_uc	meckel	UBERON:0003705	meckel diverticulum	related
+should_be_uc	mediterranean	ENVO:01000004	concentration basin mediterranean sea biome	label
+should_be_uc	mediterranean	ENVO:01000047	mediterranean sea biome	label
+should_be_uc	mediterranean	ENVO:01000128	dilution basin mediterranean sea biome	label
+should_be_uc	mediterranean	ENVO:01000199	mediterranean forest biome	label
+should_be_uc	mediterranean	ENVO:01000207	mediterranean	label
+should_be_uc	mediterranean	ENVO:01000208	mediterranean woodland biome	label
+should_be_uc	mediterranean	ENVO:01000217	mediterranean shrubland biome	label
+should_be_uc	mediterranean	ENVO:01000224	mediterranean grassland biome	label
+should_be_uc	mediterranean	ENVO:01000229	mediterranean savanna biome	label
 should_be_uc	meibomian	DOID:9903	meibomian cyst	label
 should_be_uc	meissner	UBERON:0005304	meissner's plexus	related
 should_be_uc	meissner	UBERON:0012450	meissner corpuscle	related
@@ -1676,12 +1267,9 @@ should_be_uc	meissner	UBERON:0012450	meissner's corpuscle	related
 should_be_uc	meissner	UBERON:0012450	meissner's corpuscles	related
 should_be_uc	meyer	UBERON:0022264	meyer's loop	related
 should_be_uc	micrococcus	GO:0003906	micrococcus luteus UV endonuclease	narrow
-should_be_uc	mode	GO:0036187	cell growth mode switching, budding to filamentous	label
-should_be_uc	mode	GO:0051523	cell growth mode switching, monopolar to bipolar	label
-should_be_uc	mode	GO:0051524	cell growth mode switching, bipolar to monopolar	label
-should_be_uc	mode	GO:0097321	cell growth mode switching, filamentous to budding	label
 should_be_uc	moll	UBERON:0013228	ciliary gland of moll	exact
 should_be_uc	monakow	UBERON:0002477	entopeduncular nucleus (monakow)	exact
+should_be_uc	moon	ENVO:01000802	planetary moon	label
 should_be_uc	morgagni	UBERON:0006651	hydatid of morgagni	broad
 should_be_uc	mueller	UBERON:0010379	mueller muscle	related
 should_be_uc	muller	UBERON:0006318	orbital muscle of muller	exact
@@ -1689,299 +1277,6 @@ should_be_uc	mullerian	DOID:0050791	persistent mullerian duct syndrome	label
 should_be_uc	mullerian	DOID:133	vaginal mullerian papilloma	label
 should_be_uc	mullerian	DOID:9442	cervical mullerian papilloma	label
 should_be_uc	mullerian	UBERON:0016505	mullerian tubercle	exact
-should_be_uc	musculus	HP:0430017	Abnormality of musculus uvulae	exact
-should_be_uc	musculus	UBERON:0000303	musculus adductor longus	related
-should_be_uc	musculus	UBERON:0000370	musculus adductor magnus	related
-should_be_uc	musculus	UBERON:0000372	musculus extensor digitorum brevis	related
-should_be_uc	musculus	UBERON:0000381	musculus detrusor vesicae	exact
-should_be_uc	musculus	UBERON:0000381	musculus detrusor vesicae urinariae	related
-should_be_uc	musculus	UBERON:0000392	musculus longissimus	exact
-should_be_uc	musculus	UBERON:0000642	musculus suspensorius duodeni	exact
-should_be_uc	musculus	UBERON:0000642	musculus suspensorius duodeni	related
-should_be_uc	musculus	UBERON:0000711	musculus splenius capitis	related
-should_be_uc	musculus	UBERON:0000933	musculus pharyngis	related
-should_be_uc	musculus	UBERON:0000950	musculus gracilis	exact
-should_be_uc	musculus	UBERON:0001100	musculus pectoralis minor	related
-should_be_uc	musculus	UBERON:0001107	musculus sternohyoideus	related
-should_be_uc	musculus	UBERON:0001108	musculus omohyoideus	related
-should_be_uc	musculus	UBERON:0001109	musculus sternothyroideus	related
-should_be_uc	musculus	UBERON:0001110	musculus thyrohyoideus	related
-should_be_uc	musculus	UBERON:0001111	musculus intercostalis	exact
-should_be_uc	musculus	UBERON:0001112	musculus latissimus dorsi	exact
-should_be_uc	musculus	UBERON:0001112	musculus latissimus dorsi	related
-should_be_uc	musculus	UBERON:0001121	musculus longus colli	related
-should_be_uc	musculus	UBERON:0001122	musculus scalenus medius	exact
-should_be_uc	musculus	UBERON:0001122	musculus scalenus medius	related
-should_be_uc	musculus	UBERON:0001123	musculus scalenus posterior	exact
-should_be_uc	musculus	UBERON:0001123	musculus scalenus posterior	related
-should_be_uc	musculus	UBERON:0001125	musculus serratus anterior	related
-should_be_uc	musculus	UBERON:0001128	musculus sternocleidomastoideus	related
-should_be_uc	musculus	UBERON:0001129	musculus subscapularis	related
-should_be_uc	musculus	UBERON:0001221	musculus transversus abdominis	exact
-should_be_uc	musculus	UBERON:0001257	musculus trigoni vesicae profundus	exact
-should_be_uc	musculus	UBERON:0001326	musculus levator ani	exact
-should_be_uc	musculus	UBERON:0001327	musculus coccygeus	related
-should_be_uc	musculus	UBERON:0001327	musculus ischiococcygeus	exact
-should_be_uc	musculus	UBERON:0001339	musculus ishiocavernosus	exact
-should_be_uc	musculus	UBERON:0001367	musculus sphincter ani externus	exact
-should_be_uc	musculus	UBERON:0001368	musculus obturatorius externus	related
-should_be_uc	musculus	UBERON:0001369	musculus iliacus	related
-should_be_uc	musculus	UBERON:0001370	musculus gluteus maximus	related
-should_be_uc	musculus	UBERON:0001371	musculus gluteus medius	related
-should_be_uc	musculus	UBERON:0001373	musculus sartorius	related
-should_be_uc	musculus	UBERON:0001374	musculus biceps femoris	related
-should_be_uc	musculus	UBERON:0001375	musculus semitendinosus	related
-should_be_uc	musculus	UBERON:0001376	musculus tensor fasciae latae	exact
-should_be_uc	musculus	UBERON:0001377	musculus quadriceps femoris	related
-should_be_uc	musculus	UBERON:0001378	musculus rectos femoris	exact
-should_be_uc	musculus	UBERON:0001381	musculus semimembranosus	exact
-should_be_uc	musculus	UBERON:0001382	musculus pectineus	related
-should_be_uc	musculus	UBERON:0001385	musculus tibialis anterior	related
-should_be_uc	musculus	UBERON:0001386	musculus extensor digitorum longus	related
-should_be_uc	musculus	UBERON:0001387	musculus peroneus longus	exact
-should_be_uc	musculus	UBERON:0001388	musculus gastrocnemius	related
-should_be_uc	musculus	UBERON:0001391	musculus popliteus	related
-should_be_uc	musculus	UBERON:0001400	musculus accessorius	related
-should_be_uc	musculus	UBERON:0001401	musculus longissimus dorsi	exact
-should_be_uc	musculus	UBERON:0001401	musculus longissimus thoracis	exact
-should_be_uc	musculus	UBERON:0001402	musculus longissimus cervicis	related
-should_be_uc	musculus	UBERON:0001403	musculus longissimus capitis	related
-should_be_uc	musculus	UBERON:0001405	musculus spinalis dorsi	related
-should_be_uc	musculus	UBERON:0001405	musculus spinalis thoracis	related
-should_be_uc	musculus	UBERON:0001407	musculus semispinalis dorsi	related
-should_be_uc	musculus	UBERON:0001407	musculus semispinalis thoracis	related
-should_be_uc	musculus	UBERON:0001408	musculus semispinalis cervicis	related
-should_be_uc	musculus	UBERON:0001409	musculus semispinalis capitis	related
-should_be_uc	musculus	UBERON:0001476	musculus deltoideus	exact
-should_be_uc	musculus	UBERON:0001476	musculus deltoideus	related
-should_be_uc	musculus	UBERON:0001477	musculus infraspinatus	related
-should_be_uc	musculus	UBERON:0001478	musculus teres major	related
-should_be_uc	musculus	UBERON:0001505	musculus coracobrachialis	related
-should_be_uc	musculus	UBERON:0001506	musculus brachialis	related
-should_be_uc	musculus	UBERON:0001507	musculus biceps brachii	related
-should_be_uc	musculus	UBERON:0001509	musculus triceps brachii	related
-should_be_uc	musculus	UBERON:0001520	musculus pronator teres	related
-should_be_uc	musculus	UBERON:0001522	musculus flexor carpi ulnaris	related
-should_be_uc	musculus	UBERON:0001523	musculus flexor digitorum profundus	related
-should_be_uc	musculus	UBERON:0001524	musculus extensor carpi radialis longus	related
-should_be_uc	musculus	UBERON:0001525	musculus extensor carpi radialis brevis	exact
-should_be_uc	musculus	UBERON:0001526	musculus extensor carpi ulnaris	exact
-should_be_uc	musculus	UBERON:0001527	musculus abductor pollicis longus	related
-should_be_uc	musculus	UBERON:0001562	musculus digastricus	exact
-should_be_uc	musculus	UBERON:0001562	musculus digastricus	related
-should_be_uc	musculus	UBERON:0001563	musculus longus capitis	related
-should_be_uc	musculus	UBERON:0001564	musculus mylohyoideus	exact
-should_be_uc	musculus	UBERON:0001564	musculus mylohyoideus	related
-should_be_uc	musculus	UBERON:0001565	musculus geniohyoideus	related
-should_be_uc	musculus	UBERON:0001566	musculus cricothyroideus	exact
-should_be_uc	musculus	UBERON:0001570	musculus constrictor pharyngis inferior	exact
-should_be_uc	musculus	UBERON:0001570	musculus constrictor pharyngis inferior	related
-should_be_uc	musculus	UBERON:0001571	musculus genioglossus	exact
-should_be_uc	musculus	UBERON:0001573	musculus styloglossus	related
-should_be_uc	musculus	UBERON:0001574	musculus palatoglossus	related
-should_be_uc	musculus	UBERON:0001578	musculus orbicularis oculi	related
-should_be_uc	musculus	UBERON:0001580	musculus levator labii superioris	related
-should_be_uc	musculus	UBERON:0001582	musculus buccinator	exact
-should_be_uc	musculus	UBERON:0001582	musculus buccinator	related
-should_be_uc	musculus	UBERON:0001597	musculus masseter	related
-should_be_uc	musculus	UBERON:0001598	musculus temporalis	exact
-should_be_uc	musculus	UBERON:0001598	musculus temporalis	related
-should_be_uc	musculus	UBERON:0001599	musculus stapedius	related
-should_be_uc	musculus	UBERON:0001600	musculus tensor tympani	related
-should_be_uc	musculus	UBERON:0001602	musculus rectus medialis	exact
-should_be_uc	musculus	UBERON:0001602	musculus rectus medialis bulbi	related
-should_be_uc	musculus	UBERON:0001603	musculus rectus lateralis	exact
-should_be_uc	musculus	UBERON:0001603	musculus rectus lateralis bulbi	related
-should_be_uc	musculus	UBERON:0001605	musculus ciliaris	related
-should_be_uc	musculus	UBERON:0001605	musculus ciliarus	exact
-should_be_uc	musculus	UBERON:0001607	musculus sphincter pupillae	exact
-should_be_uc	musculus	UBERON:0001608	musculus dilatator pupillae	exact
-should_be_uc	musculus	UBERON:0001608	musculus dilatator pupillae	related
-should_be_uc	musculus	UBERON:0001608	musculus dilator pupillae	related
-should_be_uc	musculus	UBERON:0001665	musculus triceps surae	related
-should_be_uc	musculus	UBERON:0001667	musculus tibialis posterior	related
-should_be_uc	musculus	UBERON:0001999	musculus iliopsoas	related
-should_be_uc	musculus	UBERON:0002251	musculus iliocostalis	exact
-should_be_uc	musculus	UBERON:0002376	musculus caput	exact
-should_be_uc	musculus	UBERON:0002380	musculus trapezius	related
-should_be_uc	musculus	UBERON:0002382	musculus rectus abdominis	exact
-should_be_uc	musculus	UBERON:0002383	musculus supraspinatus	exact
-should_be_uc	musculus	UBERON:0002426	musculus thoracicus	exact
-should_be_uc	musculus	UBERON:0002494	musculus papillaris	related
-should_be_uc	musculus	UBERON:0002962	musculus adductor pollicis	related
-should_be_uc	musculus	UBERON:0002989	musculus anconaeus	exact
-should_be_uc	musculus	UBERON:0002989	musculus anconeus	exact
-should_be_uc	musculus	UBERON:0003222	musculus flexor digitorum superficialis	related
-should_be_uc	musculus	UBERON:0003228	musculus supinator	related
-should_be_uc	musculus	UBERON:0003234	musculus extensor pollicis longus	related
-should_be_uc	musculus	UBERON:0003250	musculus rectus capitis lateralis	exact
-should_be_uc	musculus	UBERON:0004915	musculus sphincter ampullae	exact
-should_be_uc	musculus	UBERON:0004915	musculus sphincter ampullae hepatopancreatica	exact
-should_be_uc	musculus	UBERON:0004918	musculus sphincter supracollicularis	exact
-should_be_uc	musculus	UBERON:0004918	musculus sphincter urethrae internus	exact
-should_be_uc	musculus	UBERON:0004918	musculus sphincter urethrae internus	related
-should_be_uc	musculus	UBERON:0004919	musculus sphincter urethrae membranaceae	related
-should_be_uc	musculus	UBERON:0005090	musculus	exact
-should_be_uc	musculus	UBERON:0005454	musculus obliquus internus abdominis	related
-should_be_uc	musculus	UBERON:0005461	musculus levator scapulae	related
-should_be_uc	musculus	UBERON:0005621	musculus rhomboideus	related
-should_be_uc	musculus	UBERON:0005980	musculus pectinatus	exact
-should_be_uc	musculus	UBERON:0006318	musculus orbitalis	exact
-should_be_uc	musculus	UBERON:0006318	musculus orbitalis	related
-should_be_uc	musculus	UBERON:0006320	musculus obliquus inferior	exact
-should_be_uc	musculus	UBERON:0006320	musculus obliquus inferior bulbi	exact
-should_be_uc	musculus	UBERON:0006320	musculus obliquus inferior bulbi	related
-should_be_uc	musculus	UBERON:0006321	musculus obliquus superior	exact
-should_be_uc	musculus	UBERON:0006321	musculus obliquus superior bulbi	related
-should_be_uc	musculus	UBERON:0006322	musculus rectus inferior	exact
-should_be_uc	musculus	UBERON:0006322	musculus rectus inferior bulbi	related
-should_be_uc	musculus	UBERON:0006323	musculus rectus superior	exact
-should_be_uc	musculus	UBERON:0006323	musculus rectus superior bulbi	related
-should_be_uc	musculus	UBERON:0006329	musculus constrictor pharyngis superior	exact
-should_be_uc	musculus	UBERON:0006329	musculus constrictor pharyngis superior	related
-should_be_uc	musculus	UBERON:0006718	musculus pterygoideus internus	exact
-should_be_uc	musculus	UBERON:0006718	musculus pterygoideus medialis	exact
-should_be_uc	musculus	UBERON:0006719	musculus pterygoides lateralis	exact
-should_be_uc	musculus	UBERON:0006719	musculus pterygoideus externus	exact
-should_be_uc	musculus	UBERON:0006719	musculus pterygoideus lateralis	exact
-should_be_uc	musculus	UBERON:0007168	caput longum (musculus biceps brachii)	exact
-should_be_uc	musculus	UBERON:0007168	caput longum musculus bicipitis brachii	exact
-should_be_uc	musculus	UBERON:0007169	caput breve musculus bicipitis brachii	exact
-should_be_uc	musculus	UBERON:0007612	musculus extensor digitorum	related
-should_be_uc	musculus	UBERON:0007614	musculus extensor digiti minimi	related
-should_be_uc	musculus	UBERON:0008428	musculus ceratoglossus	exact
-should_be_uc	musculus	UBERON:0008446	musculus flexor pollicis longus	related
-should_be_uc	musculus	UBERON:0008453	musculus rectus capitis anterior	related
-should_be_uc	musculus	UBERON:0008454	musculus rectus capitis posterior major	related
-should_be_uc	musculus	UBERON:0008455	musculus rectus capitis posterior minor	related
-should_be_uc	musculus	UBERON:0008464	musculus abductor hallucis	related
-should_be_uc	musculus	UBERON:0008465	musculus abductor pollicis brevis	related
-should_be_uc	musculus	UBERON:0008488	musculus cremaster	related
-should_be_uc	musculus	UBERON:0008488	musculus cremaster <male>	exact
-should_be_uc	musculus	UBERON:0008521	musculus gluteus minimus	related
-should_be_uc	musculus	UBERON:0008523	musculus infrahyoideus	exact
-should_be_uc	musculus	UBERON:0008529	musculus piriformis	related
-should_be_uc	musculus	UBERON:0008537	musculus quadratus femoris	related
-should_be_uc	musculus	UBERON:0008544	musculus splenius cervicis	related
-should_be_uc	musculus	UBERON:0008572	musculus cricoarytenoideus posterior	related
-should_be_uc	musculus	UBERON:0008573	musculus cricoarytenoideus lateralis	related
-should_be_uc	musculus	UBERON:0008576	musculus thyroarytenoideus	related
-should_be_uc	musculus	UBERON:0008577	musculus vocalis	related
-should_be_uc	musculus	UBERON:0008582	musculus longitudinalis superior	exact
-should_be_uc	musculus	UBERON:0008582	musculus longitudinalis superior linguae	related
-should_be_uc	musculus	UBERON:0008583	musculus transversus linguae	related
-should_be_uc	musculus	UBERON:0008584	musculus verticalis linguae	related
-should_be_uc	musculus	UBERON:0008585	musculus levator veli palatini	related
-should_be_uc	musculus	UBERON:0008586	musculus tensor veli palatini	related
-should_be_uc	musculus	UBERON:0008588	musculus procerus glabellae	related
-should_be_uc	musculus	UBERON:0008589	musculus depressor septi nasi	related
-should_be_uc	musculus	UBERON:0008591	musculus depressor supercilii	related
-should_be_uc	musculus	UBERON:0008592	musculus levator labii superioris alaequae nasi	related
-should_be_uc	musculus	UBERON:0008593	musculus zygomaticus major	related
-should_be_uc	musculus	UBERON:0008594	musculus quadratus labii superioris, zygomatic head	exact
-should_be_uc	musculus	UBERON:0008594	musculus zygomaticus minor	exact
-should_be_uc	musculus	UBERON:0008595	musculus levator anguli oris	related
-should_be_uc	musculus	UBERON:0008596	musculus mentalis	exact
-should_be_uc	musculus	UBERON:0008597	musculus depressor anguli oris	related
-should_be_uc	musculus	UBERON:0008598	musculus risorius	exact
-should_be_uc	musculus	UBERON:0008603	musculus helicis major	exact
-should_be_uc	musculus	UBERON:0008604	musculus helicis minor	related
-should_be_uc	musculus	UBERON:0008605	musculus tragicus	related
-should_be_uc	musculus	UBERON:0008606	musculus antitragicus	related
-should_be_uc	musculus	UBERON:0008607	musculus transversus auriculae	related
-should_be_uc	musculus	UBERON:0008608	musculus obliquus auriculae	related
-should_be_uc	musculus	UBERON:0008609	musculus transversus menti	related
-should_be_uc	musculus	UBERON:0008617	musculus intercostalis intimus	related
-should_be_uc	musculus	UBERON:0008618	musculus subcostalis	related
-should_be_uc	musculus	UBERON:0008622	musculus scalenus anterior	related
-should_be_uc	musculus	UBERON:0008712	musculus stylohyoideus	related
-should_be_uc	musculus	UBERON:0008779	musculus subclavius	related
-should_be_uc	musculus	UBERON:0008804	musculus stylopharyngeus	related
-should_be_uc	musculus	UBERON:0010234	musculus palatopharyngeus	related
-should_be_uc	musculus	UBERON:0010235	musculus uvulae	related
-should_be_uc	musculus	UBERON:0010235	musculus uvulae muscle	related
-should_be_uc	musculus	UBERON:0010271	musculus retractor bulbi	label
-should_be_uc	musculus	UBERON:0010379	musculus tarsalis superior	related
-should_be_uc	musculus	UBERON:0010496	musculus teres minor	related
-should_be_uc	musculus	UBERON:0010524	musculus peroneus tertius	exact
-should_be_uc	musculus	UBERON:0010526	musculus peroneus brevis	exact
-should_be_uc	musculus	UBERON:0010749	musculus constrictor pharyngis medius	exact
-should_be_uc	musculus	UBERON:0010749	musculus constrictor pharyngis medius	related
-should_be_uc	musculus	UBERON:0010927	pars thyroepiglottica (musculus thyroarytenoideus)	exact
-should_be_uc	musculus	UBERON:0010927	pars thyroepiglottica musculus thyroarytenoidei	exact
-should_be_uc	musculus	UBERON:0010928	musculus cricopharyngeus	exact
-should_be_uc	musculus	UBERON:0010928	pars cricopharyngea (musculus constrictor pharyngis inferior)	exact
-should_be_uc	musculus	UBERON:0010928	pars cricopharyngea musculus constrictoris pharyngis inferioris	exact
-should_be_uc	musculus	UBERON:0010933	musculus orbicularis oris	related
-should_be_uc	musculus	UBERON:0010936	musculus thyropharyngeus	exact
-should_be_uc	musculus	UBERON:0010936	pars thyropharyngea (musculus constrictor pharyngis inferior)	exact
-should_be_uc	musculus	UBERON:0010936	pars thyropharyngea musculus constrictoris pharyngis inferioris	exact
-should_be_uc	musculus	UBERON:0010937	musculus salpingopharyngeus	related
-should_be_uc	musculus	UBERON:0010940	musculus digastricus	related
-should_be_uc	musculus	UBERON:0010943	venter anterior (musculus digastricus)	exact
-should_be_uc	musculus	UBERON:0010943	venter posterior musculus digastrici anterior	exact
-should_be_uc	musculus	UBERON:0010944	venter posterior musculus digastrici	exact
-should_be_uc	musculus	UBERON:0010945	musculus jugulohyoideus	related
-should_be_uc	musculus	UBERON:0010945	musculus occipitohyoideus	related
-should_be_uc	musculus	UBERON:0010946	musculus occipitofrontalis	related
-should_be_uc	musculus	UBERON:0010947	venter occipitalis (musculus occipitofrontalis)	exact
-should_be_uc	musculus	UBERON:0010947	venter transversa musculus occipitofrontalis occipitalis	exact
-should_be_uc	musculus	UBERON:0010951	musculus interscutularis	exact
-should_be_uc	musculus	UBERON:0010952	venter frontalis (musculus occipitofrontalis)	exact
-should_be_uc	musculus	UBERON:0010952	venter frontalis musculus occipitofrontalis	exact
-should_be_uc	musculus	UBERON:0010953	musculus nasalis	related
-should_be_uc	musculus	UBERON:0010956	pars pterygopharyngea (musculus constrictor pharyngis superior)	exact
-should_be_uc	musculus	UBERON:0010956	pars pterygopharyngea musculus constrictoris pharyngis superioris	exact
-should_be_uc	musculus	UBERON:0010995	pars profunda (musculus masseter)	exact
-should_be_uc	musculus	UBERON:0010995	pars profunda musculus masseterica	exact
-should_be_uc	musculus	UBERON:0011011	musculus brachioradialis	related
-should_be_uc	musculus	UBERON:0011012	musculus flexor pollicis brevis	related
-should_be_uc	musculus	UBERON:0011013	musculus spinalis	related
-should_be_uc	musculus	UBERON:0011014	musculus spinalis capitis	related
-should_be_uc	musculus	UBERON:0011016	musculus pyramidalis	related
-should_be_uc	musculus	UBERON:0011022	musculus flexor hallucis brevis	related
-should_be_uc	musculus	UBERON:0011025	musculus aryepiglotticus	related
-should_be_uc	musculus	UBERON:0011025	pars aryepiglottica (musculus arytenoideus obliquus)	exact
-should_be_uc	musculus	UBERON:0011025	pars aryepiglottica musculus arytenoidei obliqui	exact
-should_be_uc	musculus	UBERON:0011048	musculus obturator internus	exact
-should_be_uc	musculus	UBERON:0011048	musculus obturatorius internus	related
-should_be_uc	musculus	UBERON:0011140	pars profunda musculus masseterica superficialis	exact
-should_be_uc	musculus	UBERON:0011140	pars superficialis (musculus masseter)	exact
-should_be_uc	musculus	UBERON:0011218	musculus spinalis cervicis	related
-should_be_uc	musculus	UBERON:0011219	musculus longissimus lumborum	related
-should_be_uc	musculus	UBERON:0011251	musculus levator claviculae	exact
-should_be_uc	musculus	UBERON:0011379	musculus sphincter urethrae externus (Urethra masculina)	exact
-should_be_uc	musculus	UBERON:0011379	musculus sphincter urethrae externus urethrae masculinae	exact
-should_be_uc	musculus	UBERON:0011379	musculus sphincter urethrae membranaceae	exact
-should_be_uc	musculus	UBERON:0011380	musculus sphincter urethrae externus (Urethra feminina))	exact
-should_be_uc	musculus	UBERON:0011380	musculus sphincter urethrae externus urethrae femininae	exact
-should_be_uc	musculus	UBERON:0011389	musculus bulbospongiosus	exact
-should_be_uc	musculus	UBERON:0011511	musculus iliococcygeus	exact
-should_be_uc	musculus	UBERON:0011528	musculus pubococcygeus	exact
-should_be_uc	musculus	UBERON:0011528	musculus pubovaginalis	exact
-should_be_uc	musculus	UBERON:0011531	musculus levator prostatae	exact
-should_be_uc	musculus	UBERON:0011535	musculus chondroglossus	related
-should_be_uc	musculus	UBERON:0011905	musculus plantaris	exact
-should_be_uc	musculus	UBERON:0011906	caput (musculus)	exact
-should_be_uc	musculus	UBERON:0011907	caput mediale (musculus gastrocnemius)	exact
-should_be_uc	musculus	UBERON:0011907	caput mediale musculus gastrocnemii	exact
-should_be_uc	musculus	UBERON:0011908	caput laterale (musculus gastrocnemius)	exact
-should_be_uc	musculus	UBERON:0011908	caput laterale musculus gastrocnemii	exact
-should_be_uc	musculus	UBERON:0011909	musculus gastrocnemius internus	exact
-should_be_uc	musculus	UBERON:0011910	musculus gastrocnemius externus	exact
-should_be_uc	musculus	UBERON:0014380	musculus flexor digitorum brevis	exact
-should_be_uc	musculus	UBERON:0014784	musculus transversus cloacae	exact
-should_be_uc	musculus	UBERON:0014785	musculus levator cloacae	exact
-should_be_uc	musculus	UBERON:0014785	musculus retractor phalli caudalis	exact
-should_be_uc	musculus	UBERON:0014847	musculus vastus intermedius	related
-should_be_uc	musculus	UBERON:0016493	musculus palmaris longus	exact
-should_be_uc	musculus	UBERON:0018103	fasciculus posterior (musculus palatopharyngeus)	exact
-should_be_uc	musculus	UBERON:0018103	fasciculus posterior musculus palatopharyngei	exact
-should_be_uc	musculus	UBERON:0018103	musculus sphincter palatopharyngeus	exact
-should_be_uc	musculus	UBERON:0019202	musculus gemellus inferior	exact
-should_be_uc	musculus	UBERON:0019203	musculus gemellus superior	exact
-should_be_uc	musculus	UBERON:3010125	musculus levator bulbi	label
-should_be_uc	musculus	UBERON:3010792	musculus rectus abdominis profundus	label
 should_be_uc	mycobacterium	HP:0011275	Recurrent mycobacterium avium complex infections	label
 should_be_uc	neisserial	HP:0005430	Episodes of neisserial infection	exact
 should_be_uc	noback	UBERON:0002724	gyrus ambiens (noback)	exact
@@ -2019,16 +1314,44 @@ should_be_uc	ongur	UBERON:0028436	ongur, price, and ferry (2003) area 9	exact
 should_be_uc	ongur	UBERON:0028437	ongur, price, and ferry (2003) area 10l	exact
 should_be_uc	ongur	UBERON:0028439	ongur, price, and ferry (2003) area iapm	exact
 should_be_uc	ongur	UBERON:0028440	ongur, price, and ferry (2003) area aon	exact
+should_be_uc	pacinian	MP:0000988	abnormal pacinian corpuscle morphology	label
 should_be_uc	pacinian	UBERON:0003719	pacinian body	related
 should_be_uc	pacinian	UBERON:0003719	pacinian corpuscle	related
 should_be_uc	pacinian	UBERON:0003719	pacinian corpuscle end-organs	related
 should_be_uc	pacinian	UBERON:0003719	pacinian corpuscles	related
+should_be_uc	palm	DOID:4398	pustulosis of palm and sole	label
+should_be_uc	palm	ENVO:00000120	oil palm plantation	label
+should_be_uc	palm	HP:0001169	Broad palm	label
+should_be_uc	palm	HP:0001169	Wide palm	exact
+should_be_uc	palm	HP:0004279	Short palm	label
+should_be_uc	palm	HP:0004283	Narrow palm	label
+should_be_uc	palm	HP:0006114	Multiple palm lines	exact
+should_be_uc	palm	HP:0006156	Curved thumb deviated towards palm	broad
+should_be_uc	palm	HP:0006184	Shallow palm line	exact
+should_be_uc	palm	HP:0006191	Deep palm line	exact
+should_be_uc	palm	HP:0007501	Streaks of hyperkeratosis along each finger onto the palm	label
+should_be_uc	palm	HP:0010488	Absent/small palm crease	exact
+should_be_uc	palm	HP:0010488	Absent/underdeveloped palm crease	exact
+should_be_uc	palm	HP:0010489	Absent palm lines	exact
+should_be_uc	palm	HP:0010490	Abnormality of the palm lines	exact
+should_be_uc	palm	HP:0011302	Long palm	label
+should_be_uc	palm	HP:0011310	Bridged palm line	exact
+should_be_uc	palm	HP:0040211	Abnormality of the skin of the palm	label
+should_be_uc	palm	HP:0100871	Abnormality of the palm	label
+should_be_uc	palm	UBERON:0008878	palm	exact
+should_be_uc	palm	UBERON:0008878	palm of hand	exact
+should_be_uc	palm	UBERON:0013777	skin of palm of manus	label
+should_be_uc	palm	UBERON:0014391	palm sweat gland	narrow
+should_be_uc	palm	UBERON:0014391	palm/sole sweat gland	related
+should_be_uc	palm	UBERON:0014392	palm sweat	exact
+should_be_uc	palm	UBERON:0014392	sweat of palm	label
+should_be_uc	palm	UBERON:0017716	thenar part of palm	exact
+should_be_uc	palm	UBERON:0017717	hypothenar part of palm	exact
 should_be_uc	paxinos	UBERON:0023927	subbrachial nucleus of mouse of franklin and paxinos 2008	exact
 should_be_uc	per	HP:0000117	Decreased tubular maximum for phosphate reabsorption per glomerular filtration rate	exact
 should_be_uc	per	HP:0000117	Decreased tubular maximum for phosphate reabsorption per glomerular filtration rate (TMP/GFR)	exact
 should_be_uc	peyer	UBERON:0004693	peyer's patch epithelium	exact
 should_be_uc	peyer	UBERON:0010386	peyer's patch follicle	exact
-should_be_uc	prco	UBERON:0028426	ongur, price, and ferry (2003) area prco	exact
 should_be_uc	price	UBERON:0002590	piriform cortex (price)	exact
 should_be_uc	price	UBERON:0026777	ongur, price, and ferry (2003) prefrontal cortical areas	related
 should_be_uc	price	UBERON:0026777	ongur, price, and ferry (2003) prefrontal cortical parcellation scheme	related
@@ -2062,9 +1385,6 @@ should_be_uc	price	UBERON:0028436	ongur, price, and ferry (2003) area 9	exact
 should_be_uc	price	UBERON:0028437	ongur, price, and ferry (2003) area 10l	exact
 should_be_uc	price	UBERON:0028439	ongur, price, and ferry (2003) area iapm	exact
 should_be_uc	price	UBERON:0028440	ongur, price, and ferry (2003) area aon	exact
-should_be_uc	pure	DOID:1340	pure red-cell aplasia	label
-should_be_uc	pure	DOID:4087	testicular pure germ cell tumor	label
-should_be_uc	purkinje	UBERON:0002354	purkinje fiber	label
 should_be_uc	rasmussen	UBERON:0002775	olivocochlear bundle of rasmussen	exact
 should_be_uc	refsum	DOID:0050444	infantile refsum disease	label
 should_be_uc	reil	UBERON:0002713	circular sulcus (of reil)	exact
@@ -2074,14 +1394,6 @@ should_be_uc	reil	UBERON:0002713	island of reil marginal sulcus	exact
 should_be_uc	reil	UBERON:0002713	marginal branch of cingulate sulcus of island of reil	exact
 should_be_uc	reil	UBERON:0002713	marginal ramus of cingulate sulcus of island of reil	exact
 should_be_uc	reil	UBERON:0002713	marginal sulcus of island of reil	exact
-should_be_uc	rest	DOID:1786	adrenal rest tumor	label
-should_be_uc	rest	GO:0014893	response to rest involved in regulation of muscle adaptation	label
-should_be_uc	rest	HP:0002322	Tremor at rest	exact
-should_be_uc	rest	HP:0005941	Intermittent hyperpnea at rest	label
-should_be_uc	rest	HP:0012782	Perilobar nephrogenic rest	label
-should_be_uc	rest	HP:0012783	Intralobar nephrogenic rest	label
-should_be_uc	rest	HP:0100283	EMG: continuous motor unit activity at rest	label
-should_be_uc	rest	HP:0100880	Nephrogenic rest	label
 should_be_uc	retzius	UBERON:0003992	foramen of key and retzius	exact
 should_be_uc	rexed	UBERON:0002181	rexed lamina II	exact
 should_be_uc	rexed	UBERON:0004677	rexed lamina X	exact
@@ -2096,12 +1408,21 @@ should_be_uc	rexed	UBERON:0016577	rexed lamina VI	exact
 should_be_uc	rexed	UBERON:0016578	rexed lamina VII	exact
 should_be_uc	rexed	UBERON:0016579	rexed lamina VIII	exact
 should_be_uc	rexed	UBERON:0016580	rexed lamina IX	exact
+should_be_uc	rift	ENVO:00000203	rift lake	label
+should_be_uc	rift	ENVO:00000302	rift valley	label
 should_be_uc	rioch	UBERON:0001923	central medial nucleus thalamus (rioch 1928)	exact
 should_be_uc	roberts	UBERON:0001879	olfactory area (roberts)	exact
 should_be_uc	roberts	UBERON:0002693	inferior temporal sulcus (roberts)	exact
 should_be_uc	robin	HP:0000201	Pierre-robin anomaly	exact
 should_be_uc	robin	HP:0000201	Pierre-robin deformity	exact
 should_be_uc	robin	HP:0000201	Pierre-robin malformation	exact
+should_be_uc	rocky	ENVO:00000173	rocky desert	label
+should_be_uc	rocky	ENVO:00000348	grain of rocky sand	label
+should_be_uc	rocky	ENVO:00005799	rocky sand	label
+should_be_uc	rocky	ENVO:01000050	marine subtidal rocky reef biome	label
+should_be_uc	rocky	ENVO:01000150	marine subtidal rocky reef	label
+should_be_uc	rocky	ENVO:01000319	rocky slope	label
+should_be_uc	rocky	ENVO:01000428	rocky shore	label
 should_be_uc	roller	UBERON:0002881	nucleus of roller	exact
 should_be_uc	roller	UBERON:0002881	nucleus of roller	related
 should_be_uc	roller	UBERON:0002993	inferior central nucleus (of roller)	exact
@@ -2111,11 +1432,7 @@ should_be_uc	rosenmuller	UBERON:0015895	rosenmuller's gland	exact
 should_be_uc	rosenmuller	UBERON:0015895	rosenmuller's node	exact
 should_be_uc	rosenthal	UBERON:0035530	basal vein of rosenthal	exact
 should_be_uc	rosenthal	UBERON:0035530	rosenthal's vein	exact
-should_be_uc	rubisco	GO:0016984	rubisco activity	exact
-should_be_uc	rubisco	GO:0046863	rubisco activase activity	exact
-should_be_uc	rubisco	GO:0046863	rubisco activator	exact
 should_be_uc	ruffini	UBERON:0012457	corpuscle of ruffini	related
-should_be_uc	rump	UBERON:0005473	rump	narrow
 should_be_uc	russell	UBERON:0003044	russell's fasciculus	related
 should_be_uc	santorini	UBERON:0005429	accessory pancreatic duct of santorini	related
 should_be_uc	santorini	UBERON:0005429	pancreatic duct of santorini	related
@@ -2123,46 +1440,44 @@ should_be_uc	scarpa	UBERON:0003723	scarpa ganglion	related
 should_be_uc	scarpa	UBERON:0003723	scarpa's ganglion	related
 should_be_uc	scarpa	UBERON:0008809	foramina of scarpa	label
 should_be_uc	scarpa	UBERON:0008809	foramina of scarpa	related
-should_be_uc	scarpa	UBERON:0013705	fascia of scarpa	related
 should_be_uc	schardinger	GO:0004855	schardinger enzyme	related
 should_be_uc	schardinger	GO:0070675	schardinger enzyme	related
-should_be_uc	schwalbe	UBERON:0001722	nucleus of schwalbe	exact
-should_be_uc	schwalbe	UBERON:0001722	schwalbe's nucleus	exact
 should_be_uc	schwannian	DOID:5194	intermixed schwannian stroma-rich ganglioneuroblastoma	label
 should_be_uc	servelle	HP:0100885	Vein of servelle	exact
 should_be_uc	sharpey	HP:0100686	Inflammation of sharpey fibers	exact
 should_be_uc	skene	DOID:7284	skene gland carcinoma	label
-should_be_uc	skene	UBERON:0000461	skene's gland	related
 should_be_uc	sommer	UBERON:0023932	sommer's sector	exact
+should_be_uc	staderini	UBERON:0014734	nucleus intercalatus (staderini)	related
 should_be_uc	stensen	HP:0000198	Absent stensen duct	exact
 should_be_uc	stensen	HP:0000198	Agenesis of stensen duct	narrow
 should_be_uc	stensen	HP:0000198	Failure of development of stensen duct	exact
 should_be_uc	stensen	HP:0000198	Missing stensen duct	exact
+should_be_uc	sterile	ENVO:00005791	sterile water	label
 should_be_uc	sylvian	HP:0100952	Enlarged sylvian cistern	label
 should_be_uc	sylvian	HP:0100952	Enlarged sylvian fissure	exact
-should_be_uc	sylvian	UBERON:0001627	sylvian artery	exact
 should_be_uc	sylvian	UBERON:0002669	horizontal ramus of sylvian fissure	exact
 should_be_uc	sylvian	UBERON:0002670	ascending ramus of sylvian fissure	exact
 should_be_uc	sylvian	UBERON:0002910	ascending terminal ramus of sylvian fissure	exact
 should_be_uc	sylvian	UBERON:0002910	terminal ascending limb of sylvian fissure	related
-should_be_uc	sylvian	UBERON:0011155	sylvian cistern	label
 should_be_uc	sylvian	UBERON:0013462	sylvian point	label
-should_be_uc	sylvian	UBERON:0035231	sylvian vein	exact
 should_be_uc	sylvii	UBERON:0002669	ramus horizontalis fissurae sylvii	related
 should_be_uc	sylvii	UBERON:0002670	ramus verticalis fissurae sylvii	related
 should_be_uc	sylvii	UBERON:0002721	fissura lateralis cerebri (sylvii)	exact
-should_be_uc	tootell	UBERON:0026775	tootell and hadjikhani (2001) loc/lop complex	exact
+should_be_uc	tootell	UBERON:0026775	tootell and Hadjikhani (2001) loc/lop complex	exact
 should_be_uc	turck	UBERON:0002760	anterior tract of turck	exact
-should_be_uc	turner	UBERON:0002683	rhinal fissuer (turner, rezius)	exact
+should_be_uc	turkey	ENVO:02000071	turkey meat product	label
 should_be_uc	usher	GO:0015473	fimbrial usher porin activity	label
-should_be_uc	uvrc	GO:0043848	uvrc homolog protein	related
-should_be_uc	valva	UBERON:0000569	valva ileocaecalis	related
-should_be_uc	valva	UBERON:0000569	valva ileocaecalis (valva ilealis)	exact
-should_be_uc	valva	UBERON:0002134	valva atrioventricularis dextra	exact
-should_be_uc	valva	UBERON:0002135	valva atrioventricularis sinistra	exact
-should_be_uc	valva	UBERON:0002135	valva mitralis	related
-should_be_uc	valva	UBERON:0002137	valva aortae	related
-should_be_uc	valva	UBERON:0002146	valva trunci pulmonalis	related
+should_be_uc	valley	ENVO:00000100	valley	label
+should_be_uc	valley	ENVO:00000128	dry valley	label
+should_be_uc	valley	ENVO:00000129	stream valley	label
+should_be_uc	valley	ENVO:00000171	river valley	label
+should_be_uc	valley	ENVO:00000184	hanging valley	label
+should_be_uc	valley	ENVO:00000248	glacial valley	label
+should_be_uc	valley	ENVO:00000302	rift valley	label
+should_be_uc	valley	ENVO:00000436	tunnel valley	label
+should_be_uc	valley	ENVO:00000458	valley glacier	label
+should_be_uc	valley	ENVO:0010162	dry stream valley	label
+should_be_uc	valley	ENVO:0010163	dry river valley	label
 should_be_uc	van	UBERON:0002608	nucleus dorsooralis (van buren)	exact
 should_be_uc	van	UBERON:0002978	nucleus ventrooralis externus, anterior part (van buren)	exact
 should_be_uc	varolius	UBERON:0002573	pons of varolius reticular formation	exact
@@ -2179,31 +1494,8 @@ should_be_uc	vater	DOID:10022	ampulla of vater neoplasm	label
 should_be_uc	vater	UBERON:0003719	vater-pacini corpuscle	related
 should_be_uc	vater	UBERON:0003719	vater-pacini corpuscles	related
 should_be_uc	vater	UBERON:0004915	sphincter of ampulla of vater	exact
-should_be_uc	vertebrata	UBERON:0002101	limb sensu vertebrata	exact
 should_be_uc	vogt	UBERON:0001922	parafascicular nucleus (vogt)	exact
 should_be_uc	volkmann	UBERON:0014730	volkmann's vessel	related
-should_be_uc	von	DOID:12531	von Willebrand's disease	label
-should_be_uc	von	DOID:14175	von Hippel-Lindau disease	label
-should_be_uc	von	DOID:5225	von Economo's disease	label
-should_be_uc	von	GO:0030891	von Hippel-Lindau tumor suppressor complex	exact
-should_be_uc	von	HP:0008330	Decreased von willebrand factor activity	exact
-should_be_uc	von	HP:0008330	Reduced von Willebrand factor activity	label
-should_be_uc	von	HP:0012146	Abnormality of von Willebrand factor	label
-should_be_uc	von	HP:0012147	Decreased von Willebrand factor	related
-should_be_uc	von	HP:0030130	Impaired von Willibrand factor collagen binding activity	label
-should_be_uc	von	HP:0030131	Abnormal von Willebrand Factor multimer distribution	label
-should_be_uc	von	HP:0030132	Absence of large von Willibrand factor multimers	label
-should_be_uc	von	HP:0030133	Abnormal presence of ultra-large von Willebrand Factor multimers	label
-should_be_uc	von	HP:0030134	Total absence von Willebrand Factor multimers	label
-should_be_uc	von	HP:0030135	Absence of intermediate von Willibrand factor multimers	label
-should_be_uc	von	HP:0040225	Decrease in High molecular weight von Willebrand Factor Multimers	label
-should_be_uc	von	UBERON:0002143	von Gudden's nucleus	exact
-should_be_uc	von	UBERON:0002676	von Gudden's commissure	exact
-should_be_uc	von	UBERON:0006698	von Gudden's tract	exact
-should_be_uc	von	UBERON:0013475	von Ebner gland	exact
-should_be_uc	von	UBERON:0013475	von Ebner's gland	exact
-should_be_uc	von	UBERON:0017639	marginal sinus of von Szily	exact
-should_be_uc	von	UBERON:0017639	sinus of von Szily	label
 should_be_uc	wade	UBERON:0026776	press, brewer, dougherty, wade and wandell (2001) visuotopic area v7	exact
 should_be_uc	waldeyer	UBERON:0006118	layer of waldeyer	exact
 should_be_uc	walker	HP:0001305	Dandy-walker anomaly	exact
@@ -2216,10 +1508,15 @@ should_be_uc	warburg	GO:1904960	positive regulation of warburg's respiratory enz
 should_be_uc	warburg	GO:1904960	up regulation of warburg's respiratory enzyme activity	related
 should_be_uc	warburg	GO:1904960	up-regulation of warburg's respiratory enzyme activity	related
 should_be_uc	warburg	GO:1904960	upregulation of warburg's respiratory enzyme activity	related
-should_be_uc	westphal	UBERON:0002141	edinger-westphal nucleus	exact
+should_be_uc	western	ENVO:01000103	western boundary current	label
 should_be_uc	willebrand	HP:0008330	Decreased von willebrand factor activity	exact
 should_be_uc	winslow	UBERON:0012442	foramen of winslow	related
+should_be_uc	wood	ENVO:00002040	wood	label
+should_be_uc	wood	ENVO:00002135	treated wood	label
+should_be_uc	wood	ENVO:00002136	arsenate treated wood	label
+should_be_uc	wood	ENVO:00005783	leafy wood soil	label
+should_be_uc	wood	ENVO:01000142	wood fall	label
+should_be_uc	xeric	ENVO:01000218	xeric shrubland biome	label
 should_be_uc	zinn	HP:0012628	Abnormality of zinn's membrane	exact
 should_be_uc	zinn	HP:0012628	Zonule of zinn abnormality	exact
-should_be_uc	zuckerkandl	UBERON:0001237	paraganglia of zuckerkandl	related
 should_be_uc	zwischenferment	GO:0004345	zwischenferment	related
